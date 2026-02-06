@@ -119,6 +119,8 @@ def get_icon_path(item_id: str, *, enable_icons: bool = True, allow_download: bo
         return IconResult(None, "none", "not found in items map")
 
     skin = it.get("skin")
+    if isinstance(skin, dict):
+        skin = skin.get("value")
     if not isinstance(skin, str) or not skin.strip():
         return IconResult(None, "none", "no skin")
 

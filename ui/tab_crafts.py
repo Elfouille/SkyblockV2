@@ -5,12 +5,14 @@ from pathlib import Path
 from typing import Dict, List, Tuple, Optional
 
 from PySide6.QtCore import Qt, QRunnable, QThreadPool, Signal, QObject
+from PySide6.QtGui import QBrush, QColor, QIcon
 from PySide6.QtWidgets import (
     QWidget, QVBoxLayout, QHBoxLayout, QPushButton, QLabel, QLineEdit,
     QTreeWidget, QTreeWidgetItem, QFileDialog, QMessageBox
 )
 
-from common import CACHE_DIR, fmt_num, norm_item_id, load_json
+from common import CACHE_DIR, fmt_num, norm_item_id
+from icon_cache import get_icon_path
 from recipes_store import RecipesStore, Recipe
 from hypixel_client import HypixelClient, BazaarPrice
 
@@ -60,6 +62,7 @@ class CraftsTab(QWidget):
 
         self.client = HypixelClient()
         self.prices: Dict[str, BazaarPrice] = {}
+        self.items_map: Dict[str, dict] = self.client.load_items_cached()
 
         self.store = RecipesStore(CACHE_DIR / "recipes.json")
         self.store.load()
@@ -102,8 +105,10 @@ class CraftsTab(QWidget):
 
         # Tree (Outputs -> variants -> ingredients)
         self.tree = QTreeWidget()
-        self.tree.setColumnCount(6)
-        self.tree.setHeaderLabels(["Output", "OutQty", "Cost (buy)", "Revenue (sell)", "Profit", "Notes"])
+        self.tree.setColumnCount(5)
+        self.tree.setHeaderLabels(["Output", "OutQty", "Cost (buy)", "Revenue (sell)", "Profit"])
+        self.tree.setSortingEnabled(True)
+        self.tree.sortByColumn(4, Qt.AscendingOrder)
         root.addWidget(self.tree, 1)
 
         # wire
@@ -135,39 +140,74 @@ class CraftsTab(QWidget):
         self.tree.clear()
 
         outputs = sorted({r.output for r in self.store.all()})
+        tier_brushes = {
+            "COMMON": QBrush(QColor(200, 200, 200)),
+            "UNCOMMON": QBrush(QColor(55, 220, 55)),
+            "RARE": QBrush(QColor(60, 140, 255)),
+            "EPIC": QBrush(QColor(180, 100, 255)),
+            "LEGENDARY": QBrush(QColor(255, 170, 40)),
+            "MYTHIC": QBrush(QColor(255, 80, 240)),
+            "DIVINE": QBrush(QColor(80, 255, 255)),
+            "SPECIAL": QBrush(QColor(255, 85, 85)),
+            "VERY_SPECIAL": QBrush(QColor(255, 85, 85)),
+        }
+
+        grouped: Dict[str, List[str]] = {}
         for out in outputs:
             if flt and flt not in out:
                 continue
+            item_meta = self.items_map.get(out, {})
+            category = str(item_meta.get("category") or "UNCATEGORIZED")
+            grouped.setdefault(category, []).append(out)
 
-            variants = self.store.variants(out)
-            if not variants:
-                continue
+        for category in sorted(grouped.keys()):
+            category_item = QTreeWidgetItem([category, "", "", "", ""])
+            self.tree.addTopLevelItem(category_item)
 
-            out_item = QTreeWidgetItem([out, "", "", "", "", f"{len(variants)} variant(s)"])
-            self.tree.addTopLevelItem(out_item)
+            for out in sorted(grouped[category]):
+                variants = self.store.variants(out)
+                if not variants:
+                    continue
 
-            for r in variants:
-                cost = _craft_cost_buy_from_bazaar(r.ingredients, self.prices) if self.prices else -1.0
-                rev = _craft_revenue_sell_to_bazaar(r.output, r.output_qty, self.prices) if self.prices else -1.0
-                profit = (rev - cost) if (cost >= 0 and rev >= 0) else -1.0
+                item_meta = self.items_map.get(out, {})
+                tier = str(item_meta.get("tier") or "").upper()
+                out_item = QTreeWidgetItem([out, "", "", "", ""])
+                if tier in tier_brushes:
+                    out_item.setForeground(0, tier_brushes[tier])
 
-                cost_s = "—" if cost < 0 else fmt_num(cost)
-                rev_s = "—" if rev < 0 else fmt_num(rev)
-                prof_s = "—" if profit < 0 else fmt_num(profit)
+                icon_result = get_icon_path(out, enable_icons=True, allow_download=False)
+                if icon_result.path:
+                    out_item.setIcon(0, QIcon(str(icon_result.path)))
 
-                v_item = QTreeWidgetItem([r.output, str(r.output_qty), cost_s, rev_s, prof_s, ""])
-                v_item.setData(0, Qt.UserRole, r.signature())
-                out_item.addChild(v_item)
+                category_item.addChild(out_item)
 
-                # ingredients children
-                for iid, q in r.ingredients:
-                    p = self.prices.get(iid)
-                    unit = p.sell if p else 0.0
-                    line = (float(q) * float(unit)) if p else 0.0
-                    ing = QTreeWidgetItem([f"  ↳ {iid}", str(q), fmt_num(line) if p else "—", "", "", "ingredient"])
-                    v_item.addChild(ing)
+                for r in variants:
+                    cost = _craft_cost_buy_from_bazaar(r.ingredients, self.prices) if self.prices else -1.0
+                    rev = _craft_revenue_sell_to_bazaar(r.output, r.output_qty, self.prices) if self.prices else -1.0
+                    profit = (rev - cost) if (cost >= 0 and rev >= 0) else -1.0
 
-            out_item.setExpanded(True)
+                    cost_s = "—" if cost < 0 else fmt_num(cost)
+                    rev_s = "—" if rev < 0 else fmt_num(rev)
+                    prof_s = "—" if profit < 0 else fmt_num(profit)
+
+                    v_item = QTreeWidgetItem([r.output, str(r.output_qty), cost_s, rev_s, prof_s])
+                    v_item.setData(0, Qt.UserRole, r.signature())
+                    v_item.setData(2, Qt.UserRole, cost if cost >= 0 else float("inf"))
+                    v_item.setData(3, Qt.UserRole, rev if rev >= 0 else float("inf"))
+                    v_item.setData(4, Qt.UserRole, profit if profit >= 0 else float("inf"))
+                    out_item.addChild(v_item)
+
+                    # ingredients children
+                    for iid, q in r.ingredients:
+                        p = self.prices.get(iid)
+                        unit = p.sell if p else 0.0
+                        line = (float(q) * float(unit)) if p else 0.0
+                        ing = QTreeWidgetItem([f"  ↳ {iid}", str(q), fmt_num(line) if p else "—", "", ""])
+                        ing.setData(2, Qt.UserRole, line if p else float("inf"))
+                        v_item.addChild(ing)
+
+                out_item.setExpanded(True)
+            category_item.setExpanded(True)
 
     def import_recipes(self) -> None:
         fn, _ = QFileDialog.getOpenFileName(self, "Import recipes JSON", str(Path.cwd()), "JSON (*.json);;All (*.*)")
