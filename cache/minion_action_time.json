@@ -1,0 +1,2373 @@
+{
+  "_meta": {
+    "source_index": "https://wiki.hypixel.net/Minions",
+    "generated_by": "tools/minion/scrape_minion_action_time.py",
+    "unit_action_time": "seconds"
+  },
+  "minions": {
+    "ACACIA": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0
+        },
+        "2": {
+          "action_time": 48.0
+        },
+        "3": {
+          "action_time": 45.0
+        },
+        "4": {
+          "action_time": 45.0
+        },
+        "5": {
+          "action_time": 42.0
+        },
+        "6": {
+          "action_time": 42.0
+        },
+        "7": {
+          "action_time": 38.0
+        },
+        "8": {
+          "action_time": 38.0
+        },
+        "9": {
+          "action_time": 33.0
+        },
+        "10": {
+          "action_time": 33.0
+        },
+        "11": {
+          "action_time": 27.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Acacia_Minion"
+    },
+    "BIRCH": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0
+        },
+        "2": {
+          "action_time": 48.0
+        },
+        "3": {
+          "action_time": 45.0
+        },
+        "4": {
+          "action_time": 45.0
+        },
+        "5": {
+          "action_time": 42.0
+        },
+        "6": {
+          "action_time": 42.0
+        },
+        "7": {
+          "action_time": 38.0
+        },
+        "8": {
+          "action_time": 38.0
+        },
+        "9": {
+          "action_time": 33.0
+        },
+        "10": {
+          "action_time": 33.0
+        },
+        "11": {
+          "action_time": 27.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Birch_Minion"
+    },
+    "BLAZE": {
+      "tiers": {
+        "1": {
+          "action_time": 33.0
+        },
+        "2": {
+          "action_time": 33.0
+        },
+        "3": {
+          "action_time": 31.0
+        },
+        "4": {
+          "action_time": 31.0
+        },
+        "5": {
+          "action_time": 28.5
+        },
+        "6": {
+          "action_time": 28.5
+        },
+        "7": {
+          "action_time": 25.0
+        },
+        "8": {
+          "action_time": 25.0
+        },
+        "9": {
+          "action_time": 21.0
+        },
+        "10": {
+          "action_time": 21.0
+        },
+        "11": {
+          "action_time": 16.5
+        },
+        "12": {
+          "action_time": 15.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Blaze_Minion"
+    },
+    "CACTUS": {
+      "tiers": {
+        "1": {
+          "action_time": 27.0
+        },
+        "2": {
+          "action_time": 27.0
+        },
+        "3": {
+          "action_time": 25.0
+        },
+        "4": {
+          "action_time": 25.0
+        },
+        "5": {
+          "action_time": 23.0
+        },
+        "6": {
+          "action_time": 23.0
+        },
+        "7": {
+          "action_time": 21.0
+        },
+        "8": {
+          "action_time": 21.0
+        },
+        "9": {
+          "action_time": 18.0
+        },
+        "10": {
+          "action_time": 18.0
+        },
+        "11": {
+          "action_time": 15.0
+        },
+        "12": {
+          "action_time": 12.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Cactus_Minion"
+    },
+    "CARROT": {
+      "tiers": {
+        "1": {
+          "action_time": 20.0
+        },
+        "2": {
+          "action_time": 20.0
+        },
+        "3": {
+          "action_time": 18.0
+        },
+        "4": {
+          "action_time": 18.0
+        },
+        "5": {
+          "action_time": 16.0
+        },
+        "6": {
+          "action_time": 16.0
+        },
+        "7": {
+          "action_time": 14.0
+        },
+        "8": {
+          "action_time": 14.0
+        },
+        "9": {
+          "action_time": 12.0
+        },
+        "10": {
+          "action_time": 12.0
+        },
+        "11": {
+          "action_time": 10.0
+        },
+        "12": {
+          "action_time": 8.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Carrot_Minion"
+    },
+    "CAVE_SPIDER": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 20.0
+        },
+        "8": {
+          "action_time": 20.0
+        },
+        "9": {
+          "action_time": 17.0
+        },
+        "10": {
+          "action_time": 17.0
+        },
+        "11": {
+          "action_time": 13.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Cave_Spider_Minion"
+    },
+    "CHICKEN": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 20.0
+        },
+        "8": {
+          "action_time": 20.0
+        },
+        "9": {
+          "action_time": 18.0
+        },
+        "10": {
+          "action_time": 18.0
+        },
+        "11": {
+          "action_time": 15.0
+        },
+        "12": {
+          "action_time": 12.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Chicken_Minion"
+    },
+    "CLAY": {
+      "tiers": {
+        "1": {
+          "action_time": 32.0
+        },
+        "2": {
+          "action_time": 32.0
+        },
+        "3": {
+          "action_time": 30.0
+        },
+        "4": {
+          "action_time": 30.0
+        },
+        "5": {
+          "action_time": 27.5
+        },
+        "6": {
+          "action_time": 27.5
+        },
+        "7": {
+          "action_time": 24.0
+        },
+        "8": {
+          "action_time": 24.0
+        },
+        "9": {
+          "action_time": 20.0
+        },
+        "10": {
+          "action_time": 20.0
+        },
+        "11": {
+          "action_time": 16.0
+        },
+        "12": {
+          "action_time": 14.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Clay_Minion"
+    },
+    "COAL": {
+      "tiers": {
+        "1": {
+          "action_time": 15.0
+        },
+        "2": {
+          "action_time": 15.0
+        },
+        "3": {
+          "action_time": 13.0
+        },
+        "4": {
+          "action_time": 13.0
+        },
+        "5": {
+          "action_time": 12.0
+        },
+        "6": {
+          "action_time": 12.0
+        },
+        "7": {
+          "action_time": 10.0
+        },
+        "8": {
+          "action_time": 10.0
+        },
+        "9": {
+          "action_time": 9.0
+        },
+        "10": {
+          "action_time": 9.0
+        },
+        "11": {
+          "action_time": 7.0
+        },
+        "12": {
+          "action_time": 6.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Coal_Minion"
+    },
+    "COBBLESTONE": {
+      "tiers": {
+        "1": {
+          "action_time": 14.0
+        },
+        "2": {
+          "action_time": 14.0
+        },
+        "3": {
+          "action_time": 12.0
+        },
+        "4": {
+          "action_time": 12.0
+        },
+        "5": {
+          "action_time": 10.0
+        },
+        "6": {
+          "action_time": 10.0
+        },
+        "7": {
+          "action_time": 9.0
+        },
+        "8": {
+          "action_time": 9.0
+        },
+        "9": {
+          "action_time": 8.0
+        },
+        "10": {
+          "action_time": 8.0
+        },
+        "11": {
+          "action_time": 7.0
+        },
+        "12": {
+          "action_time": 6.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Cobblestone_Minion"
+    },
+    "COCOA_BEANS": {
+      "tiers": {
+        "1": {
+          "action_time": 27.0
+        },
+        "2": {
+          "action_time": 27.0
+        },
+        "3": {
+          "action_time": 25.0
+        },
+        "4": {
+          "action_time": 25.0
+        },
+        "5": {
+          "action_time": 23.0
+        },
+        "6": {
+          "action_time": 23.0
+        },
+        "7": {
+          "action_time": 21.0
+        },
+        "8": {
+          "action_time": 21.0
+        },
+        "9": {
+          "action_time": 18.0
+        },
+        "10": {
+          "action_time": 18.0
+        },
+        "11": {
+          "action_time": 15.0
+        },
+        "12": {
+          "action_time": 12.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Cocoa_Beans_Minion"
+    },
+    "COW": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 20.0
+        },
+        "8": {
+          "action_time": 20.0
+        },
+        "9": {
+          "action_time": 17.0
+        },
+        "10": {
+          "action_time": 17.0
+        },
+        "11": {
+          "action_time": 13.0
+        },
+        "12": {
+          "action_time": 10.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Cow_Minion"
+    },
+    "CREEPER": {
+      "tiers": {
+        "1": {
+          "action_time": 27.0
+        },
+        "2": {
+          "action_time": 27.0
+        },
+        "3": {
+          "action_time": 25.0
+        },
+        "4": {
+          "action_time": 25.0
+        },
+        "5": {
+          "action_time": 23.0
+        },
+        "6": {
+          "action_time": 23.0
+        },
+        "7": {
+          "action_time": 21.0
+        },
+        "8": {
+          "action_time": 21.0
+        },
+        "9": {
+          "action_time": 18.0
+        },
+        "10": {
+          "action_time": 18.0
+        },
+        "11": {
+          "action_time": 14.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Creeper_Minion"
+    },
+    "DARK_OAK": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0
+        },
+        "2": {
+          "action_time": 48.0
+        },
+        "3": {
+          "action_time": 45.0
+        },
+        "4": {
+          "action_time": 45.0
+        },
+        "5": {
+          "action_time": 42.0
+        },
+        "6": {
+          "action_time": 42.0
+        },
+        "7": {
+          "action_time": 38.0
+        },
+        "8": {
+          "action_time": 38.0
+        },
+        "9": {
+          "action_time": 33.0
+        },
+        "10": {
+          "action_time": 33.0
+        },
+        "11": {
+          "action_time": 27.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Dark_Oak_Minion"
+    },
+    "DIAMOND": {
+      "tiers": {
+        "1": {
+          "action_time": 29.0
+        },
+        "2": {
+          "action_time": 29.0
+        },
+        "3": {
+          "action_time": 27.0
+        },
+        "4": {
+          "action_time": 27.0
+        },
+        "5": {
+          "action_time": 25.0
+        },
+        "6": {
+          "action_time": 25.0
+        },
+        "7": {
+          "action_time": 22.0
+        },
+        "8": {
+          "action_time": 22.0
+        },
+        "9": {
+          "action_time": 19.0
+        },
+        "10": {
+          "action_time": 19.0
+        },
+        "11": {
+          "action_time": 15.0
+        },
+        "12": {
+          "action_time": 12.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Diamond_Minion"
+    },
+    "EMERALD": {
+      "tiers": {
+        "1": {
+          "action_time": 28.0
+        },
+        "2": {
+          "action_time": 28.0
+        },
+        "3": {
+          "action_time": 26.0
+        },
+        "4": {
+          "action_time": 26.0
+        },
+        "5": {
+          "action_time": 24.0
+        },
+        "6": {
+          "action_time": 24.0
+        },
+        "7": {
+          "action_time": 21.0
+        },
+        "8": {
+          "action_time": 21.0
+        },
+        "9": {
+          "action_time": 18.0
+        },
+        "10": {
+          "action_time": 18.0
+        },
+        "11": {
+          "action_time": 14.0
+        },
+        "12": {
+          "action_time": 12.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Emerald_Minion"
+    },
+    "END_STONE": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 19.0
+        },
+        "8": {
+          "action_time": 19.0
+        },
+        "9": {
+          "action_time": 16.0
+        },
+        "10": {
+          "action_time": 16.0
+        },
+        "11": {
+          "action_time": 13.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/End_Stone_Minion"
+    },
+    "ENDERMAN": {
+      "tiers": {
+        "1": {
+          "action_time": 32.0
+        },
+        "2": {
+          "action_time": 32.0
+        },
+        "3": {
+          "action_time": 30.0
+        },
+        "4": {
+          "action_time": 30.0
+        },
+        "5": {
+          "action_time": 28.0
+        },
+        "6": {
+          "action_time": 28.0
+        },
+        "7": {
+          "action_time": 25.0
+        },
+        "8": {
+          "action_time": 25.0
+        },
+        "9": {
+          "action_time": 22.0
+        },
+        "10": {
+          "action_time": 22.0
+        },
+        "11": {
+          "action_time": 18.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Enderman_Minion"
+    },
+    "FISHING": {
+      "tiers": {
+        "1": {
+          "action_time": 75.0
+        },
+        "2": {
+          "action_time": 75.0
+        },
+        "3": {
+          "action_time": 67.0
+        },
+        "4": {
+          "action_time": 67.0
+        },
+        "5": {
+          "action_time": 59.0
+        },
+        "6": {
+          "action_time": 59.0
+        },
+        "7": {
+          "action_time": 51.0
+        },
+        "8": {
+          "action_time": 51.0
+        },
+        "9": {
+          "action_time": 43.0
+        },
+        "10": {
+          "action_time": 43.0
+        },
+        "11": {
+          "action_time": 35.0
+        },
+        "12": {
+          "action_time": 30.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Fishing_Minion"
+    },
+    "FLOWER": {
+      "tiers": {
+        "1": {
+          "action_time": 30.0
+        },
+        "2": {
+          "action_time": 29.0
+        },
+        "3": {
+          "action_time": 28.0
+        },
+        "4": {
+          "action_time": 27.0
+        },
+        "5": {
+          "action_time": 26.0
+        },
+        "6": {
+          "action_time": 25.0
+        },
+        "7": {
+          "action_time": 24.0
+        },
+        "8": {
+          "action_time": 23.0
+        },
+        "9": {
+          "action_time": 22.0
+        },
+        "10": {
+          "action_time": 20.0
+        },
+        "11": {
+          "action_time": 18.0
+        },
+        "12": {
+          "action_time": 15.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Flower_Minion"
+    },
+    "GHAST": {
+      "tiers": {
+        "1": {
+          "action_time": 50.0
+        },
+        "2": {
+          "action_time": 50.0
+        },
+        "3": {
+          "action_time": 47.0
+        },
+        "4": {
+          "action_time": 47.0
+        },
+        "5": {
+          "action_time": 44.0
+        },
+        "6": {
+          "action_time": 44.0
+        },
+        "7": {
+          "action_time": 41.0
+        },
+        "8": {
+          "action_time": 41.0
+        },
+        "9": {
+          "action_time": 38.0
+        },
+        "10": {
+          "action_time": 38.0
+        },
+        "11": {
+          "action_time": 32.0
+        },
+        "12": {
+          "action_time": 30.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Ghast_Minion"
+    },
+    "GLOWSTONE": {
+      "tiers": {
+        "1": {
+          "action_time": 25.0
+        },
+        "2": {
+          "action_time": 25.0
+        },
+        "3": {
+          "action_time": 23.0
+        },
+        "4": {
+          "action_time": 23.0
+        },
+        "5": {
+          "action_time": 21.0
+        },
+        "6": {
+          "action_time": 21.0
+        },
+        "7": {
+          "action_time": 19.0
+        },
+        "8": {
+          "action_time": 19.0
+        },
+        "9": {
+          "action_time": 16.0
+        },
+        "10": {
+          "action_time": 16.0
+        },
+        "11": {
+          "action_time": 13.0
+        },
+        "12": {
+          "action_time": 11.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Glowstone_Minion"
+    },
+    "GOLD": {
+      "tiers": {
+        "1": {
+          "action_time": 22.0
+        },
+        "2": {
+          "action_time": 22.0
+        },
+        "3": {
+          "action_time": 20.0
+        },
+        "4": {
+          "action_time": 20.0
+        },
+        "5": {
+          "action_time": 18.0
+        },
+        "6": {
+          "action_time": 18.0
+        },
+        "7": {
+          "action_time": 16.0
+        },
+        "8": {
+          "action_time": 16.0
+        },
+        "9": {
+          "action_time": 14.0
+        },
+        "10": {
+          "action_time": 14.0
+        },
+        "11": {
+          "action_time": 11.0
+        },
+        "12": {
+          "action_time": 9.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Gold_Minion"
+    },
+    "GRAVEL": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 19.0
+        },
+        "8": {
+          "action_time": 19.0
+        },
+        "9": {
+          "action_time": 16.0
+        },
+        "10": {
+          "action_time": 16.0
+        },
+        "11": {
+          "action_time": 13.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Gravel_Minion"
+    },
+    "HARD_STONE": {
+      "tiers": {
+        "1": {
+          "action_time": 14.0
+        },
+        "2": {
+          "action_time": 14.0
+        },
+        "3": {
+          "action_time": 12.0
+        },
+        "4": {
+          "action_time": 12.0
+        },
+        "5": {
+          "action_time": 10.0
+        },
+        "6": {
+          "action_time": 10.0
+        },
+        "7": {
+          "action_time": 9.0
+        },
+        "8": {
+          "action_time": 9.0
+        },
+        "9": {
+          "action_time": 8.0
+        },
+        "10": {
+          "action_time": 8.0
+        },
+        "11": {
+          "action_time": 7.0
+        },
+        "12": {
+          "action_time": 6.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Hard_Stone_Minion"
+    },
+    "ICE": {
+      "tiers": {
+        "1": {
+          "action_time": 14.0
+        },
+        "2": {
+          "action_time": 14.0
+        },
+        "3": {
+          "action_time": 12.0
+        },
+        "4": {
+          "action_time": 12.0
+        },
+        "5": {
+          "action_time": 10.0
+        },
+        "6": {
+          "action_time": 10.0
+        },
+        "7": {
+          "action_time": 9.0
+        },
+        "8": {
+          "action_time": 9.0
+        },
+        "9": {
+          "action_time": 8.0
+        },
+        "10": {
+          "action_time": 8.0
+        },
+        "11": {
+          "action_time": 7.0
+        },
+        "12": {
+          "action_time": 6.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Ice_Minion"
+    },
+    "INFERNO": {
+      "tiers": {
+        "1": {
+          "action_time": 982.0
+        },
+        "3": {
+          "action_time": 950.0
+        },
+        "4": {
+          "action_time": 919.0
+        },
+        "5": {
+          "action_time": 886.0
+        },
+        "6": {
+          "action_time": 855.0
+        },
+        "7": {
+          "action_time": 823.0
+        },
+        "8": {
+          "action_time": 792.0
+        },
+        "9": {
+          "action_time": 760.0
+        },
+        "10": {
+          "action_time": 728.0
+        },
+        "11": {
+          "action_time": 697.0
+        },
+        "2": {
+          "action_time": 982.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Inferno_Minion"
+    },
+    "IRON": {
+      "tiers": {
+        "1": {
+          "action_time": 17.0
+        },
+        "2": {
+          "action_time": 17.0
+        },
+        "3": {
+          "action_time": 15.0
+        },
+        "4": {
+          "action_time": 15.0
+        },
+        "5": {
+          "action_time": 14.0
+        },
+        "6": {
+          "action_time": 14.0
+        },
+        "7": {
+          "action_time": 12.0
+        },
+        "8": {
+          "action_time": 12.0
+        },
+        "9": {
+          "action_time": 10.0
+        },
+        "10": {
+          "action_time": 10.0
+        },
+        "11": {
+          "action_time": 8.0
+        },
+        "12": {
+          "action_time": 7.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Iron_Minion"
+    },
+    "JUNGLE": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0
+        },
+        "2": {
+          "action_time": 48.0
+        },
+        "3": {
+          "action_time": 45.0
+        },
+        "4": {
+          "action_time": 45.0
+        },
+        "5": {
+          "action_time": 42.0
+        },
+        "6": {
+          "action_time": 42.0
+        },
+        "7": {
+          "action_time": 38.0
+        },
+        "8": {
+          "action_time": 38.0
+        },
+        "9": {
+          "action_time": 33.0
+        },
+        "10": {
+          "action_time": 33.0
+        },
+        "11": {
+          "action_time": 27.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Jungle_Minion"
+    },
+    "LAPIS": {
+      "tiers": {
+        "1": {
+          "action_time": 29.0
+        },
+        "2": {
+          "action_time": 29.0
+        },
+        "3": {
+          "action_time": 27.0
+        },
+        "4": {
+          "action_time": 27.0
+        },
+        "5": {
+          "action_time": 25.0
+        },
+        "6": {
+          "action_time": 25.0
+        },
+        "7": {
+          "action_time": 23.0
+        },
+        "8": {
+          "action_time": 23.0
+        },
+        "9": {
+          "action_time": 21.0
+        },
+        "10": {
+          "action_time": 21.0
+        },
+        "11": {
+          "action_time": 18.0
+        },
+        "12": {
+          "action_time": 16.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Lapis_Minion"
+    },
+    "MAGMA_CUBE": {
+      "tiers": {
+        "1": {
+          "action_time": 32.0
+        },
+        "2": {
+          "action_time": 32.0
+        },
+        "3": {
+          "action_time": 30.0
+        },
+        "4": {
+          "action_time": 30.0
+        },
+        "5": {
+          "action_time": 28.0
+        },
+        "6": {
+          "action_time": 28.0
+        },
+        "7": {
+          "action_time": 25.0
+        },
+        "8": {
+          "action_time": 25.0
+        },
+        "9": {
+          "action_time": 22.0
+        },
+        "10": {
+          "action_time": 22.0
+        },
+        "11": {
+          "action_time": 18.0
+        },
+        "12": {
+          "action_time": 16.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Magma_Cube_Minion"
+    },
+    "MELON": {
+      "tiers": {
+        "1": {
+          "action_time": 24.0
+        },
+        "2": {
+          "action_time": 24.0
+        },
+        "3": {
+          "action_time": 22.5
+        },
+        "4": {
+          "action_time": 22.5
+        },
+        "5": {
+          "action_time": 21.0
+        },
+        "6": {
+          "action_time": 21.0
+        },
+        "7": {
+          "action_time": 18.5
+        },
+        "8": {
+          "action_time": 18.5
+        },
+        "9": {
+          "action_time": 16.0
+        },
+        "10": {
+          "action_time": 16.0
+        },
+        "11": {
+          "action_time": 13.0
+        },
+        "12": {
+          "action_time": 10.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Melon_Minion"
+    },
+    "MITHRIL": {
+      "tiers": {
+        "1": {
+          "action_time": 80.0
+        },
+        "2": {
+          "action_time": 80.0
+        },
+        "3": {
+          "action_time": 75.0
+        },
+        "4": {
+          "action_time": 75.0
+        },
+        "5": {
+          "action_time": 70.0
+        },
+        "6": {
+          "action_time": 70.0
+        },
+        "7": {
+          "action_time": 65.0
+        },
+        "8": {
+          "action_time": 65.0
+        },
+        "9": {
+          "action_time": 60.0
+        },
+        "10": {
+          "action_time": 60.0
+        },
+        "11": {
+          "action_time": 55.0
+        },
+        "12": {
+          "action_time": 50.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Mithril_Minion"
+    },
+    "MUSHROOM": {
+      "tiers": {
+        "1": {
+          "action_time": 30.0
+        },
+        "2": {
+          "action_time": 30.0
+        },
+        "3": {
+          "action_time": 28.0
+        },
+        "4": {
+          "action_time": 28.0
+        },
+        "5": {
+          "action_time": 26.0
+        },
+        "6": {
+          "action_time": 26.0
+        },
+        "7": {
+          "action_time": 23.0
+        },
+        "8": {
+          "action_time": 23.0
+        },
+        "9": {
+          "action_time": 20.0
+        },
+        "10": {
+          "action_time": 20.0
+        },
+        "11": {
+          "action_time": 16.0
+        },
+        "12": {
+          "action_time": 12.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Mushroom_Minion"
+    },
+    "MYCELIUM": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 25.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 23.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 21.0
+        },
+        "7": {
+          "action_time": 20.0
+        },
+        "8": {
+          "action_time": 19.0
+        },
+        "9": {
+          "action_time": 18.0
+        },
+        "10": {
+          "action_time": 16.0
+        },
+        "11": {
+          "action_time": 13.0
+        },
+        "12": {
+          "action_time": 11.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Mycelium_Minion"
+    },
+    "NETHER_WART": {
+      "tiers": {
+        "1": {
+          "action_time": 50.0
+        },
+        "2": {
+          "action_time": 50.0
+        },
+        "3": {
+          "action_time": 47.0
+        },
+        "4": {
+          "action_time": 47.0
+        },
+        "5": {
+          "action_time": 44.0
+        },
+        "6": {
+          "action_time": 44.0
+        },
+        "7": {
+          "action_time": 41.0
+        },
+        "8": {
+          "action_time": 41.0
+        },
+        "9": {
+          "action_time": 38.0
+        },
+        "10": {
+          "action_time": 38.0
+        },
+        "11": {
+          "action_time": 32.0
+        },
+        "12": {
+          "action_time": 27.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Nether_Wart_Minion"
+    },
+    "OAK": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0
+        },
+        "2": {
+          "action_time": 48.0
+        },
+        "3": {
+          "action_time": 45.0
+        },
+        "4": {
+          "action_time": 45.0
+        },
+        "5": {
+          "action_time": 42.0
+        },
+        "6": {
+          "action_time": 42.0
+        },
+        "7": {
+          "action_time": 38.0
+        },
+        "8": {
+          "action_time": 38.0
+        },
+        "9": {
+          "action_time": 33.0
+        },
+        "10": {
+          "action_time": 33.0
+        },
+        "11": {
+          "action_time": 27.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Oak_Minion"
+    },
+    "OBSIDIAN": {
+      "tiers": {
+        "1": {
+          "action_time": 45.0
+        },
+        "2": {
+          "action_time": 45.0
+        },
+        "3": {
+          "action_time": 42.0
+        },
+        "4": {
+          "action_time": 42.0
+        },
+        "5": {
+          "action_time": 39.0
+        },
+        "6": {
+          "action_time": 39.0
+        },
+        "7": {
+          "action_time": 35.0
+        },
+        "8": {
+          "action_time": 35.0
+        },
+        "9": {
+          "action_time": 30.0
+        },
+        "10": {
+          "action_time": 30.0
+        },
+        "11": {
+          "action_time": 24.0
+        },
+        "12": {
+          "action_time": 21.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Obsidian_Minion"
+    },
+    "PIG": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 20.0
+        },
+        "8": {
+          "action_time": 20.0
+        },
+        "9": {
+          "action_time": 17.0
+        },
+        "10": {
+          "action_time": 17.0
+        },
+        "11": {
+          "action_time": 13.0
+        },
+        "12": {
+          "action_time": 10.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Pig_Minion"
+    },
+    "POTATO": {
+      "tiers": {
+        "1": {
+          "action_time": 20.0
+        },
+        "2": {
+          "action_time": 20.0
+        },
+        "3": {
+          "action_time": 18.0
+        },
+        "4": {
+          "action_time": 18.0
+        },
+        "5": {
+          "action_time": 16.0
+        },
+        "6": {
+          "action_time": 16.0
+        },
+        "7": {
+          "action_time": 14.0
+        },
+        "8": {
+          "action_time": 14.0
+        },
+        "9": {
+          "action_time": 12.0
+        },
+        "10": {
+          "action_time": 12.0
+        },
+        "11": {
+          "action_time": 10.0
+        },
+        "12": {
+          "action_time": 8.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Potato_Minion"
+    },
+    "PUMPKIN": {
+      "tiers": {
+        "1": {
+          "action_time": 32.0
+        },
+        "2": {
+          "action_time": 32.0
+        },
+        "3": {
+          "action_time": 30.0
+        },
+        "4": {
+          "action_time": 30.0
+        },
+        "5": {
+          "action_time": 27.0
+        },
+        "6": {
+          "action_time": 27.0
+        },
+        "7": {
+          "action_time": 24.0
+        },
+        "8": {
+          "action_time": 24.0
+        },
+        "9": {
+          "action_time": 20.0
+        },
+        "10": {
+          "action_time": 20.0
+        },
+        "11": {
+          "action_time": 16.0
+        },
+        "12": {
+          "action_time": 12.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Pumpkin_Minion"
+    },
+    "QUARTZ": {
+      "tiers": {
+        "1": {
+          "action_time": 22.5
+        },
+        "2": {
+          "action_time": 22.5
+        },
+        "3": {
+          "action_time": 21.0
+        },
+        "4": {
+          "action_time": 21.0
+        },
+        "5": {
+          "action_time": 19.0
+        },
+        "6": {
+          "action_time": 19.0
+        },
+        "7": {
+          "action_time": 17.0
+        },
+        "8": {
+          "action_time": 17.0
+        },
+        "9": {
+          "action_time": 14.5
+        },
+        "10": {
+          "action_time": 14.5
+        },
+        "11": {
+          "action_time": 11.5
+        },
+        "12": {
+          "action_time": 10.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Quartz_Minion"
+    },
+    "RABBIT": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 20.0
+        },
+        "8": {
+          "action_time": 20.0
+        },
+        "9": {
+          "action_time": 17.0
+        },
+        "10": {
+          "action_time": 17.0
+        },
+        "11": {
+          "action_time": 13.0
+        },
+        "12": {
+          "action_time": 10.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Rabbit_Minion"
+    },
+    "RED_SAND": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 25.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 23.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 21.0
+        },
+        "7": {
+          "action_time": 20.0
+        },
+        "8": {
+          "action_time": 19.0
+        },
+        "9": {
+          "action_time": 18.0
+        },
+        "10": {
+          "action_time": 16.0
+        },
+        "11": {
+          "action_time": 13.0
+        },
+        "12": {
+          "action_time": 11.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Red_Sand_Minion"
+    },
+    "REDSTONE": {
+      "tiers": {
+        "1": {
+          "action_time": 29.0
+        },
+        "2": {
+          "action_time": 29.0
+        },
+        "3": {
+          "action_time": 27.0
+        },
+        "4": {
+          "action_time": 27.0
+        },
+        "5": {
+          "action_time": 25.0
+        },
+        "6": {
+          "action_time": 25.0
+        },
+        "7": {
+          "action_time": 23.0
+        },
+        "8": {
+          "action_time": 23.0
+        },
+        "9": {
+          "action_time": 21.0
+        },
+        "10": {
+          "action_time": 21.0
+        },
+        "11": {
+          "action_time": 18.0
+        },
+        "12": {
+          "action_time": 16.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Redstone_Minion"
+    },
+    "REVENANT": {
+      "tiers": {
+        "1": {
+          "action_time": 29.0
+        },
+        "2": {
+          "action_time": 29.0
+        },
+        "3": {
+          "action_time": 26.0
+        },
+        "4": {
+          "action_time": 26.0
+        },
+        "5": {
+          "action_time": 23.0
+        },
+        "6": {
+          "action_time": 23.0
+        },
+        "7": {
+          "action_time": 19.0
+        },
+        "8": {
+          "action_time": 19.0
+        },
+        "9": {
+          "action_time": 14.5
+        },
+        "10": {
+          "action_time": 14.5
+        },
+        "11": {
+          "action_time": 10.0
+        },
+        "12": {
+          "action_time": 8.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Revenant_Minion"
+    },
+    "SAND": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 19.0
+        },
+        "8": {
+          "action_time": 19.0
+        },
+        "9": {
+          "action_time": 16.0
+        },
+        "10": {
+          "action_time": 16.0
+        },
+        "11": {
+          "action_time": 13.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Sand_Minion"
+    },
+    "SHEEP": {
+      "tiers": {
+        "1": {
+          "action_time": 24.0
+        },
+        "2": {
+          "action_time": 24.0
+        },
+        "3": {
+          "action_time": 22.0
+        },
+        "4": {
+          "action_time": 22.0
+        },
+        "5": {
+          "action_time": 20.0
+        },
+        "6": {
+          "action_time": 20.0
+        },
+        "7": {
+          "action_time": 18.0
+        },
+        "8": {
+          "action_time": 18.0
+        },
+        "9": {
+          "action_time": 16.0
+        },
+        "10": {
+          "action_time": 16.0
+        },
+        "11": {
+          "action_time": 12.0
+        },
+        "12": {
+          "action_time": 9.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Sheep_Minion"
+    },
+    "SKELETON": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 20.0
+        },
+        "8": {
+          "action_time": 20.0
+        },
+        "9": {
+          "action_time": 17.0
+        },
+        "10": {
+          "action_time": 17.0
+        },
+        "11": {
+          "action_time": 13.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Skeleton_Minion"
+    },
+    "SLIME": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 19.0
+        },
+        "8": {
+          "action_time": 19.0
+        },
+        "9": {
+          "action_time": 16.0
+        },
+        "10": {
+          "action_time": 16.0
+        },
+        "11": {
+          "action_time": 12.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Slime_Minion"
+    },
+    "SNOW": {
+      "tiers": {
+        "1": {
+          "action_time": 13.0
+        },
+        "2": {
+          "action_time": 13.0
+        },
+        "3": {
+          "action_time": 12.0
+        },
+        "4": {
+          "action_time": 12.0
+        },
+        "5": {
+          "action_time": 11.0
+        },
+        "6": {
+          "action_time": 11.0
+        },
+        "7": {
+          "action_time": 9.5
+        },
+        "8": {
+          "action_time": 9.5
+        },
+        "9": {
+          "action_time": 8.0
+        },
+        "10": {
+          "action_time": 8.0
+        },
+        "11": {
+          "action_time": 6.5
+        },
+        "12": {
+          "action_time": 5.8
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Snow_Minion"
+    },
+    "SPIDER": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 20.0
+        },
+        "8": {
+          "action_time": 20.0
+        },
+        "9": {
+          "action_time": 17.0
+        },
+        "10": {
+          "action_time": 17.0
+        },
+        "11": {
+          "action_time": 13.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Spider_Minion"
+    },
+    "SPRUCE": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0
+        },
+        "2": {
+          "action_time": 48.0
+        },
+        "3": {
+          "action_time": 45.0
+        },
+        "4": {
+          "action_time": 45.0
+        },
+        "5": {
+          "action_time": 42.0
+        },
+        "6": {
+          "action_time": 42.0
+        },
+        "7": {
+          "action_time": 38.0
+        },
+        "8": {
+          "action_time": 38.0
+        },
+        "9": {
+          "action_time": 33.0
+        },
+        "10": {
+          "action_time": 33.0
+        },
+        "11": {
+          "action_time": 27.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Spruce_Minion"
+    },
+    "SUGAR_CANE": {
+      "tiers": {
+        "1": {
+          "action_time": 22.0
+        },
+        "2": {
+          "action_time": 22.0
+        },
+        "3": {
+          "action_time": 20.0
+        },
+        "4": {
+          "action_time": 20.0
+        },
+        "5": {
+          "action_time": 18.0
+        },
+        "6": {
+          "action_time": 18.0
+        },
+        "7": {
+          "action_time": 16.0
+        },
+        "8": {
+          "action_time": 16.0
+        },
+        "9": {
+          "action_time": 14.5
+        },
+        "10": {
+          "action_time": 14.5
+        },
+        "11": {
+          "action_time": 12.0
+        },
+        "12": {
+          "action_time": 9.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Sugar_Cane_Minion"
+    },
+    "TARANTULA": {
+      "tiers": {
+        "1": {
+          "action_time": 29.0
+        },
+        "2": {
+          "action_time": 29.0
+        },
+        "3": {
+          "action_time": 26.0
+        },
+        "4": {
+          "action_time": 26.0
+        },
+        "5": {
+          "action_time": 23.0
+        },
+        "6": {
+          "action_time": 23.0
+        },
+        "7": {
+          "action_time": 19.0
+        },
+        "8": {
+          "action_time": 19.0
+        },
+        "9": {
+          "action_time": 14.5
+        },
+        "10": {
+          "action_time": 14.5
+        },
+        "11": {
+          "action_time": 10.0
+        },
+        "12": {
+          "action_time": 8.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Tarantula_Minion"
+    },
+    "VAMPIRE": {
+      "tiers": {
+        "1": {
+          "action_time": 190.0
+        },
+        "2": {
+          "action_time": 190.0
+        },
+        "3": {
+          "action_time": 175.0
+        },
+        "4": {
+          "action_time": 175.0
+        },
+        "5": {
+          "action_time": 160.0
+        },
+        "6": {
+          "action_time": 160.0
+        },
+        "7": {
+          "action_time": 140.0
+        },
+        "8": {
+          "action_time": 140.0
+        },
+        "9": {
+          "action_time": 117.0
+        },
+        "10": {
+          "action_time": 117.0
+        },
+        "11": {
+          "action_time": 95.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Vampire_Minion"
+    },
+    "VOIDLING": {
+      "tiers": {
+        "1": {
+          "action_time": 45.0
+        },
+        "2": {
+          "action_time": 45.0
+        },
+        "3": {
+          "action_time": 42.0
+        },
+        "4": {
+          "action_time": 42.0
+        },
+        "5": {
+          "action_time": 39.0
+        },
+        "6": {
+          "action_time": 39.0
+        },
+        "7": {
+          "action_time": 35.0
+        },
+        "8": {
+          "action_time": 35.0
+        },
+        "9": {
+          "action_time": 30.0
+        },
+        "10": {
+          "action_time": 30.0
+        },
+        "11": {
+          "action_time": 24.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Voidling_Minion"
+    },
+    "WHEAT": {
+      "tiers": {
+        "1": {
+          "action_time": 15.0
+        },
+        "2": {
+          "action_time": 15.0
+        },
+        "3": {
+          "action_time": 13.0
+        },
+        "4": {
+          "action_time": 13.0
+        },
+        "5": {
+          "action_time": 11.0
+        },
+        "6": {
+          "action_time": 11.0
+        },
+        "7": {
+          "action_time": 10.0
+        },
+        "8": {
+          "action_time": 10.0
+        },
+        "9": {
+          "action_time": 9.0
+        },
+        "10": {
+          "action_time": 9.0
+        },
+        "11": {
+          "action_time": 8.0
+        },
+        "12": {
+          "action_time": 7.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Wheat_Minion"
+    },
+    "ZOMBIE": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 20.0
+        },
+        "8": {
+          "action_time": 20.0
+        },
+        "9": {
+          "action_time": 17.0
+        },
+        "10": {
+          "action_time": 17.0
+        },
+        "11": {
+          "action_time": 13.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Zombie_Minion"
+    }
+  },
+  "warnings": [],
+  "errors": []
+}

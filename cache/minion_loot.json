@@ -1,0 +1,1096 @@
+{
+  "_meta": {
+    "source_index": "https://wiki.hypixel.net/Minions",
+    "generated_by": "tools/Minions/scrape_minion_loots.py",
+    "unit_loot_chance": "percent",
+    "note": "Only 'RESSOURCES/RESOURCES' table is parsed (no upgrades, no debug)."
+  },
+  "minions": {
+    "ACACIA": {
+      "loot": [
+        {
+          "item": "Acacia Log",
+          "amount": 4.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Acacia_Minion"
+    },
+    "BIRCH": {
+      "loot": [
+        {
+          "item": "Birch Log",
+          "amount": 4.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Birch_Minion"
+    },
+    "BLAZE": {
+      "loot": [
+        {
+          "item": "Blaze Rod",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 9.0,
+          "npc_sell_per_stack": 576.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Blaze_Minion"
+    },
+    "CACTUS": {
+      "loot": [
+        {
+          "item": "Cactus",
+          "amount": 3.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Cactus_Minion"
+    },
+    "CARROT": {
+      "loot": [
+        {
+          "item": "Carrot",
+          "amount": 2.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Carrot_Minion"
+    },
+    "CAVE_SPIDER": {
+      "loot": [
+        {
+          "item": "Spider Eye",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        },
+        {
+          "item": "String",
+          "amount": 1.0,
+          "chance_percent": 50.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Cave_Spider_Minion"
+    },
+    "CHICKEN": {
+      "loot": [
+        {
+          "item": "Raw Chicken",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 4.0,
+          "npc_sell_per_stack": 256.0
+        },
+        {
+          "item": "Feather",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        },
+        {
+          "item": "Egg (With Enchanted Egg Upgrade)",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Chicken_Minion"
+    },
+    "CLAY": {
+      "loot": [
+        {
+          "item": "Clay Ball",
+          "amount": 4.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Clay_Minion"
+    },
+    "COAL": {
+      "loot": [
+        {
+          "item": "Coal",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Coal_Minion"
+    },
+    "COBBLESTONE": {
+      "loot": [
+        {
+          "item": "Cobblestone",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 1.0,
+          "npc_sell_per_stack": 64.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Cobblestone_Minion"
+    },
+    "COCOA_BEANS": {
+      "loot": [
+        {
+          "item": "Cocoa Beans",
+          "amount": 3.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Cocoa_Beans_Minion"
+    },
+    "COW": {
+      "loot": [
+        {
+          "item": "Raw Beef",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 4.0,
+          "npc_sell_per_stack": 256.0
+        },
+        {
+          "item": "Leather",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Cow_Minion"
+    },
+    "CREEPER": {
+      "loot": [
+        {
+          "item": "Gunpowder",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 4.0,
+          "npc_sell_per_stack": 256.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Creeper_Minion"
+    },
+    "DARK_OAK": {
+      "loot": [
+        {
+          "item": "Dark Oak Log",
+          "amount": 4.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Dark_Oak_Minion"
+    },
+    "DIAMOND": {
+      "loot": [
+        {
+          "item": "Diamond",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.4,
+          "xp_per_stack": 25.6,
+          "npc_sell_per_item": 8.0,
+          "npc_sell_per_stack": 512.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Diamond_Minion"
+    },
+    "EMERALD": {
+      "loot": [
+        {
+          "item": "Emerald",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.4,
+          "xp_per_stack": 25.6,
+          "npc_sell_per_item": 6.0,
+          "npc_sell_per_stack": 384.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Emerald_Minion"
+    },
+    "ENDERMAN": {
+      "loot": [
+        {
+          "item": "Ender Pearl",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 7.0,
+          "npc_sell_per_stack": 448.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Enderman_Minion"
+    },
+    "END_STONE": {
+      "loot": [
+        {
+          "item": "End Stone",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.4,
+          "xp_per_stack": 25.6,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/End_Stone_Minion"
+    },
+    "FISHING": {
+      "loot": [
+        {
+          "item": "Raw Cod",
+          "amount": 1.0,
+          "chance_percent": 50.0,
+          "xp_per_item": 0.5,
+          "xp_per_stack": 32.0,
+          "npc_sell_per_item": 6.0,
+          "npc_sell_per_stack": 384.0
+        },
+        {
+          "item": "Raw Salmon",
+          "amount": 1.0,
+          "chance_percent": 25.0,
+          "xp_per_item": 0.7,
+          "xp_per_stack": 44.8,
+          "npc_sell_per_item": 10.0,
+          "npc_sell_per_stack": 640.0
+        },
+        {
+          "item": "Pufferfish",
+          "amount": 1.0,
+          "chance_percent": 12.0,
+          "xp_per_item": 1.0,
+          "xp_per_stack": 64.0,
+          "npc_sell_per_item": 15.0,
+          "npc_sell_per_stack": 960.0
+        },
+        {
+          "item": "Tropical Fish",
+          "amount": 1.0,
+          "chance_percent": 4.0,
+          "xp_per_item": 2.0,
+          "xp_per_stack": 128.0,
+          "npc_sell_per_item": 20.0,
+          "npc_sell_per_stack": 1.28
+        },
+        {
+          "item": "Prismarine Crystals",
+          "amount": 1.0,
+          "chance_percent": 3.0,
+          "xp_per_item": 0.5,
+          "xp_per_stack": 32.0,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        },
+        {
+          "item": "Prismarine Shard",
+          "amount": 1.0,
+          "chance_percent": 3.0,
+          "xp_per_item": 0.5,
+          "xp_per_stack": 32.0,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        },
+        {
+          "item": "Sponge",
+          "amount": 1.0,
+          "chance_percent": 3.0,
+          "xp_per_item": 0.5,
+          "xp_per_stack": 32.0,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Fishing_Minion"
+    },
+    "FLOWER": {
+      "loot": [],
+      "wiki": "https://wiki.hypixel.net/Flower_Minion"
+    },
+    "GHAST": {
+      "loot": [
+        {
+          "item": "Ghast Tear",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.5,
+          "xp_per_stack": 32.0,
+          "npc_sell_per_item": 16.0,
+          "npc_sell_per_stack": 1.024
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Ghast_Minion"
+    },
+    "GLOWSTONE": {
+      "loot": [
+        {
+          "item": "Glowstone Dust",
+          "amount": 2.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Glowstone_Minion"
+    },
+    "GOLD": {
+      "loot": [
+        {
+          "item": "Gold Ore",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.4,
+          "xp_per_stack": 25.6,
+          "npc_sell_per_item": 4.0,
+          "npc_sell_per_stack": 256.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Gold_Minion"
+    },
+    "GRAVEL": {
+      "loot": [
+        {
+          "item": "Gravel",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Gravel_Minion"
+    },
+    "HARD_STONE": {
+      "loot": [
+        {
+          "item": "Hard Stone",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 1.0,
+          "npc_sell_per_stack": 64.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Hard_Stone_Minion"
+    },
+    "ICE": {
+      "loot": [
+        {
+          "item": "Ice",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.5,
+          "xp_per_stack": 32.0,
+          "npc_sell_per_item": 0.5,
+          "npc_sell_per_stack": 32.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Ice_Minion"
+    },
+    "INFERNO": {
+      "loot": [
+        {
+          "item": "Chili Pepper",
+          "amount": null,
+          "chance_percent": 0.7353,
+          "xp_per_item": null,
+          "xp_per_stack": null,
+          "npc_sell_per_item": null,
+          "npc_sell_per_stack": null
+        },
+        {
+          "item": "Inferno Vertex",
+          "amount": null,
+          "chance_percent": 0.01681,
+          "xp_per_item": null,
+          "xp_per_stack": null,
+          "npc_sell_per_item": null,
+          "npc_sell_per_stack": null
+        },
+        {
+          "item": "Inferno Apex",
+          "amount": null,
+          "chance_percent": 7.639e-05,
+          "xp_per_item": null,
+          "xp_per_stack": null,
+          "npc_sell_per_item": null,
+          "npc_sell_per_stack": null
+        },
+        {
+          "item": "Reaper Pepper",
+          "amount": null,
+          "chance_percent": 0.0002183,
+          "xp_per_item": null,
+          "xp_per_stack": null,
+          "npc_sell_per_item": null,
+          "npc_sell_per_stack": null
+        },
+        {
+          "item": "Gabagool The Fish",
+          "amount": null,
+          "chance_percent": 2.546e-05,
+          "xp_per_item": null,
+          "xp_per_stack": null,
+          "npc_sell_per_item": null,
+          "npc_sell_per_stack": null
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Inferno_Minion"
+    },
+    "IRON": {
+      "loot": [
+        {
+          "item": "Iron Ore",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Iron_Minion"
+    },
+    "JUNGLE": {
+      "loot": [
+        {
+          "item": "Jungle Log",
+          "amount": 4.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Jungle_Minion"
+    },
+    "LAPIS": {
+      "loot": [
+        {
+          "item": "Lapis Lazuli",
+          "amount": 3.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 1.0,
+          "npc_sell_per_stack": 64.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Lapis_Minion"
+    },
+    "MAGMA_CUBE": {
+      "loot": [
+        {
+          "item": "Magma Cream",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 8.0,
+          "npc_sell_per_stack": 512.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Magma_Cube_Minion"
+    },
+    "MELON": {
+      "loot": [
+        {
+          "item": "Melon Slice",
+          "amount": 3.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Melon_Minion"
+    },
+    "MITHRIL": {
+      "loot": [
+        {
+          "item": "Mithril",
+          "amount": 2.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.4,
+          "xp_per_stack": 25.6,
+          "npc_sell_per_item": 8.0,
+          "npc_sell_per_stack": 512.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Mithril_Minion"
+    },
+    "MUSHROOM": {
+      "loot": [
+        {
+          "item": "Red Mushroom",
+          "amount": 1.0,
+          "chance_percent": 50.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 10.0,
+          "npc_sell_per_stack": 640.0
+        },
+        {
+          "item": "Brown Mushroom",
+          "amount": 1.0,
+          "chance_percent": 50.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 10.0,
+          "npc_sell_per_stack": 640.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Mushroom_Minion"
+    },
+    "MYCELIUM": {
+      "loot": [
+        {
+          "item": "Mycelium",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Mycelium_Minion"
+    },
+    "NETHER_WART": {
+      "loot": [
+        {
+          "item": "Nether Wart",
+          "amount": 2.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 4.0,
+          "npc_sell_per_stack": 256.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Nether_Wart_Minion"
+    },
+    "OAK": {
+      "loot": [
+        {
+          "item": "Oak Log",
+          "amount": 4.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Oak_Minion"
+    },
+    "OBSIDIAN": {
+      "loot": [
+        {
+          "item": "Obsidian",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.4,
+          "xp_per_stack": 25.6,
+          "npc_sell_per_item": 7.0,
+          "npc_sell_per_stack": 448.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Obsidian_Minion"
+    },
+    "PIG": {
+      "loot": [
+        {
+          "item": "Raw Porkchop",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Pig_Minion"
+    },
+    "POTATO": {
+      "loot": [
+        {
+          "item": "Potato",
+          "amount": 2.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Potato_Minion"
+    },
+    "PUMPKIN": {
+      "loot": [
+        {
+          "item": "Pumpkin",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 10.0,
+          "npc_sell_per_stack": 640.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Pumpkin_Minion"
+    },
+    "QUARTZ": {
+      "loot": [
+        {
+          "item": "Nether Quartz",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 4.0,
+          "npc_sell_per_stack": 256.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Quartz_Minion"
+    },
+    "RABBIT": {
+      "loot": [
+        {
+          "item": "Raw Rabbit",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 4.0,
+          "npc_sell_per_stack": 256.0
+        },
+        {
+          "item": "Rabbit Hide",
+          "amount": 1.0,
+          "chance_percent": 70.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        },
+        {
+          "item": "Rabbit's Foot",
+          "amount": 1.0,
+          "chance_percent": 70.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Rabbit_Minion"
+    },
+    "REDSTONE": {
+      "loot": [
+        {
+          "item": "Redstone Dust",
+          "amount": 3.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 1.0,
+          "npc_sell_per_stack": 64.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Redstone_Minion"
+    },
+    "RED_SAND": {
+      "loot": [
+        {
+          "item": "Red Sand",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Red_Sand_Minion"
+    },
+    "REVENANT": {
+      "loot": [
+        {
+          "item": "Rotten Flesh",
+          "amount": 2.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        },
+        {
+          "item": "Diamond",
+          "amount": 1.0,
+          "chance_percent": 20.0,
+          "xp_per_item": 0.4,
+          "xp_per_stack": 25.6,
+          "npc_sell_per_item": 8.0,
+          "npc_sell_per_stack": 512.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Revenant_Minion"
+    },
+    "SAND": {
+      "loot": [
+        {
+          "item": "Sand",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Sand_Minion"
+    },
+    "SHEEP": {
+      "loot": [
+        {
+          "item": "Mutton",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        },
+        {
+          "item": "Wool",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Sheep_Minion"
+    },
+    "SKELETON": {
+      "loot": [
+        {
+          "item": "Bone",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Skeleton_Minion"
+    },
+    "SLIME": {
+      "loot": [
+        {
+          "item": "Slimeball",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        },
+        {
+          "item": "Slimeball",
+          "amount": 1.0,
+          "chance_percent": 50.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        },
+        {
+          "item": "Slimeball",
+          "amount": 1.0,
+          "chance_percent": 50.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 5.0,
+          "npc_sell_per_stack": 320.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Slime_Minion"
+    },
+    "SNOW": {
+      "loot": [
+        {
+          "item": "Snowball",
+          "amount": 4.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 1.0,
+          "npc_sell_per_stack": 64.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Snow_Minion"
+    },
+    "SPIDER": {
+      "loot": [
+        {
+          "item": "String",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        },
+        {
+          "item": "Spider Eye",
+          "amount": 1.0,
+          "chance_percent": 50.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Spider_Minion"
+    },
+    "SPRUCE": {
+      "loot": [
+        {
+          "item": "Spruce Log",
+          "amount": 4.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Spruce_Minion"
+    },
+    "SUGAR_CANE": {
+      "loot": [
+        {
+          "item": "Sugar Cane",
+          "amount": 3.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 4.0,
+          "npc_sell_per_stack": 256.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Sugar_Cane_Minion"
+    },
+    "TARANTULA": {
+      "loot": [
+        {
+          "item": "String",
+          "amount": 2.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        },
+        {
+          "item": "Spider Eye",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        },
+        {
+          "item": "Iron Ingot",
+          "amount": 1.0,
+          "chance_percent": 20.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Tarantula_Minion"
+    },
+    "VAMPIRE": {
+      "loot": [
+        {
+          "item": "Hemovibe",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 5.0,
+          "xp_per_stack": 320.0,
+          "npc_sell_per_item": 100.0,
+          "npc_sell_per_stack": 6.4
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Vampire_Minion"
+    },
+    "VOIDLING": {
+      "loot": [
+        {
+          "item": "Obsidian",
+          "amount": 2.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.4,
+          "xp_per_stack": 25.6,
+          "npc_sell_per_item": 7.0,
+          "npc_sell_per_stack": 448.0
+        },
+        {
+          "item": "Nether Quartz",
+          "amount": 1.0,
+          "chance_percent": 40.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 4.0,
+          "npc_sell_per_stack": 256.0
+        },
+        {
+          "item": "Enchanted Ender Pearl",
+          "amount": 1.0,
+          "chance_percent": 0.0625,
+          "xp_per_item": 48.0,
+          "xp_per_stack": 3.072,
+          "npc_sell_per_item": 140.0,
+          "npc_sell_per_stack": 8.96
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Voidling_Minion"
+    },
+    "WHEAT": {
+      "loot": [
+        {
+          "item": "Wheat",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.2,
+          "xp_per_stack": 12.8,
+          "npc_sell_per_item": 6.0,
+          "npc_sell_per_stack": 384.0
+        },
+        {
+          "item": "Seeds",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Wheat_Minion"
+    },
+    "ZOMBIE": {
+      "loot": [
+        {
+          "item": "Rotten Flesh",
+          "amount": 1.0,
+          "chance_percent": 100.0,
+          "xp_per_item": 0.3,
+          "xp_per_stack": 19.2,
+          "npc_sell_per_item": 2.0,
+          "npc_sell_per_stack": 128.0
+        },
+        {
+          "item": "Carrot",
+          "amount": 1.0,
+          "chance_percent": 1.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        },
+        {
+          "item": "Potato",
+          "amount": 1.0,
+          "chance_percent": 1.0,
+          "xp_per_item": 0.1,
+          "xp_per_stack": 6.4,
+          "npc_sell_per_item": 3.0,
+          "npc_sell_per_stack": 192.0
+        },
+        {
+          "item": "Poisonous Potato",
+          "amount": 1.0,
+          "chance_percent": 2.0,
+          "xp_per_item": 0.0,
+          "xp_per_stack": 0.0,
+          "npc_sell_per_item": 10.0,
+          "npc_sell_per_stack": 640.0
+        }
+      ],
+      "wiki": "https://wiki.hypixel.net/Zombie_Minion"
+    }
+  }
+}

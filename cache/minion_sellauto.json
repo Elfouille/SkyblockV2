@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "source": {
+      "url": "https://wiki.hypixel.net/Minions",
+      "anchor": "#Automated_Shipping"
+    },
+    "generated_by": "tools/minions/scrape_minion_sellauto.py",
+    "normalization": {
+      "keys": "snake_case",
+      "effect": {
+        "type": true,
+        "multipliers": true,
+        "additives": true
+      }
+    }
+  },
+  "automated_shipping": [
+    {
+      "id": "budget_hopper",
+      "name": "Budget Hopper",
+      "obtain": { "kind": "collection", "requirement": "Iron Ingot Collection V" },
+      "effect": {
+        "type": "auto_sell",
+        "description": "Sells excess resources for 50% of their NPC sell price.",
+        "multipliers": { "npc_sell_price_ratio": 0.5 },
+        "additives": {},
+        "conditions": { "applies_to": "excess_resources" },
+        "notes": []
+      }
+    },
+    {
+      "id": "enchanted_hopper",
+      "name": "Enchanted Hopper",
+      "obtain": { "kind": "collection", "requirement": "Iron Ingot Collection IX" },
+      "effect": {
+        "type": "auto_sell",
+        "description": "Sells excess resources for 70% of their NPC sell price.",
+        "multipliers": { "npc_sell_price_ratio": 0.7 },
+        "additives": {},
+        "conditions": { "applies_to": "excess_resources" },
+        "notes": []
+      }
+    }
+  ]
+}

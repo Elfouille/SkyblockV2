@@ -1,0 +1,12 @@
+{
+  "ts": 1770567788.1200628,
+  "value": {
+    "success": true,
+    "uuid": "26b56974e38b486cba4f0449dee370d5",
+    "session": {
+      "online": true,
+      "gameType": "SKYBLOCK",
+      "mode": "dynamic"
+    }
+  }
+}

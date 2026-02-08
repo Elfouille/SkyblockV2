@@ -1,0 +1,6 @@
+Item(s);Harvest;Harvest;Skill XP;Skill XP;NPC Sell Price;NPC Sell Price
+Item(s);Amount;%;Per Item;Per Stack;Per Item;Per Stack
+Rotten Flesh;1;100;0.3;19.2;2 Coins;128 Coins
+Carrot;1;1;0.1;6.4;3 Coins;192 Coins
+Potato;1;1;0.1;6.4;3 Coins;192 Coins
+Poisonous Potato;1;2;0;0;10 Coins;640 Coins

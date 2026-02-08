@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "source": {
+      "url": "https://wiki.hypixel.net/Minions",
+      "anchor": "#Minion_Fuel"
+    },
+    "generated_by": "tools/minions/scrape_minion_fuel.py",
+    "normalization": {
+      "keys": "snake_case",
+      "effect": {
+        "type": true,
+        "multipliers": true,
+        "additives": true,
+        "duration_seconds": true,
+        "permanent": true,
+        "conditions": true
+      }
+    }
+  },
+  "fuel": [
+    {
+      "id": "coal",
+      "name": "Coal",
+      "permanent": false,
+      "duration_seconds": 1800,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 5% for 30 minutes.",
+        "multipliers": { "speed": 0.05 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "charcoal",
+      "name": "Charcoal",
+      "permanent": false,
+      "duration_seconds": 1800,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 5% for 30 minutes.",
+        "multipliers": { "speed": 0.05 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "block_of_coal",
+      "name": "Block Of Coal",
+      "permanent": false,
+      "duration_seconds": 18000,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 5% for 5 hours.",
+        "multipliers": { "speed": 0.05 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "enchanted_coal",
+      "name": "Enchanted Coal",
+      "permanent": false,
+      "duration_seconds": 86400,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 10% for 24 hours.",
+        "multipliers": { "speed": 0.1 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "enchanted_charcoal",
+      "name": "Enchanted Charcoal",
+      "permanent": false,
+      "duration_seconds": 129600,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 20% for 36 hours.",
+        "multipliers": { "speed": 0.2 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "hamster_wheel",
+      "name": "Hamster Wheel",
+      "permanent": false,
+      "duration_seconds": 86400,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 50% for 24 hours.",
+        "multipliers": { "speed": 0.5 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "foul_flesh",
+      "name": "Foul Flesh",
+      "permanent": false,
+      "duration_seconds": 18000,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 90% for 5 hours.",
+        "multipliers": { "speed": 0.9 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "enchanted_bread",
+      "name": "Enchanted Bread",
+      "permanent": false,
+      "duration_seconds": 43200,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 5% for 12 hours.",
+        "multipliers": { "speed": 0.05 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "catalyst",
+      "name": "Catalyst",
+      "permanent": false,
+      "duration_seconds": 10800,
+      "effect": {
+        "type": "output_multiplier",
+        "description": "Increases minion output by 3x for 3 hours.",
+        "multipliers": { "output_x": 3.0 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "hyper_catalyst",
+      "name": "Hyper Catalyst",
+      "permanent": false,
+      "duration_seconds": 21600,
+      "effect": {
+        "type": "output_multiplier",
+        "description": "Increases minion output by 4x for 6 hours.",
+        "multipliers": { "output_x": 4.0 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "tasty_cheese",
+      "name": "Tasty Cheese",
+      "permanent": false,
+      "duration_seconds": 3600,
+      "effect": {
+        "type": "output_multiplier",
+        "description": "Increases minion output by 2x for 1 hour.",
+        "multipliers": { "output_x": 2.0 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "inferno_minion_fuel",
+      "name": "Inferno Minion Fuel",
+      "permanent": false,
+      "duration_seconds": null,
+      "effect": {
+        "type": "special_behavior",
+        "description": "Replaces 4/5 of the minion production with a specialty item. Only usable in Inferno Minions.",
+        "multipliers": { "production_replaced_fraction": 0.8 },
+        "additives": {},
+        "conditions": { "minion_type": "INFERNO" },
+        "notes": ["specialty_item_generated"]
+      }
+    },
+    {
+      "id": "solar_panel",
+      "name": "Solar Panel",
+      "permanent": true,
+      "duration_seconds": null,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 25% during the day.",
+        "multipliers": { "speed": 0.25 },
+        "additives": {},
+        "conditions": { "time_of_day": "day" },
+        "notes": []
+      }
+    },
+    {
+      "id": "enchanted_lava_bucket",
+      "name": "Enchanted Lava Bucket",
+      "permanent": true,
+      "duration_seconds": null,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 25%.",
+        "multipliers": { "speed": 0.25 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "magma_bucket",
+      "name": "Magma Bucket",
+      "permanent": true,
+      "duration_seconds": null,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 30%.",
+        "multipliers": { "speed": 0.3 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "plasma_bucket",
+      "name": "Plasma Bucket",
+      "permanent": true,
+      "duration_seconds": null,
+      "effect": {
+        "type": "speed",
+        "description": "Increases minion speed by 35%.",
+        "multipliers": { "speed": 0.35 },
+        "additives": {},
+        "conditions": {},
+        "notes": []
+      }
+    },
+    {
+      "id": "everburning_flame",
+      "name": "Everburning Flame",
+      "permanent": true,
+      "duration_seconds": null,
+      "effect": {
+        "type": "multi",
+        "description": "Increases minion speed by 35%. Everburning Bonus: 5% extra speed on Combat minions.",
+        "multipliers": { "speed": 0.35, "combat_minion_extra_speed": 0.05 },
+        "additives": {},
+        "conditions": {},
+        "notes": ["extra_applies_to=minion_category:COMBAT"]
+      }
+    }
+  ]
+}

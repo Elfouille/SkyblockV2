@@ -1,0 +1,240 @@
+{
+  "ts": 1770567789.730863,
+  "value": {
+    "success": true,
+    "garden": {
+      "uuid": "f0ab48bd7ece4e71a9797f4bd51792d8",
+      "commission_data": {
+        "visits": {
+          "jerry": 4,
+          "rusty": 3,
+          "fisherman": 6,
+          "tia": 2,
+          "weaponsmith": 7,
+          "beth": 19,
+          "stella": 5,
+          "librarian": 2,
+          "gold_forger": 3,
+          "liam": 5,
+          "iron_forger": 3,
+          "leo": 3,
+          "carpenter": 2,
+          "rhys": 2,
+          "duke": 2,
+          "lift_operator": 2,
+          "ryu": 1,
+          "grandma_wolf": 3,
+          "jacobus": 1,
+          "lynn": 1,
+          "tom": 5,
+          "jotraeline_greatforge": 2,
+          "hornum": 2,
+          "pet_trainer": 1,
+          "arthur": 3,
+          "dusk": 1,
+          "terry": 2,
+          "jacob": 3,
+          "fear_mongerer": 2,
+          "farm_merchant": 2,
+          "sargwyn": 5,
+          "anita": 1,
+          "andrew": 1,
+          "wizard": 2,
+          "madame_eleanor": 2,
+          "plumber_joe": 2,
+          "trevor": 1,
+          "vex": 1,
+          "tarwen": 4,
+          "mason": 2,
+          "adventurer": 2,
+          "friendly_hiker": 2,
+          "alchemist": 2,
+          "wolf_shaman": 3,
+          "royal_resident_peasant": 2,
+          "farmer_jon": 1,
+          "jack": 1,
+          "jamie": 1,
+          "master_tactician": 3,
+          "duncan": 1,
+          "lumberjack": 1,
+          "seymour": 1,
+          "shifty": 2,
+          "queen_mismyla": 1,
+          "puzzler": 1,
+          "old_man_garry": 1,
+          "farmhand": 1,
+          "moby": 1,
+          "emissary_ceanna": 1,
+          "royal_resident_neighbour": 1,
+          "sherry": 1,
+          "end_dealer": 1,
+          "geonathan_greatforge": 1
+        },
+        "completed": {
+          "jerry": 4,
+          "tia": 2,
+          "beth": 18,
+          "rusty": 3,
+          "fisherman": 2,
+          "weaponsmith": 4,
+          "leo": 3,
+          "carpenter": 2,
+          "iron_forger": 3,
+          "duke": 2,
+          "librarian": 1,
+          "lift_operator": 1,
+          "ryu": 1,
+          "jacobus": 1,
+          "grandma_wolf": 3,
+          "jotraeline_greatforge": 2,
+          "hornum": 2,
+          "pet_trainer": 1,
+          "tom": 2,
+          "arthur": 3,
+          "jacob": 3,
+          "fear_mongerer": 2,
+          "farm_merchant": 1,
+          "sargwyn": 5,
+          "andrew": 1,
+          "gold_forger": 1,
+          "madame_eleanor": 2,
+          "trevor": 1,
+          "tarwen": 4,
+          "stella": 2,
+          "liam": 3,
+          "wizard": 1,
+          "farmer_jon": 1,
+          "wolf_shaman": 1,
+          "master_tactician": 3,
+          "seymour": 1,
+          "queen_mismyla": 1,
+          "puzzler": 1,
+          "farmhand": 1,
+          "old_man_garry": 1,
+          "shifty": 1,
+          "duncan": 1,
+          "moby": 1,
+          "sherry": 1,
+          "royal_resident_neighbour": 1
+        },
+        "total_completed": 101,
+        "unique_npcs_served": 45
+      },
+      "selected_barn_skin": "cabin",
+      "crop_upgrade_levels": {
+        "WHEAT": 3,
+        "CARROT_ITEM": 3,
+        "SUGAR_CANE": 2,
+        "MELON": 3,
+        "MUSHROOM_COLLECTION": 3,
+        "PUMPKIN": 3,
+        "NETHER_STALK": 3
+      },
+      "unlocked_plots_ids": [
+        "beginner_2",
+        "beginner_1",
+        "beginner_3",
+        "beginner_4",
+        "intermediate_1",
+        "intermediate_2",
+        "intermediate_4",
+        "intermediate_3",
+        "advanced_4",
+        "advanced_6"
+      ],
+      "resources_collected": {
+        "WHEAT": 2229989,
+        "SUGAR_CANE": 489841,
+        "PUMPKIN": 1705176,
+        "MELON": 10206771,
+        "POTATO_ITEM": 2523636,
+        "CARROT_ITEM": 3019596,
+        "CACTUS": 949481,
+        "INK_SACK:3": 1494962,
+        "MUSHROOM_COLLECTION": 1869264,
+        "NETHER_STALK": 2746713,
+        "DOUBLE_PLANT": 544238,
+        "MOONFLOWER": 340840,
+        "WILD_ROSE": 891246
+      },
+      "garden_experience": 54094.0,
+      "composter_data": {
+        "organic_matter": 2617.5,
+        "fuel_units": 14800.0,
+        "compost_units": 0,
+        "compost_items": 38,
+        "conversion_ticks": 250,
+        "last_save": 1770547524481,
+        "upgrades": {
+          "speed": 1,
+          "multi_drop": 1,
+          "organic_matter_cap": 3,
+          "cost_reduction": 2
+        }
+      },
+      "active_commissions": {
+        "beth": {
+          "requirement": [
+            {
+              "original_item": "SUGAR_CANE",
+              "original_amount": 64659,
+              "item": "ENCHANTED_SUGAR",
+              "amount": 404
+            }
+          ],
+          "status": "NOT_STARTED",
+          "position": 1
+        },
+        "weaponsmith": {
+          "requirement": [
+            {
+              "original_item": "POTATO_ITEM",
+              "original_amount": 125114,
+              "item": "ENCHANTED_BAKED_POTATO",
+              "amount": 5
+            }
+          ],
+          "status": "NOT_STARTED",
+          "position": 2
+        },
+        "royal_resident_peasant": {
+          "requirement": [
+            {
+              "original_item": "MELON",
+              "original_amount": 102917,
+              "item": "ENCHANTED_MELON_BLOCK",
+              "amount": 4
+            }
+          ],
+          "status": "NOT_STARTED",
+          "position": 3
+        },
+        "geonathan_greatforge": {
+          "requirement": [
+            {
+              "original_item": "COMPOST",
+              "original_amount": 3,
+              "item": "COMPOST",
+              "amount": 3
+            }
+          ],
+          "status": "NOT_STARTED",
+          "position": 4
+        },
+        "liam": {
+          "requirement": [
+            {
+              "original_item": "PUMPKIN",
+              "original_amount": 24943,
+              "item": "POLISHED_PUMPKIN",
+              "amount": 1
+            }
+          ],
+          "status": "NOT_STARTED",
+          "position": 5
+        }
+      },
+      "unlocked_barn_skins": []
+    }
+  }
+}

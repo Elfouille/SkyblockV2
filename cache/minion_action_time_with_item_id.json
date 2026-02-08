@@ -1,0 +1,3718 @@
+{
+  "_meta": {
+    "source_index": "https://wiki.hypixel.net/Minions",
+    "generated_by": "tools/minion/scrape_minion_action_time.py",
+    "unit_action_time": "seconds"
+  },
+  "minions": {
+    "ACACIA": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0,
+          "item_id": "ACACIA_GENERATOR_1",
+          "name": "Acacia Minion I"
+        },
+        "2": {
+          "action_time": 48.0,
+          "item_id": "ACACIA_GENERATOR_2",
+          "name": "Acacia Minion II"
+        },
+        "3": {
+          "action_time": 45.0,
+          "item_id": "ACACIA_GENERATOR_3",
+          "name": "Acacia Minion III"
+        },
+        "4": {
+          "action_time": 45.0,
+          "item_id": "ACACIA_GENERATOR_4",
+          "name": "Acacia Minion IV"
+        },
+        "5": {
+          "action_time": 42.0,
+          "item_id": "ACACIA_GENERATOR_5",
+          "name": "Acacia Minion V"
+        },
+        "6": {
+          "action_time": 42.0,
+          "item_id": "ACACIA_GENERATOR_6",
+          "name": "Acacia Minion VI"
+        },
+        "7": {
+          "action_time": 38.0,
+          "item_id": "ACACIA_GENERATOR_7",
+          "name": "Acacia Minion VII"
+        },
+        "8": {
+          "action_time": 38.0,
+          "item_id": "ACACIA_GENERATOR_8",
+          "name": "Acacia Minion VIII"
+        },
+        "9": {
+          "action_time": 33.0,
+          "item_id": "ACACIA_GENERATOR_9",
+          "name": "Acacia Minion IX"
+        },
+        "10": {
+          "action_time": 33.0,
+          "item_id": "ACACIA_GENERATOR_10",
+          "name": "Acacia Minion X"
+        },
+        "11": {
+          "action_time": 27.0,
+          "item_id": "ACACIA_GENERATOR_11",
+          "name": "Acacia Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Acacia_Minion",
+      "tier_max": 11
+    },
+    "BIRCH": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0,
+          "item_id": "BIRCH_GENERATOR_1",
+          "name": "Birch Minion I"
+        },
+        "2": {
+          "action_time": 48.0,
+          "item_id": "BIRCH_GENERATOR_2",
+          "name": "Birch Minion II"
+        },
+        "3": {
+          "action_time": 45.0,
+          "item_id": "BIRCH_GENERATOR_3",
+          "name": "Birch Minion III"
+        },
+        "4": {
+          "action_time": 45.0,
+          "item_id": "BIRCH_GENERATOR_4",
+          "name": "Birch Minion IV"
+        },
+        "5": {
+          "action_time": 42.0,
+          "item_id": "BIRCH_GENERATOR_5",
+          "name": "Birch Minion V"
+        },
+        "6": {
+          "action_time": 42.0,
+          "item_id": "BIRCH_GENERATOR_6",
+          "name": "Birch Minion VI"
+        },
+        "7": {
+          "action_time": 38.0,
+          "item_id": "BIRCH_GENERATOR_7",
+          "name": "Birch Minion VII"
+        },
+        "8": {
+          "action_time": 38.0,
+          "item_id": "BIRCH_GENERATOR_8",
+          "name": "Birch Minion VIII"
+        },
+        "9": {
+          "action_time": 33.0,
+          "item_id": "BIRCH_GENERATOR_9",
+          "name": "Birch Minion IX"
+        },
+        "10": {
+          "action_time": 33.0,
+          "item_id": "BIRCH_GENERATOR_10",
+          "name": "Birch Minion X"
+        },
+        "11": {
+          "action_time": 27.0,
+          "item_id": "BIRCH_GENERATOR_11",
+          "name": "Birch Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Birch_Minion",
+      "tier_max": 11
+    },
+    "BLAZE": {
+      "tiers": {
+        "1": {
+          "action_time": 33.0,
+          "item_id": "BLAZE_GENERATOR_1",
+          "name": "Blaze Minion I"
+        },
+        "2": {
+          "action_time": 33.0,
+          "item_id": "BLAZE_GENERATOR_2",
+          "name": "Blaze Minion II"
+        },
+        "3": {
+          "action_time": 31.0,
+          "item_id": "BLAZE_GENERATOR_3",
+          "name": "Blaze Minion III"
+        },
+        "4": {
+          "action_time": 31.0,
+          "item_id": "BLAZE_GENERATOR_4",
+          "name": "Blaze Minion IV"
+        },
+        "5": {
+          "action_time": 28.5,
+          "item_id": "BLAZE_GENERATOR_5",
+          "name": "Blaze Minion V"
+        },
+        "6": {
+          "action_time": 28.5,
+          "item_id": "BLAZE_GENERATOR_6",
+          "name": "Blaze Minion VI"
+        },
+        "7": {
+          "action_time": 25.0,
+          "item_id": "BLAZE_GENERATOR_7",
+          "name": "Blaze Minion VII"
+        },
+        "8": {
+          "action_time": 25.0,
+          "item_id": "BLAZE_GENERATOR_8",
+          "name": "Blaze Minion VIII"
+        },
+        "9": {
+          "action_time": 21.0,
+          "item_id": "BLAZE_GENERATOR_9",
+          "name": "Blaze Minion IX"
+        },
+        "10": {
+          "action_time": 21.0,
+          "item_id": "BLAZE_GENERATOR_10",
+          "name": "Blaze Minion X"
+        },
+        "11": {
+          "action_time": 16.5,
+          "item_id": "BLAZE_GENERATOR_11",
+          "name": "Blaze Minion XI"
+        },
+        "12": {
+          "action_time": 15.0,
+          "item_id": "BLAZE_GENERATOR_12",
+          "name": "Blaze Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Blaze_Minion",
+      "tier_max": 12
+    },
+    "CACTUS": {
+      "tiers": {
+        "1": {
+          "action_time": 27.0,
+          "item_id": "CACTUS_GENERATOR_1",
+          "name": "Cactus Minion I"
+        },
+        "2": {
+          "action_time": 27.0,
+          "item_id": "CACTUS_GENERATOR_2",
+          "name": "Cactus Minion II"
+        },
+        "3": {
+          "action_time": 25.0,
+          "item_id": "CACTUS_GENERATOR_3",
+          "name": "Cactus Minion III"
+        },
+        "4": {
+          "action_time": 25.0,
+          "item_id": "CACTUS_GENERATOR_4",
+          "name": "Cactus Minion IV"
+        },
+        "5": {
+          "action_time": 23.0,
+          "item_id": "CACTUS_GENERATOR_5",
+          "name": "Cactus Minion V"
+        },
+        "6": {
+          "action_time": 23.0,
+          "item_id": "CACTUS_GENERATOR_6",
+          "name": "Cactus Minion VI"
+        },
+        "7": {
+          "action_time": 21.0,
+          "item_id": "CACTUS_GENERATOR_7",
+          "name": "Cactus Minion VII"
+        },
+        "8": {
+          "action_time": 21.0,
+          "item_id": "CACTUS_GENERATOR_8",
+          "name": "Cactus Minion VIII"
+        },
+        "9": {
+          "action_time": 18.0,
+          "item_id": "CACTUS_GENERATOR_9",
+          "name": "Cactus Minion IX"
+        },
+        "10": {
+          "action_time": 18.0,
+          "item_id": "CACTUS_GENERATOR_10",
+          "name": "Cactus Minion X"
+        },
+        "11": {
+          "action_time": 15.0,
+          "item_id": "CACTUS_GENERATOR_11",
+          "name": "Cactus Minion XI"
+        },
+        "12": {
+          "action_time": 12.0,
+          "item_id": "CACTUS_GENERATOR_12",
+          "name": "Cactus Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Cactus_Minion",
+      "tier_max": 12
+    },
+    "CARROT": {
+      "tiers": {
+        "1": {
+          "action_time": 20.0,
+          "item_id": "CARROT_GENERATOR_1",
+          "name": "Carrot Minion I"
+        },
+        "2": {
+          "action_time": 20.0,
+          "item_id": "CARROT_GENERATOR_2",
+          "name": "Carrot Minion II"
+        },
+        "3": {
+          "action_time": 18.0,
+          "item_id": "CARROT_GENERATOR_3",
+          "name": "Carrot Minion III"
+        },
+        "4": {
+          "action_time": 18.0,
+          "item_id": "CARROT_GENERATOR_4",
+          "name": "Carrot Minion IV"
+        },
+        "5": {
+          "action_time": 16.0,
+          "item_id": "CARROT_GENERATOR_5",
+          "name": "Carrot Minion V"
+        },
+        "6": {
+          "action_time": 16.0,
+          "item_id": "CARROT_GENERATOR_6",
+          "name": "Carrot Minion VI"
+        },
+        "7": {
+          "action_time": 14.0,
+          "item_id": "CARROT_GENERATOR_7",
+          "name": "Carrot Minion VII"
+        },
+        "8": {
+          "action_time": 14.0,
+          "item_id": "CARROT_GENERATOR_8",
+          "name": "Carrot Minion VIII"
+        },
+        "9": {
+          "action_time": 12.0,
+          "item_id": "CARROT_GENERATOR_9",
+          "name": "Carrot Minion IX"
+        },
+        "10": {
+          "action_time": 12.0,
+          "item_id": "CARROT_GENERATOR_10",
+          "name": "Carrot Minion X"
+        },
+        "11": {
+          "action_time": 10.0,
+          "item_id": "CARROT_GENERATOR_11",
+          "name": "Carrot Minion XI"
+        },
+        "12": {
+          "action_time": 8.0,
+          "item_id": "CARROT_GENERATOR_12",
+          "name": "Carrot Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Carrot_Minion",
+      "tier_max": 12
+    },
+    "CAVE_SPIDER": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 20.0
+        },
+        "8": {
+          "action_time": 20.0
+        },
+        "9": {
+          "action_time": 17.0
+        },
+        "10": {
+          "action_time": 17.0
+        },
+        "11": {
+          "action_time": 13.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Cave_Spider_Minion",
+      "tier_max": 11
+    },
+    "CHICKEN": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "CHICKEN_GENERATOR_1",
+          "name": "Chicken Minion I"
+        },
+        "2": {
+          "action_time": 26.0,
+          "item_id": "CHICKEN_GENERATOR_2",
+          "name": "Chicken Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "CHICKEN_GENERATOR_3",
+          "name": "Chicken Minion III"
+        },
+        "4": {
+          "action_time": 24.0,
+          "item_id": "CHICKEN_GENERATOR_4",
+          "name": "Chicken Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "CHICKEN_GENERATOR_5",
+          "name": "Chicken Minion V"
+        },
+        "6": {
+          "action_time": 22.0,
+          "item_id": "CHICKEN_GENERATOR_6",
+          "name": "Chicken Minion VI"
+        },
+        "7": {
+          "action_time": 20.0,
+          "item_id": "CHICKEN_GENERATOR_7",
+          "name": "Chicken Minion VII"
+        },
+        "8": {
+          "action_time": 20.0,
+          "item_id": "CHICKEN_GENERATOR_8",
+          "name": "Chicken Minion VIII"
+        },
+        "9": {
+          "action_time": 18.0,
+          "item_id": "CHICKEN_GENERATOR_9",
+          "name": "Chicken Minion IX"
+        },
+        "10": {
+          "action_time": 18.0,
+          "item_id": "CHICKEN_GENERATOR_10",
+          "name": "Chicken Minion X"
+        },
+        "11": {
+          "action_time": 15.0,
+          "item_id": "CHICKEN_GENERATOR_11",
+          "name": "Chicken Minion XI"
+        },
+        "12": {
+          "action_time": 12.0,
+          "item_id": "CHICKEN_GENERATOR_12",
+          "name": "Chicken Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Chicken_Minion",
+      "tier_max": 12
+    },
+    "CLAY": {
+      "tiers": {
+        "1": {
+          "action_time": 32.0,
+          "item_id": "CLAY_GENERATOR_1",
+          "name": "Clay Minion I"
+        },
+        "2": {
+          "action_time": 32.0,
+          "item_id": "CLAY_GENERATOR_2",
+          "name": "Clay Minion II"
+        },
+        "3": {
+          "action_time": 30.0,
+          "item_id": "CLAY_GENERATOR_3",
+          "name": "Clay Minion III"
+        },
+        "4": {
+          "action_time": 30.0,
+          "item_id": "CLAY_GENERATOR_4",
+          "name": "Clay Minion IV"
+        },
+        "5": {
+          "action_time": 27.5,
+          "item_id": "CLAY_GENERATOR_5",
+          "name": "Clay Minion V"
+        },
+        "6": {
+          "action_time": 27.5,
+          "item_id": "CLAY_GENERATOR_6",
+          "name": "Clay Minion VI"
+        },
+        "7": {
+          "action_time": 24.0,
+          "item_id": "CLAY_GENERATOR_7",
+          "name": "Clay Minion VII"
+        },
+        "8": {
+          "action_time": 24.0,
+          "item_id": "CLAY_GENERATOR_8",
+          "name": "Clay Minion VIII"
+        },
+        "9": {
+          "action_time": 20.0,
+          "item_id": "CLAY_GENERATOR_9",
+          "name": "Clay Minion IX"
+        },
+        "10": {
+          "action_time": 20.0,
+          "item_id": "CLAY_GENERATOR_10",
+          "name": "Clay Minion X"
+        },
+        "11": {
+          "action_time": 16.0,
+          "item_id": "CLAY_GENERATOR_11",
+          "name": "Clay Minion XI"
+        },
+        "12": {
+          "action_time": 14.0,
+          "item_id": "CLAY_GENERATOR_12",
+          "name": "Clay Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Clay_Minion",
+      "tier_max": 12
+    },
+    "COAL": {
+      "tiers": {
+        "1": {
+          "action_time": 15.0,
+          "item_id": "COAL_GENERATOR_1",
+          "name": "Coal Minion I"
+        },
+        "2": {
+          "action_time": 15.0,
+          "item_id": "COAL_GENERATOR_2",
+          "name": "Coal Minion II"
+        },
+        "3": {
+          "action_time": 13.0,
+          "item_id": "COAL_GENERATOR_3",
+          "name": "Coal Minion III"
+        },
+        "4": {
+          "action_time": 13.0,
+          "item_id": "COAL_GENERATOR_4",
+          "name": "Coal Minion IV"
+        },
+        "5": {
+          "action_time": 12.0,
+          "item_id": "COAL_GENERATOR_5",
+          "name": "Coal Minion V"
+        },
+        "6": {
+          "action_time": 12.0,
+          "item_id": "COAL_GENERATOR_6",
+          "name": "Coal Minion VI"
+        },
+        "7": {
+          "action_time": 10.0,
+          "item_id": "COAL_GENERATOR_7",
+          "name": "Coal Minion VII"
+        },
+        "8": {
+          "action_time": 10.0,
+          "item_id": "COAL_GENERATOR_8",
+          "name": "Coal Minion VIII"
+        },
+        "9": {
+          "action_time": 9.0,
+          "item_id": "COAL_GENERATOR_9",
+          "name": "Coal Minion IX"
+        },
+        "10": {
+          "action_time": 9.0,
+          "item_id": "COAL_GENERATOR_10",
+          "name": "Coal Minion X"
+        },
+        "11": {
+          "action_time": 7.0,
+          "item_id": "COAL_GENERATOR_11",
+          "name": "Coal Minion XI"
+        },
+        "12": {
+          "action_time": 6.0,
+          "item_id": "COAL_GENERATOR_12",
+          "name": "Coal Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Coal_Minion",
+      "tier_max": 12
+    },
+    "COBBLESTONE": {
+      "tiers": {
+        "1": {
+          "action_time": 14.0,
+          "item_id": "COBBLESTONE_GENERATOR_1",
+          "name": "Cobblestone Minion I"
+        },
+        "2": {
+          "action_time": 14.0,
+          "item_id": "COBBLESTONE_GENERATOR_2",
+          "name": "Cobblestone Minion II"
+        },
+        "3": {
+          "action_time": 12.0,
+          "item_id": "COBBLESTONE_GENERATOR_3",
+          "name": "Cobblestone Minion III"
+        },
+        "4": {
+          "action_time": 12.0,
+          "item_id": "COBBLESTONE_GENERATOR_4",
+          "name": "Cobblestone Minion IV"
+        },
+        "5": {
+          "action_time": 10.0,
+          "item_id": "COBBLESTONE_GENERATOR_5",
+          "name": "Cobblestone Minion V"
+        },
+        "6": {
+          "action_time": 10.0,
+          "item_id": "COBBLESTONE_GENERATOR_6",
+          "name": "Cobblestone Minion VI"
+        },
+        "7": {
+          "action_time": 9.0,
+          "item_id": "COBBLESTONE_GENERATOR_7",
+          "name": "Cobblestone Minion VII"
+        },
+        "8": {
+          "action_time": 9.0,
+          "item_id": "COBBLESTONE_GENERATOR_8",
+          "name": "Cobblestone Minion VIII"
+        },
+        "9": {
+          "action_time": 8.0,
+          "item_id": "COBBLESTONE_GENERATOR_9",
+          "name": "Cobblestone Minion IX"
+        },
+        "10": {
+          "action_time": 8.0,
+          "item_id": "COBBLESTONE_GENERATOR_10",
+          "name": "Cobblestone Minion X"
+        },
+        "11": {
+          "action_time": 7.0,
+          "item_id": "COBBLESTONE_GENERATOR_11",
+          "name": "Cobblestone Minion XI"
+        },
+        "12": {
+          "action_time": 6.0,
+          "item_id": "COBBLESTONE_GENERATOR_12",
+          "name": "Cobblestone Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Cobblestone_Minion",
+      "tier_max": 12
+    },
+    "COCOA_BEANS": {
+      "tiers": {
+        "1": {
+          "action_time": 27.0
+        },
+        "2": {
+          "action_time": 27.0
+        },
+        "3": {
+          "action_time": 25.0
+        },
+        "4": {
+          "action_time": 25.0
+        },
+        "5": {
+          "action_time": 23.0
+        },
+        "6": {
+          "action_time": 23.0
+        },
+        "7": {
+          "action_time": 21.0
+        },
+        "8": {
+          "action_time": 21.0
+        },
+        "9": {
+          "action_time": 18.0
+        },
+        "10": {
+          "action_time": 18.0
+        },
+        "11": {
+          "action_time": 15.0
+        },
+        "12": {
+          "action_time": 12.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Cocoa_Beans_Minion",
+      "tier_max": 12
+    },
+    "COW": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "COW_GENERATOR_1",
+          "name": "Cow Minion I"
+        },
+        "2": {
+          "action_time": 26.0,
+          "item_id": "COW_GENERATOR_2",
+          "name": "Cow Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "COW_GENERATOR_3",
+          "name": "Cow Minion III"
+        },
+        "4": {
+          "action_time": 24.0,
+          "item_id": "COW_GENERATOR_4",
+          "name": "Cow Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "COW_GENERATOR_5",
+          "name": "Cow Minion V"
+        },
+        "6": {
+          "action_time": 22.0,
+          "item_id": "COW_GENERATOR_6",
+          "name": "Cow Minion VI"
+        },
+        "7": {
+          "action_time": 20.0,
+          "item_id": "COW_GENERATOR_7",
+          "name": "Cow Minion VII"
+        },
+        "8": {
+          "action_time": 20.0,
+          "item_id": "COW_GENERATOR_8",
+          "name": "Cow Minion VIII"
+        },
+        "9": {
+          "action_time": 17.0,
+          "item_id": "COW_GENERATOR_9",
+          "name": "Cow Minion IX"
+        },
+        "10": {
+          "action_time": 17.0,
+          "item_id": "COW_GENERATOR_10",
+          "name": "Cow Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "COW_GENERATOR_11",
+          "name": "Cow Minion XI"
+        },
+        "12": {
+          "action_time": 10.0,
+          "item_id": "COW_GENERATOR_12",
+          "name": "Cow Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Cow_Minion",
+      "tier_max": 12
+    },
+    "CREEPER": {
+      "tiers": {
+        "1": {
+          "action_time": 27.0,
+          "item_id": "CREEPER_GENERATOR_1",
+          "name": "Creeper Minion I"
+        },
+        "2": {
+          "action_time": 27.0,
+          "item_id": "CREEPER_GENERATOR_2",
+          "name": "Creeper Minion II"
+        },
+        "3": {
+          "action_time": 25.0,
+          "item_id": "CREEPER_GENERATOR_3",
+          "name": "Creeper Minion III"
+        },
+        "4": {
+          "action_time": 25.0,
+          "item_id": "CREEPER_GENERATOR_4",
+          "name": "Creeper Minion IV"
+        },
+        "5": {
+          "action_time": 23.0,
+          "item_id": "CREEPER_GENERATOR_5",
+          "name": "Creeper Minion V"
+        },
+        "6": {
+          "action_time": 23.0,
+          "item_id": "CREEPER_GENERATOR_6",
+          "name": "Creeper Minion VI"
+        },
+        "7": {
+          "action_time": 21.0,
+          "item_id": "CREEPER_GENERATOR_7",
+          "name": "Creeper Minion VII"
+        },
+        "8": {
+          "action_time": 21.0,
+          "item_id": "CREEPER_GENERATOR_8",
+          "name": "Creeper Minion VIII"
+        },
+        "9": {
+          "action_time": 18.0,
+          "item_id": "CREEPER_GENERATOR_9",
+          "name": "Creeper Minion IX"
+        },
+        "10": {
+          "action_time": 18.0,
+          "item_id": "CREEPER_GENERATOR_10",
+          "name": "Creeper Minion X"
+        },
+        "11": {
+          "action_time": 14.0,
+          "item_id": "CREEPER_GENERATOR_11",
+          "name": "Creeper Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Creeper_Minion",
+      "tier_max": 11
+    },
+    "DARK_OAK": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0,
+          "item_id": "DARK_OAK_GENERATOR_1",
+          "name": "Dark Oak Minion I"
+        },
+        "2": {
+          "action_time": 48.0,
+          "item_id": "DARK_OAK_GENERATOR_2",
+          "name": "Dark Oak Minion II"
+        },
+        "3": {
+          "action_time": 45.0,
+          "item_id": "DARK_OAK_GENERATOR_3",
+          "name": "Dark Oak Minion III"
+        },
+        "4": {
+          "action_time": 45.0,
+          "item_id": "DARK_OAK_GENERATOR_4",
+          "name": "Dark Oak Minion IV"
+        },
+        "5": {
+          "action_time": 42.0,
+          "item_id": "DARK_OAK_GENERATOR_5",
+          "name": "Dark Oak Minion V"
+        },
+        "6": {
+          "action_time": 42.0,
+          "item_id": "DARK_OAK_GENERATOR_6",
+          "name": "Dark Oak Minion VI"
+        },
+        "7": {
+          "action_time": 38.0,
+          "item_id": "DARK_OAK_GENERATOR_7",
+          "name": "Dark Oak Minion VII"
+        },
+        "8": {
+          "action_time": 38.0,
+          "item_id": "DARK_OAK_GENERATOR_8",
+          "name": "Dark Oak Minion VIII"
+        },
+        "9": {
+          "action_time": 33.0,
+          "item_id": "DARK_OAK_GENERATOR_9",
+          "name": "Dark Oak Minion IX"
+        },
+        "10": {
+          "action_time": 33.0,
+          "item_id": "DARK_OAK_GENERATOR_10",
+          "name": "Dark Oak Minion X"
+        },
+        "11": {
+          "action_time": 27.0,
+          "item_id": "DARK_OAK_GENERATOR_11",
+          "name": "Dark Oak Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Dark_Oak_Minion",
+      "tier_max": 11
+    },
+    "DIAMOND": {
+      "tiers": {
+        "1": {
+          "action_time": 29.0,
+          "item_id": "DIAMOND_GENERATOR_1",
+          "name": "Diamond Minion I"
+        },
+        "2": {
+          "action_time": 29.0,
+          "item_id": "DIAMOND_GENERATOR_2",
+          "name": "Diamond Minion II"
+        },
+        "3": {
+          "action_time": 27.0,
+          "item_id": "DIAMOND_GENERATOR_3",
+          "name": "Diamond Minion III"
+        },
+        "4": {
+          "action_time": 27.0,
+          "item_id": "DIAMOND_GENERATOR_4",
+          "name": "Diamond Minion IV"
+        },
+        "5": {
+          "action_time": 25.0,
+          "item_id": "DIAMOND_GENERATOR_5",
+          "name": "Diamond Minion V"
+        },
+        "6": {
+          "action_time": 25.0,
+          "item_id": "DIAMOND_GENERATOR_6",
+          "name": "Diamond Minion VI"
+        },
+        "7": {
+          "action_time": 22.0,
+          "item_id": "DIAMOND_GENERATOR_7",
+          "name": "Diamond Minion VII"
+        },
+        "8": {
+          "action_time": 22.0,
+          "item_id": "DIAMOND_GENERATOR_8",
+          "name": "Diamond Minion VIII"
+        },
+        "9": {
+          "action_time": 19.0,
+          "item_id": "DIAMOND_GENERATOR_9",
+          "name": "Diamond Minion IX"
+        },
+        "10": {
+          "action_time": 19.0,
+          "item_id": "DIAMOND_GENERATOR_10",
+          "name": "Diamond Minion X"
+        },
+        "11": {
+          "action_time": 15.0,
+          "item_id": "DIAMOND_GENERATOR_11",
+          "name": "Diamond Minion XI"
+        },
+        "12": {
+          "action_time": 12.0,
+          "item_id": "DIAMOND_GENERATOR_12",
+          "name": "Diamond Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Diamond_Minion",
+      "tier_max": 12
+    },
+    "EMERALD": {
+      "tiers": {
+        "1": {
+          "action_time": 28.0,
+          "item_id": "EMERALD_GENERATOR_1",
+          "name": "Emerald Minion I"
+        },
+        "2": {
+          "action_time": 28.0,
+          "item_id": "EMERALD_GENERATOR_2",
+          "name": "Emerald Minion II"
+        },
+        "3": {
+          "action_time": 26.0,
+          "item_id": "EMERALD_GENERATOR_3",
+          "name": "Emerald Minion III"
+        },
+        "4": {
+          "action_time": 26.0,
+          "item_id": "EMERALD_GENERATOR_4",
+          "name": "Emerald Minion IV"
+        },
+        "5": {
+          "action_time": 24.0,
+          "item_id": "EMERALD_GENERATOR_5",
+          "name": "Emerald Minion V"
+        },
+        "6": {
+          "action_time": 24.0,
+          "item_id": "EMERALD_GENERATOR_6",
+          "name": "Emerald Minion VI"
+        },
+        "7": {
+          "action_time": 21.0,
+          "item_id": "EMERALD_GENERATOR_7",
+          "name": "Emerald Minion VII"
+        },
+        "8": {
+          "action_time": 21.0,
+          "item_id": "EMERALD_GENERATOR_8",
+          "name": "Emerald Minion VIII"
+        },
+        "9": {
+          "action_time": 18.0,
+          "item_id": "EMERALD_GENERATOR_9",
+          "name": "Emerald Minion IX"
+        },
+        "10": {
+          "action_time": 18.0,
+          "item_id": "EMERALD_GENERATOR_10",
+          "name": "Emerald Minion X"
+        },
+        "11": {
+          "action_time": 14.0,
+          "item_id": "EMERALD_GENERATOR_11",
+          "name": "Emerald Minion XI"
+        },
+        "12": {
+          "action_time": 12.0,
+          "item_id": "EMERALD_GENERATOR_12",
+          "name": "Emerald Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Emerald_Minion",
+      "tier_max": 12
+    },
+    "END_STONE": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0
+        },
+        "2": {
+          "action_time": 26.0
+        },
+        "3": {
+          "action_time": 24.0
+        },
+        "4": {
+          "action_time": 24.0
+        },
+        "5": {
+          "action_time": 22.0
+        },
+        "6": {
+          "action_time": 22.0
+        },
+        "7": {
+          "action_time": 19.0
+        },
+        "8": {
+          "action_time": 19.0
+        },
+        "9": {
+          "action_time": 16.0
+        },
+        "10": {
+          "action_time": 16.0
+        },
+        "11": {
+          "action_time": 13.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/End_Stone_Minion",
+      "tier_max": 11
+    },
+    "ENDERMAN": {
+      "tiers": {
+        "1": {
+          "action_time": 32.0,
+          "item_id": "ENDERMAN_GENERATOR_1",
+          "name": "Enderman Minion I"
+        },
+        "2": {
+          "action_time": 32.0,
+          "item_id": "ENDERMAN_GENERATOR_2",
+          "name": "Enderman Minion II"
+        },
+        "3": {
+          "action_time": 30.0,
+          "item_id": "ENDERMAN_GENERATOR_3",
+          "name": "Enderman Minion III"
+        },
+        "4": {
+          "action_time": 30.0,
+          "item_id": "ENDERMAN_GENERATOR_4",
+          "name": "Enderman Minion IV"
+        },
+        "5": {
+          "action_time": 28.0,
+          "item_id": "ENDERMAN_GENERATOR_5",
+          "name": "Enderman Minion V"
+        },
+        "6": {
+          "action_time": 28.0,
+          "item_id": "ENDERMAN_GENERATOR_6",
+          "name": "Enderman Minion VI"
+        },
+        "7": {
+          "action_time": 25.0,
+          "item_id": "ENDERMAN_GENERATOR_7",
+          "name": "Enderman Minion VII"
+        },
+        "8": {
+          "action_time": 25.0,
+          "item_id": "ENDERMAN_GENERATOR_8",
+          "name": "Enderman Minion VIII"
+        },
+        "9": {
+          "action_time": 22.0,
+          "item_id": "ENDERMAN_GENERATOR_9",
+          "name": "Enderman Minion IX"
+        },
+        "10": {
+          "action_time": 22.0,
+          "item_id": "ENDERMAN_GENERATOR_10",
+          "name": "Enderman Minion X"
+        },
+        "11": {
+          "action_time": 18.0,
+          "item_id": "ENDERMAN_GENERATOR_11",
+          "name": "Enderman Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Enderman_Minion",
+      "tier_max": 11
+    },
+    "FISHING": {
+      "tiers": {
+        "1": {
+          "action_time": 75.0,
+          "item_id": "FISHING_GENERATOR_1",
+          "name": "Fishing Minion I"
+        },
+        "2": {
+          "action_time": 75.0,
+          "item_id": "FISHING_GENERATOR_2",
+          "name": "Fishing Minion II"
+        },
+        "3": {
+          "action_time": 67.0,
+          "item_id": "FISHING_GENERATOR_3",
+          "name": "Fishing Minion III"
+        },
+        "4": {
+          "action_time": 67.0,
+          "item_id": "FISHING_GENERATOR_4",
+          "name": "Fishing Minion IV"
+        },
+        "5": {
+          "action_time": 59.0,
+          "item_id": "FISHING_GENERATOR_5",
+          "name": "Fishing Minion V"
+        },
+        "6": {
+          "action_time": 59.0,
+          "item_id": "FISHING_GENERATOR_6",
+          "name": "Fishing Minion VI"
+        },
+        "7": {
+          "action_time": 51.0,
+          "item_id": "FISHING_GENERATOR_7",
+          "name": "Fishing Minion VII"
+        },
+        "8": {
+          "action_time": 51.0,
+          "item_id": "FISHING_GENERATOR_8",
+          "name": "Fishing Minion VIII"
+        },
+        "9": {
+          "action_time": 43.0,
+          "item_id": "FISHING_GENERATOR_9",
+          "name": "Fishing Minion IX"
+        },
+        "10": {
+          "action_time": 43.0,
+          "item_id": "FISHING_GENERATOR_10",
+          "name": "Fishing Minion X"
+        },
+        "11": {
+          "action_time": 35.0,
+          "item_id": "FISHING_GENERATOR_11",
+          "name": "Fishing Minion XI"
+        },
+        "12": {
+          "action_time": 30.0,
+          "item_id": "FISHING_GENERATOR_12",
+          "name": "Fishing Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Fishing_Minion",
+      "tier_max": 12
+    },
+    "FLOWER": {
+      "tiers": {
+        "1": {
+          "action_time": 30.0,
+          "item_id": "FLOWER_GENERATOR_1",
+          "name": "Flower Minion I"
+        },
+        "2": {
+          "action_time": 29.0,
+          "item_id": "FLOWER_GENERATOR_2",
+          "name": "Flower Minion II"
+        },
+        "3": {
+          "action_time": 28.0,
+          "item_id": "FLOWER_GENERATOR_3",
+          "name": "Flower Minion III"
+        },
+        "4": {
+          "action_time": 27.0,
+          "item_id": "FLOWER_GENERATOR_4",
+          "name": "Flower Minion IV"
+        },
+        "5": {
+          "action_time": 26.0,
+          "item_id": "FLOWER_GENERATOR_5",
+          "name": "Flower Minion V"
+        },
+        "6": {
+          "action_time": 25.0,
+          "item_id": "FLOWER_GENERATOR_6",
+          "name": "Flower Minion VI"
+        },
+        "7": {
+          "action_time": 24.0,
+          "item_id": "FLOWER_GENERATOR_7",
+          "name": "Flower Minion VII"
+        },
+        "8": {
+          "action_time": 23.0,
+          "item_id": "FLOWER_GENERATOR_8",
+          "name": "Flower Minion VIII"
+        },
+        "9": {
+          "action_time": 22.0,
+          "item_id": "FLOWER_GENERATOR_9",
+          "name": "Flower Minion IX"
+        },
+        "10": {
+          "action_time": 20.0,
+          "item_id": "FLOWER_GENERATOR_10",
+          "name": "Flower Minion X"
+        },
+        "11": {
+          "action_time": 18.0,
+          "item_id": "FLOWER_GENERATOR_11",
+          "name": "Flower Minion XI"
+        },
+        "12": {
+          "action_time": 15.0,
+          "item_id": "FLOWER_GENERATOR_12",
+          "name": "Flower Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Flower_Minion",
+      "tier_max": 12
+    },
+    "GHAST": {
+      "tiers": {
+        "1": {
+          "action_time": 50.0,
+          "item_id": "GHAST_GENERATOR_1",
+          "name": "Ghast Minion I"
+        },
+        "2": {
+          "action_time": 50.0,
+          "item_id": "GHAST_GENERATOR_2",
+          "name": "Ghast Minion II"
+        },
+        "3": {
+          "action_time": 47.0,
+          "item_id": "GHAST_GENERATOR_3",
+          "name": "Ghast Minion III"
+        },
+        "4": {
+          "action_time": 47.0,
+          "item_id": "GHAST_GENERATOR_4",
+          "name": "Ghast Minion IV"
+        },
+        "5": {
+          "action_time": 44.0,
+          "item_id": "GHAST_GENERATOR_5",
+          "name": "Ghast Minion V"
+        },
+        "6": {
+          "action_time": 44.0,
+          "item_id": "GHAST_GENERATOR_6",
+          "name": "Ghast Minion VI"
+        },
+        "7": {
+          "action_time": 41.0,
+          "item_id": "GHAST_GENERATOR_7",
+          "name": "Ghast Minion VII"
+        },
+        "8": {
+          "action_time": 41.0,
+          "item_id": "GHAST_GENERATOR_8",
+          "name": "Ghast Minion VIII"
+        },
+        "9": {
+          "action_time": 38.0,
+          "item_id": "GHAST_GENERATOR_9",
+          "name": "Ghast Minion IX"
+        },
+        "10": {
+          "action_time": 38.0,
+          "item_id": "GHAST_GENERATOR_10",
+          "name": "Ghast Minion X"
+        },
+        "11": {
+          "action_time": 32.0,
+          "item_id": "GHAST_GENERATOR_11",
+          "name": "Ghast Minion XI"
+        },
+        "12": {
+          "action_time": 30.0,
+          "item_id": "GHAST_GENERATOR_12",
+          "name": "Ghast Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Ghast_Minion",
+      "tier_max": 12
+    },
+    "GLOWSTONE": {
+      "tiers": {
+        "1": {
+          "action_time": 25.0,
+          "item_id": "GLOWSTONE_GENERATOR_1",
+          "name": "Glowstone Minion I"
+        },
+        "2": {
+          "action_time": 25.0,
+          "item_id": "GLOWSTONE_GENERATOR_2",
+          "name": "Glowstone Minion II"
+        },
+        "3": {
+          "action_time": 23.0,
+          "item_id": "GLOWSTONE_GENERATOR_3",
+          "name": "Glowstone Minion III"
+        },
+        "4": {
+          "action_time": 23.0,
+          "item_id": "GLOWSTONE_GENERATOR_4",
+          "name": "Glowstone Minion IV"
+        },
+        "5": {
+          "action_time": 21.0,
+          "item_id": "GLOWSTONE_GENERATOR_5",
+          "name": "Glowstone Minion V"
+        },
+        "6": {
+          "action_time": 21.0,
+          "item_id": "GLOWSTONE_GENERATOR_6",
+          "name": "Glowstone Minion VI"
+        },
+        "7": {
+          "action_time": 19.0,
+          "item_id": "GLOWSTONE_GENERATOR_7",
+          "name": "Glowstone Minion VII"
+        },
+        "8": {
+          "action_time": 19.0,
+          "item_id": "GLOWSTONE_GENERATOR_8",
+          "name": "Glowstone Minion VIII"
+        },
+        "9": {
+          "action_time": 16.0,
+          "item_id": "GLOWSTONE_GENERATOR_9",
+          "name": "Glowstone Minion IX"
+        },
+        "10": {
+          "action_time": 16.0,
+          "item_id": "GLOWSTONE_GENERATOR_10",
+          "name": "Glowstone Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "GLOWSTONE_GENERATOR_11",
+          "name": "Glowstone Minion XI"
+        },
+        "12": {
+          "action_time": 11.0,
+          "item_id": "GLOWSTONE_GENERATOR_12",
+          "name": "Glowstone Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Glowstone_Minion",
+      "tier_max": 12
+    },
+    "GOLD": {
+      "tiers": {
+        "1": {
+          "action_time": 22.0,
+          "item_id": "GOLD_GENERATOR_1",
+          "name": "Gold Minion I"
+        },
+        "2": {
+          "action_time": 22.0,
+          "item_id": "GOLD_GENERATOR_2",
+          "name": "Gold Minion II"
+        },
+        "3": {
+          "action_time": 20.0,
+          "item_id": "GOLD_GENERATOR_3",
+          "name": "Gold Minion III"
+        },
+        "4": {
+          "action_time": 20.0,
+          "item_id": "GOLD_GENERATOR_4",
+          "name": "Gold Minion IV"
+        },
+        "5": {
+          "action_time": 18.0,
+          "item_id": "GOLD_GENERATOR_5",
+          "name": "Gold Minion V"
+        },
+        "6": {
+          "action_time": 18.0,
+          "item_id": "GOLD_GENERATOR_6",
+          "name": "Gold Minion VI"
+        },
+        "7": {
+          "action_time": 16.0,
+          "item_id": "GOLD_GENERATOR_7",
+          "name": "Gold Minion VII"
+        },
+        "8": {
+          "action_time": 16.0,
+          "item_id": "GOLD_GENERATOR_8",
+          "name": "Gold Minion VIII"
+        },
+        "9": {
+          "action_time": 14.0,
+          "item_id": "GOLD_GENERATOR_9",
+          "name": "Gold Minion IX"
+        },
+        "10": {
+          "action_time": 14.0,
+          "item_id": "GOLD_GENERATOR_10",
+          "name": "Gold Minion X"
+        },
+        "11": {
+          "action_time": 11.0,
+          "item_id": "GOLD_GENERATOR_11",
+          "name": "Gold Minion XI"
+        },
+        "12": {
+          "action_time": 9.0,
+          "item_id": "GOLD_GENERATOR_12",
+          "name": "Gold Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Gold_Minion",
+      "tier_max": 12
+    },
+    "GRAVEL": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "GRAVEL_GENERATOR_1",
+          "name": "Gravel Minion I"
+        },
+        "2": {
+          "action_time": 26.0,
+          "item_id": "GRAVEL_GENERATOR_2",
+          "name": "Gravel Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "GRAVEL_GENERATOR_3",
+          "name": "Gravel Minion III"
+        },
+        "4": {
+          "action_time": 24.0,
+          "item_id": "GRAVEL_GENERATOR_4",
+          "name": "Gravel Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "GRAVEL_GENERATOR_5",
+          "name": "Gravel Minion V"
+        },
+        "6": {
+          "action_time": 22.0,
+          "item_id": "GRAVEL_GENERATOR_6",
+          "name": "Gravel Minion VI"
+        },
+        "7": {
+          "action_time": 19.0,
+          "item_id": "GRAVEL_GENERATOR_7",
+          "name": "Gravel Minion VII"
+        },
+        "8": {
+          "action_time": 19.0,
+          "item_id": "GRAVEL_GENERATOR_8",
+          "name": "Gravel Minion VIII"
+        },
+        "9": {
+          "action_time": 16.0,
+          "item_id": "GRAVEL_GENERATOR_9",
+          "name": "Gravel Minion IX"
+        },
+        "10": {
+          "action_time": 16.0,
+          "item_id": "GRAVEL_GENERATOR_10",
+          "name": "Gravel Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "GRAVEL_GENERATOR_11",
+          "name": "Gravel Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Gravel_Minion",
+      "tier_max": 11
+    },
+    "HARD_STONE": {
+      "tiers": {
+        "1": {
+          "action_time": 14.0,
+          "item_id": "HARD_STONE_GENERATOR_1",
+          "name": "Hard Stone Minion I"
+        },
+        "2": {
+          "action_time": 14.0,
+          "item_id": "HARD_STONE_GENERATOR_2",
+          "name": "Hard Stone Minion II"
+        },
+        "3": {
+          "action_time": 12.0,
+          "item_id": "HARD_STONE_GENERATOR_3",
+          "name": "Hard Stone Minion III"
+        },
+        "4": {
+          "action_time": 12.0,
+          "item_id": "HARD_STONE_GENERATOR_4",
+          "name": "Hard Stone Minion IV"
+        },
+        "5": {
+          "action_time": 10.0,
+          "item_id": "HARD_STONE_GENERATOR_5",
+          "name": "Hard Stone Minion V"
+        },
+        "6": {
+          "action_time": 10.0,
+          "item_id": "HARD_STONE_GENERATOR_6",
+          "name": "Hard Stone Minion VI"
+        },
+        "7": {
+          "action_time": 9.0,
+          "item_id": "HARD_STONE_GENERATOR_7",
+          "name": "Hard Stone Minion VII"
+        },
+        "8": {
+          "action_time": 9.0,
+          "item_id": "HARD_STONE_GENERATOR_8",
+          "name": "Hard Stone Minion VIII"
+        },
+        "9": {
+          "action_time": 8.0,
+          "item_id": "HARD_STONE_GENERATOR_9",
+          "name": "Hard Stone Minion IX"
+        },
+        "10": {
+          "action_time": 8.0,
+          "item_id": "HARD_STONE_GENERATOR_10",
+          "name": "Hard Stone Minion X"
+        },
+        "11": {
+          "action_time": 7.0,
+          "item_id": "HARD_STONE_GENERATOR_11",
+          "name": "Hard Stone Minion XI"
+        },
+        "12": {
+          "action_time": 6.0,
+          "item_id": "HARD_STONE_GENERATOR_12",
+          "name": "Hard Stone Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Hard_Stone_Minion",
+      "tier_max": 12
+    },
+    "ICE": {
+      "tiers": {
+        "1": {
+          "action_time": 14.0,
+          "item_id": "ICE_GENERATOR_1",
+          "name": "Ice Minion I"
+        },
+        "2": {
+          "action_time": 14.0,
+          "item_id": "ICE_GENERATOR_2",
+          "name": "Ice Minion II"
+        },
+        "3": {
+          "action_time": 12.0,
+          "item_id": "ICE_GENERATOR_3",
+          "name": "Ice Minion III"
+        },
+        "4": {
+          "action_time": 12.0,
+          "item_id": "ICE_GENERATOR_4",
+          "name": "Ice Minion IV"
+        },
+        "5": {
+          "action_time": 10.0,
+          "item_id": "ICE_GENERATOR_5",
+          "name": "Ice Minion V"
+        },
+        "6": {
+          "action_time": 10.0,
+          "item_id": "ICE_GENERATOR_6",
+          "name": "Ice Minion VI"
+        },
+        "7": {
+          "action_time": 9.0,
+          "item_id": "ICE_GENERATOR_7",
+          "name": "Ice Minion VII"
+        },
+        "8": {
+          "action_time": 9.0,
+          "item_id": "ICE_GENERATOR_8",
+          "name": "Ice Minion VIII"
+        },
+        "9": {
+          "action_time": 8.0,
+          "item_id": "ICE_GENERATOR_9",
+          "name": "Ice Minion IX"
+        },
+        "10": {
+          "action_time": 8.0,
+          "item_id": "ICE_GENERATOR_10",
+          "name": "Ice Minion X"
+        },
+        "11": {
+          "action_time": 7.0,
+          "item_id": "ICE_GENERATOR_11",
+          "name": "Ice Minion XI"
+        },
+        "12": {
+          "action_time": 6.0,
+          "item_id": "ICE_GENERATOR_12",
+          "name": "Ice Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Ice_Minion",
+      "tier_max": 12
+    },
+    "INFERNO": {
+      "tiers": {
+        "1": {
+          "action_time": 982.0,
+          "item_id": "INFERNO_GENERATOR_1",
+          "name": "Inferno Minion I"
+        },
+        "3": {
+          "action_time": 950.0,
+          "item_id": "INFERNO_GENERATOR_3",
+          "name": "Inferno Minion III"
+        },
+        "4": {
+          "action_time": 919.0,
+          "item_id": "INFERNO_GENERATOR_4",
+          "name": "Inferno Minion IV"
+        },
+        "5": {
+          "action_time": 886.0,
+          "item_id": "INFERNO_GENERATOR_5",
+          "name": "Inferno Minion V"
+        },
+        "6": {
+          "action_time": 855.0,
+          "item_id": "INFERNO_GENERATOR_6",
+          "name": "Inferno Minion VI"
+        },
+        "7": {
+          "action_time": 823.0,
+          "item_id": "INFERNO_GENERATOR_7",
+          "name": "Inferno Minion VII"
+        },
+        "8": {
+          "action_time": 792.0,
+          "item_id": "INFERNO_GENERATOR_8",
+          "name": "Inferno Minion VIII"
+        },
+        "9": {
+          "action_time": 760.0,
+          "item_id": "INFERNO_GENERATOR_9",
+          "name": "Inferno Minion IX"
+        },
+        "10": {
+          "action_time": 728.0,
+          "item_id": "INFERNO_GENERATOR_10",
+          "name": "Inferno Minion X"
+        },
+        "11": {
+          "action_time": 697.0,
+          "item_id": "INFERNO_GENERATOR_11",
+          "name": "Inferno Minion XI"
+        },
+        "2": {
+          "action_time": 982.0,
+          "item_id": "INFERNO_GENERATOR_2",
+          "name": "Inferno Minion II"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Inferno_Minion",
+      "tier_max": 11
+    },
+    "IRON": {
+      "tiers": {
+        "1": {
+          "action_time": 17.0,
+          "item_id": "IRON_GENERATOR_1",
+          "name": "Iron Minion I"
+        },
+        "2": {
+          "action_time": 17.0,
+          "item_id": "IRON_GENERATOR_2",
+          "name": "Iron Minion II"
+        },
+        "3": {
+          "action_time": 15.0,
+          "item_id": "IRON_GENERATOR_3",
+          "name": "Iron Minion III"
+        },
+        "4": {
+          "action_time": 15.0,
+          "item_id": "IRON_GENERATOR_4",
+          "name": "Iron Minion IV"
+        },
+        "5": {
+          "action_time": 14.0,
+          "item_id": "IRON_GENERATOR_5",
+          "name": "Iron Minion V"
+        },
+        "6": {
+          "action_time": 14.0,
+          "item_id": "IRON_GENERATOR_6",
+          "name": "Iron Minion VI"
+        },
+        "7": {
+          "action_time": 12.0,
+          "item_id": "IRON_GENERATOR_7",
+          "name": "Iron Minion VII"
+        },
+        "8": {
+          "action_time": 12.0,
+          "item_id": "IRON_GENERATOR_8",
+          "name": "Iron Minion VIII"
+        },
+        "9": {
+          "action_time": 10.0,
+          "item_id": "IRON_GENERATOR_9",
+          "name": "Iron Minion IX"
+        },
+        "10": {
+          "action_time": 10.0,
+          "item_id": "IRON_GENERATOR_10",
+          "name": "Iron Minion X"
+        },
+        "11": {
+          "action_time": 8.0,
+          "item_id": "IRON_GENERATOR_11",
+          "name": "Iron Minion XI"
+        },
+        "12": {
+          "action_time": 7.0,
+          "item_id": "IRON_GENERATOR_12",
+          "name": "Iron Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Iron_Minion",
+      "tier_max": 12
+    },
+    "JUNGLE": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0,
+          "item_id": "JUNGLE_GENERATOR_1",
+          "name": "Jungle Minion I"
+        },
+        "2": {
+          "action_time": 48.0,
+          "item_id": "JUNGLE_GENERATOR_2",
+          "name": "Jungle Minion II"
+        },
+        "3": {
+          "action_time": 45.0,
+          "item_id": "JUNGLE_GENERATOR_3",
+          "name": "Jungle Minion III"
+        },
+        "4": {
+          "action_time": 45.0,
+          "item_id": "JUNGLE_GENERATOR_4",
+          "name": "Jungle Minion IV"
+        },
+        "5": {
+          "action_time": 42.0,
+          "item_id": "JUNGLE_GENERATOR_5",
+          "name": "Jungle Minion V"
+        },
+        "6": {
+          "action_time": 42.0,
+          "item_id": "JUNGLE_GENERATOR_6",
+          "name": "Jungle Minion VI"
+        },
+        "7": {
+          "action_time": 38.0,
+          "item_id": "JUNGLE_GENERATOR_7",
+          "name": "Jungle Minion VII"
+        },
+        "8": {
+          "action_time": 38.0,
+          "item_id": "JUNGLE_GENERATOR_8",
+          "name": "Jungle Minion VIII"
+        },
+        "9": {
+          "action_time": 33.0,
+          "item_id": "JUNGLE_GENERATOR_9",
+          "name": "Jungle Minion IX"
+        },
+        "10": {
+          "action_time": 33.0,
+          "item_id": "JUNGLE_GENERATOR_10",
+          "name": "Jungle Minion X"
+        },
+        "11": {
+          "action_time": 27.0,
+          "item_id": "JUNGLE_GENERATOR_11",
+          "name": "Jungle Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Jungle_Minion",
+      "tier_max": 11
+    },
+    "LAPIS": {
+      "tiers": {
+        "1": {
+          "action_time": 29.0,
+          "item_id": "LAPIS_GENERATOR_1",
+          "name": "Lapis Minion I"
+        },
+        "2": {
+          "action_time": 29.0,
+          "item_id": "LAPIS_GENERATOR_2",
+          "name": "Lapis Minion II"
+        },
+        "3": {
+          "action_time": 27.0,
+          "item_id": "LAPIS_GENERATOR_3",
+          "name": "Lapis Minion III"
+        },
+        "4": {
+          "action_time": 27.0,
+          "item_id": "LAPIS_GENERATOR_4",
+          "name": "Lapis Minion IV"
+        },
+        "5": {
+          "action_time": 25.0,
+          "item_id": "LAPIS_GENERATOR_5",
+          "name": "Lapis Minion V"
+        },
+        "6": {
+          "action_time": 25.0,
+          "item_id": "LAPIS_GENERATOR_6",
+          "name": "Lapis Minion VI"
+        },
+        "7": {
+          "action_time": 23.0,
+          "item_id": "LAPIS_GENERATOR_7",
+          "name": "Lapis Minion VII"
+        },
+        "8": {
+          "action_time": 23.0,
+          "item_id": "LAPIS_GENERATOR_8",
+          "name": "Lapis Minion VIII"
+        },
+        "9": {
+          "action_time": 21.0,
+          "item_id": "LAPIS_GENERATOR_9",
+          "name": "Lapis Minion IX"
+        },
+        "10": {
+          "action_time": 21.0,
+          "item_id": "LAPIS_GENERATOR_10",
+          "name": "Lapis Minion X"
+        },
+        "11": {
+          "action_time": 18.0,
+          "item_id": "LAPIS_GENERATOR_11",
+          "name": "Lapis Minion XI"
+        },
+        "12": {
+          "action_time": 16.0,
+          "item_id": "LAPIS_GENERATOR_12",
+          "name": "Lapis Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Lapis_Minion",
+      "tier_max": 12
+    },
+    "MAGMA_CUBE": {
+      "tiers": {
+        "1": {
+          "action_time": 32.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_1",
+          "name": "Magma Cube Minion I"
+        },
+        "2": {
+          "action_time": 32.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_2",
+          "name": "Magma Cube Minion II"
+        },
+        "3": {
+          "action_time": 30.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_3",
+          "name": "Magma Cube Minion III"
+        },
+        "4": {
+          "action_time": 30.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_4",
+          "name": "Magma Cube Minion IV"
+        },
+        "5": {
+          "action_time": 28.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_5",
+          "name": "Magma Cube Minion V"
+        },
+        "6": {
+          "action_time": 28.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_6",
+          "name": "Magma Cube Minion VI"
+        },
+        "7": {
+          "action_time": 25.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_7",
+          "name": "Magma Cube Minion VII"
+        },
+        "8": {
+          "action_time": 25.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_8",
+          "name": "Magma Cube Minion VIII"
+        },
+        "9": {
+          "action_time": 22.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_9",
+          "name": "Magma Cube Minion IX"
+        },
+        "10": {
+          "action_time": 22.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_10",
+          "name": "Magma Cube Minion X"
+        },
+        "11": {
+          "action_time": 18.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_11",
+          "name": "Magma Cube Minion XI"
+        },
+        "12": {
+          "action_time": 16.0,
+          "item_id": "MAGMA_CUBE_GENERATOR_12",
+          "name": "Magma Cube Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Magma_Cube_Minion",
+      "tier_max": 12
+    },
+    "MELON": {
+      "tiers": {
+        "1": {
+          "action_time": 24.0,
+          "item_id": "MELON_GENERATOR_1",
+          "name": "Melon Minion I"
+        },
+        "2": {
+          "action_time": 24.0,
+          "item_id": "MELON_GENERATOR_2",
+          "name": "Melon Minion II"
+        },
+        "3": {
+          "action_time": 22.5,
+          "item_id": "MELON_GENERATOR_3",
+          "name": "Melon Minion III"
+        },
+        "4": {
+          "action_time": 22.5,
+          "item_id": "MELON_GENERATOR_4",
+          "name": "Melon Minion IV"
+        },
+        "5": {
+          "action_time": 21.0,
+          "item_id": "MELON_GENERATOR_5",
+          "name": "Melon Minion V"
+        },
+        "6": {
+          "action_time": 21.0,
+          "item_id": "MELON_GENERATOR_6",
+          "name": "Melon Minion VI"
+        },
+        "7": {
+          "action_time": 18.5,
+          "item_id": "MELON_GENERATOR_7",
+          "name": "Melon Minion VII"
+        },
+        "8": {
+          "action_time": 18.5,
+          "item_id": "MELON_GENERATOR_8",
+          "name": "Melon Minion VIII"
+        },
+        "9": {
+          "action_time": 16.0,
+          "item_id": "MELON_GENERATOR_9",
+          "name": "Melon Minion IX"
+        },
+        "10": {
+          "action_time": 16.0,
+          "item_id": "MELON_GENERATOR_10",
+          "name": "Melon Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "MELON_GENERATOR_11",
+          "name": "Melon Minion XI"
+        },
+        "12": {
+          "action_time": 10.0,
+          "item_id": "MELON_GENERATOR_12",
+          "name": "Melon Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Melon_Minion",
+      "tier_max": 12
+    },
+    "MITHRIL": {
+      "tiers": {
+        "1": {
+          "action_time": 80.0,
+          "item_id": "MITHRIL_GENERATOR_1",
+          "name": "Mithril Minion I"
+        },
+        "2": {
+          "action_time": 80.0,
+          "item_id": "MITHRIL_GENERATOR_2",
+          "name": "Mithril Minion II"
+        },
+        "3": {
+          "action_time": 75.0,
+          "item_id": "MITHRIL_GENERATOR_3",
+          "name": "Mithril Minion III"
+        },
+        "4": {
+          "action_time": 75.0,
+          "item_id": "MITHRIL_GENERATOR_4",
+          "name": "Mithril Minion IV"
+        },
+        "5": {
+          "action_time": 70.0,
+          "item_id": "MITHRIL_GENERATOR_5",
+          "name": "Mithril Minion V"
+        },
+        "6": {
+          "action_time": 70.0,
+          "item_id": "MITHRIL_GENERATOR_6",
+          "name": "Mithril Minion VI"
+        },
+        "7": {
+          "action_time": 65.0,
+          "item_id": "MITHRIL_GENERATOR_7",
+          "name": "Mithril Minion VII"
+        },
+        "8": {
+          "action_time": 65.0,
+          "item_id": "MITHRIL_GENERATOR_8",
+          "name": "Mithril Minion VIII"
+        },
+        "9": {
+          "action_time": 60.0,
+          "item_id": "MITHRIL_GENERATOR_9",
+          "name": "Mithril Minion IX"
+        },
+        "10": {
+          "action_time": 60.0,
+          "item_id": "MITHRIL_GENERATOR_10",
+          "name": "Mithril Minion X"
+        },
+        "11": {
+          "action_time": 55.0,
+          "item_id": "MITHRIL_GENERATOR_11",
+          "name": "Mithril Minion XI"
+        },
+        "12": {
+          "action_time": 50.0,
+          "item_id": "MITHRIL_GENERATOR_12",
+          "name": "Mithril Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Mithril_Minion",
+      "tier_max": 12
+    },
+    "MUSHROOM": {
+      "tiers": {
+        "1": {
+          "action_time": 30.0,
+          "item_id": "MUSHROOM_GENERATOR_1",
+          "name": "Mushroom Minion I"
+        },
+        "2": {
+          "action_time": 30.0,
+          "item_id": "MUSHROOM_GENERATOR_2",
+          "name": "Mushroom Minion II"
+        },
+        "3": {
+          "action_time": 28.0,
+          "item_id": "MUSHROOM_GENERATOR_3",
+          "name": "Mushroom Minion III"
+        },
+        "4": {
+          "action_time": 28.0,
+          "item_id": "MUSHROOM_GENERATOR_4",
+          "name": "Mushroom Minion IV"
+        },
+        "5": {
+          "action_time": 26.0,
+          "item_id": "MUSHROOM_GENERATOR_5",
+          "name": "Mushroom Minion V"
+        },
+        "6": {
+          "action_time": 26.0,
+          "item_id": "MUSHROOM_GENERATOR_6",
+          "name": "Mushroom Minion VI"
+        },
+        "7": {
+          "action_time": 23.0,
+          "item_id": "MUSHROOM_GENERATOR_7",
+          "name": "Mushroom Minion VII"
+        },
+        "8": {
+          "action_time": 23.0,
+          "item_id": "MUSHROOM_GENERATOR_8",
+          "name": "Mushroom Minion VIII"
+        },
+        "9": {
+          "action_time": 20.0,
+          "item_id": "MUSHROOM_GENERATOR_9",
+          "name": "Mushroom Minion IX"
+        },
+        "10": {
+          "action_time": 20.0,
+          "item_id": "MUSHROOM_GENERATOR_10",
+          "name": "Mushroom Minion X"
+        },
+        "11": {
+          "action_time": 16.0,
+          "item_id": "MUSHROOM_GENERATOR_11",
+          "name": "Mushroom Minion XI"
+        },
+        "12": {
+          "action_time": 12.0,
+          "item_id": "MUSHROOM_GENERATOR_12",
+          "name": "Mushroom Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Mushroom_Minion",
+      "tier_max": 12
+    },
+    "MYCELIUM": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "MYCELIUM_GENERATOR_1",
+          "name": "Mycelium Minion I"
+        },
+        "2": {
+          "action_time": 25.0,
+          "item_id": "MYCELIUM_GENERATOR_2",
+          "name": "Mycelium Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "MYCELIUM_GENERATOR_3",
+          "name": "Mycelium Minion III"
+        },
+        "4": {
+          "action_time": 23.0,
+          "item_id": "MYCELIUM_GENERATOR_4",
+          "name": "Mycelium Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "MYCELIUM_GENERATOR_5",
+          "name": "Mycelium Minion V"
+        },
+        "6": {
+          "action_time": 21.0,
+          "item_id": "MYCELIUM_GENERATOR_6",
+          "name": "Mycelium Minion VI"
+        },
+        "7": {
+          "action_time": 20.0,
+          "item_id": "MYCELIUM_GENERATOR_7",
+          "name": "Mycelium Minion VII"
+        },
+        "8": {
+          "action_time": 19.0,
+          "item_id": "MYCELIUM_GENERATOR_8",
+          "name": "Mycelium Minion VIII"
+        },
+        "9": {
+          "action_time": 18.0,
+          "item_id": "MYCELIUM_GENERATOR_9",
+          "name": "Mycelium Minion IX"
+        },
+        "10": {
+          "action_time": 16.0,
+          "item_id": "MYCELIUM_GENERATOR_10",
+          "name": "Mycelium Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "MYCELIUM_GENERATOR_11",
+          "name": "Mycelium Minion XI"
+        },
+        "12": {
+          "action_time": 11.0,
+          "item_id": "MYCELIUM_GENERATOR_12",
+          "name": "Mycelium Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Mycelium_Minion",
+      "tier_max": 12
+    },
+    "NETHER_WART": {
+      "tiers": {
+        "1": {
+          "action_time": 50.0
+        },
+        "2": {
+          "action_time": 50.0
+        },
+        "3": {
+          "action_time": 47.0
+        },
+        "4": {
+          "action_time": 47.0
+        },
+        "5": {
+          "action_time": 44.0
+        },
+        "6": {
+          "action_time": 44.0
+        },
+        "7": {
+          "action_time": 41.0
+        },
+        "8": {
+          "action_time": 41.0
+        },
+        "9": {
+          "action_time": 38.0
+        },
+        "10": {
+          "action_time": 38.0
+        },
+        "11": {
+          "action_time": 32.0
+        },
+        "12": {
+          "action_time": 27.0
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Nether_Wart_Minion",
+      "tier_max": 12
+    },
+    "OAK": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0,
+          "item_id": "OAK_GENERATOR_1",
+          "name": "Oak Minion I"
+        },
+        "2": {
+          "action_time": 48.0,
+          "item_id": "OAK_GENERATOR_2",
+          "name": "Oak Minion II"
+        },
+        "3": {
+          "action_time": 45.0,
+          "item_id": "OAK_GENERATOR_3",
+          "name": "Oak Minion III"
+        },
+        "4": {
+          "action_time": 45.0,
+          "item_id": "OAK_GENERATOR_4",
+          "name": "Oak Minion IV"
+        },
+        "5": {
+          "action_time": 42.0,
+          "item_id": "OAK_GENERATOR_5",
+          "name": "Oak Minion V"
+        },
+        "6": {
+          "action_time": 42.0,
+          "item_id": "OAK_GENERATOR_6",
+          "name": "Oak Minion VI"
+        },
+        "7": {
+          "action_time": 38.0,
+          "item_id": "OAK_GENERATOR_7",
+          "name": "Oak Minion VII"
+        },
+        "8": {
+          "action_time": 38.0,
+          "item_id": "OAK_GENERATOR_8",
+          "name": "Oak Minion VIII"
+        },
+        "9": {
+          "action_time": 33.0,
+          "item_id": "OAK_GENERATOR_9",
+          "name": "Oak Minion IX"
+        },
+        "10": {
+          "action_time": 33.0,
+          "item_id": "OAK_GENERATOR_10",
+          "name": "Oak Minion X"
+        },
+        "11": {
+          "action_time": 27.0,
+          "item_id": "OAK_GENERATOR_11",
+          "name": "Oak Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Oak_Minion",
+      "tier_max": 11
+    },
+    "OBSIDIAN": {
+      "tiers": {
+        "1": {
+          "action_time": 45.0,
+          "item_id": "OBSIDIAN_GENERATOR_1",
+          "name": "Obsidian Minion I"
+        },
+        "2": {
+          "action_time": 45.0,
+          "item_id": "OBSIDIAN_GENERATOR_2",
+          "name": "Obsidian Minion II"
+        },
+        "3": {
+          "action_time": 42.0,
+          "item_id": "OBSIDIAN_GENERATOR_3",
+          "name": "Obsidian Minion III"
+        },
+        "4": {
+          "action_time": 42.0,
+          "item_id": "OBSIDIAN_GENERATOR_4",
+          "name": "Obsidian Minion IV"
+        },
+        "5": {
+          "action_time": 39.0,
+          "item_id": "OBSIDIAN_GENERATOR_5",
+          "name": "Obsidian Minion V"
+        },
+        "6": {
+          "action_time": 39.0,
+          "item_id": "OBSIDIAN_GENERATOR_6",
+          "name": "Obsidian Minion VI"
+        },
+        "7": {
+          "action_time": 35.0,
+          "item_id": "OBSIDIAN_GENERATOR_7",
+          "name": "Obsidian Minion VII"
+        },
+        "8": {
+          "action_time": 35.0,
+          "item_id": "OBSIDIAN_GENERATOR_8",
+          "name": "Obsidian Minion VIII"
+        },
+        "9": {
+          "action_time": 30.0,
+          "item_id": "OBSIDIAN_GENERATOR_9",
+          "name": "Obsidian Minion IX"
+        },
+        "10": {
+          "action_time": 30.0,
+          "item_id": "OBSIDIAN_GENERATOR_10",
+          "name": "Obsidian Minion X"
+        },
+        "11": {
+          "action_time": 24.0,
+          "item_id": "OBSIDIAN_GENERATOR_11",
+          "name": "Obsidian Minion XI"
+        },
+        "12": {
+          "action_time": 21.0,
+          "item_id": "OBSIDIAN_GENERATOR_12",
+          "name": "Obsidian Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Obsidian_Minion",
+      "tier_max": 12
+    },
+    "PIG": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "PIG_GENERATOR_1",
+          "name": "Pig Minion I"
+        },
+        "2": {
+          "action_time": 26.0,
+          "item_id": "PIG_GENERATOR_2",
+          "name": "Pig Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "PIG_GENERATOR_3",
+          "name": "Pig Minion III"
+        },
+        "4": {
+          "action_time": 24.0,
+          "item_id": "PIG_GENERATOR_4",
+          "name": "Pig Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "PIG_GENERATOR_5",
+          "name": "Pig Minion V"
+        },
+        "6": {
+          "action_time": 22.0,
+          "item_id": "PIG_GENERATOR_6",
+          "name": "Pig Minion VI"
+        },
+        "7": {
+          "action_time": 20.0,
+          "item_id": "PIG_GENERATOR_7",
+          "name": "Pig Minion VII"
+        },
+        "8": {
+          "action_time": 20.0,
+          "item_id": "PIG_GENERATOR_8",
+          "name": "Pig Minion VIII"
+        },
+        "9": {
+          "action_time": 17.0,
+          "item_id": "PIG_GENERATOR_9",
+          "name": "Pig Minion IX"
+        },
+        "10": {
+          "action_time": 17.0,
+          "item_id": "PIG_GENERATOR_10",
+          "name": "Pig Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "PIG_GENERATOR_11",
+          "name": "Pig Minion XI"
+        },
+        "12": {
+          "action_time": 10.0,
+          "item_id": "PIG_GENERATOR_12",
+          "name": "Pig Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Pig_Minion",
+      "tier_max": 12
+    },
+    "POTATO": {
+      "tiers": {
+        "1": {
+          "action_time": 20.0,
+          "item_id": "POTATO_GENERATOR_1",
+          "name": "Potato Minion I"
+        },
+        "2": {
+          "action_time": 20.0,
+          "item_id": "POTATO_GENERATOR_2",
+          "name": "Potato Minion II"
+        },
+        "3": {
+          "action_time": 18.0,
+          "item_id": "POTATO_GENERATOR_3",
+          "name": "Potato Minion III"
+        },
+        "4": {
+          "action_time": 18.0,
+          "item_id": "POTATO_GENERATOR_4",
+          "name": "Potato Minion IV"
+        },
+        "5": {
+          "action_time": 16.0,
+          "item_id": "POTATO_GENERATOR_5",
+          "name": "Potato Minion V"
+        },
+        "6": {
+          "action_time": 16.0,
+          "item_id": "POTATO_GENERATOR_6",
+          "name": "Potato Minion VI"
+        },
+        "7": {
+          "action_time": 14.0,
+          "item_id": "POTATO_GENERATOR_7",
+          "name": "Potato Minion VII"
+        },
+        "8": {
+          "action_time": 14.0,
+          "item_id": "POTATO_GENERATOR_8",
+          "name": "Potato Minion VIII"
+        },
+        "9": {
+          "action_time": 12.0,
+          "item_id": "POTATO_GENERATOR_9",
+          "name": "Potato Minion IX"
+        },
+        "10": {
+          "action_time": 12.0,
+          "item_id": "POTATO_GENERATOR_10",
+          "name": "Potato Minion X"
+        },
+        "11": {
+          "action_time": 10.0,
+          "item_id": "POTATO_GENERATOR_11",
+          "name": "Potato Minion XI"
+        },
+        "12": {
+          "action_time": 8.0,
+          "item_id": "POTATO_GENERATOR_12",
+          "name": "Potato Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Potato_Minion",
+      "tier_max": 12
+    },
+    "PUMPKIN": {
+      "tiers": {
+        "1": {
+          "action_time": 32.0,
+          "item_id": "PUMPKIN_GENERATOR_1",
+          "name": "Pumpkin Minion I"
+        },
+        "2": {
+          "action_time": 32.0,
+          "item_id": "PUMPKIN_GENERATOR_2",
+          "name": "Pumpkin Minion II"
+        },
+        "3": {
+          "action_time": 30.0,
+          "item_id": "PUMPKIN_GENERATOR_3",
+          "name": "Pumpkin Minion III"
+        },
+        "4": {
+          "action_time": 30.0,
+          "item_id": "PUMPKIN_GENERATOR_4",
+          "name": "Pumpkin Minion IV"
+        },
+        "5": {
+          "action_time": 27.0,
+          "item_id": "PUMPKIN_GENERATOR_5",
+          "name": "Pumpkin Minion V"
+        },
+        "6": {
+          "action_time": 27.0,
+          "item_id": "PUMPKIN_GENERATOR_6",
+          "name": "Pumpkin Minion VI"
+        },
+        "7": {
+          "action_time": 24.0,
+          "item_id": "PUMPKIN_GENERATOR_7",
+          "name": "Pumpkin Minion VII"
+        },
+        "8": {
+          "action_time": 24.0,
+          "item_id": "PUMPKIN_GENERATOR_8",
+          "name": "Pumpkin Minion VIII"
+        },
+        "9": {
+          "action_time": 20.0,
+          "item_id": "PUMPKIN_GENERATOR_9",
+          "name": "Pumpkin Minion IX"
+        },
+        "10": {
+          "action_time": 20.0,
+          "item_id": "PUMPKIN_GENERATOR_10",
+          "name": "Pumpkin Minion X"
+        },
+        "11": {
+          "action_time": 16.0,
+          "item_id": "PUMPKIN_GENERATOR_11",
+          "name": "Pumpkin Minion XI"
+        },
+        "12": {
+          "action_time": 12.0,
+          "item_id": "PUMPKIN_GENERATOR_12",
+          "name": "Pumpkin Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Pumpkin_Minion",
+      "tier_max": 12
+    },
+    "QUARTZ": {
+      "tiers": {
+        "1": {
+          "action_time": 22.5,
+          "item_id": "QUARTZ_GENERATOR_1",
+          "name": "Quartz Minion I"
+        },
+        "2": {
+          "action_time": 22.5,
+          "item_id": "QUARTZ_GENERATOR_2",
+          "name": "Quartz Minion II"
+        },
+        "3": {
+          "action_time": 21.0,
+          "item_id": "QUARTZ_GENERATOR_3",
+          "name": "Quartz Minion III"
+        },
+        "4": {
+          "action_time": 21.0,
+          "item_id": "QUARTZ_GENERATOR_4",
+          "name": "Quartz Minion IV"
+        },
+        "5": {
+          "action_time": 19.0,
+          "item_id": "QUARTZ_GENERATOR_5",
+          "name": "Quartz Minion V"
+        },
+        "6": {
+          "action_time": 19.0,
+          "item_id": "QUARTZ_GENERATOR_6",
+          "name": "Quartz Minion VI"
+        },
+        "7": {
+          "action_time": 17.0,
+          "item_id": "QUARTZ_GENERATOR_7",
+          "name": "Quartz Minion VII"
+        },
+        "8": {
+          "action_time": 17.0,
+          "item_id": "QUARTZ_GENERATOR_8",
+          "name": "Quartz Minion VIII"
+        },
+        "9": {
+          "action_time": 14.5,
+          "item_id": "QUARTZ_GENERATOR_9",
+          "name": "Quartz Minion IX"
+        },
+        "10": {
+          "action_time": 14.5,
+          "item_id": "QUARTZ_GENERATOR_10",
+          "name": "Quartz Minion X"
+        },
+        "11": {
+          "action_time": 11.5,
+          "item_id": "QUARTZ_GENERATOR_11",
+          "name": "Quartz Minion XI"
+        },
+        "12": {
+          "action_time": 10.0,
+          "item_id": "QUARTZ_GENERATOR_12",
+          "name": "Quartz Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Quartz_Minion",
+      "tier_max": 12
+    },
+    "RABBIT": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "RABBIT_GENERATOR_1",
+          "name": "Rabbit Minion I"
+        },
+        "2": {
+          "action_time": 26.0,
+          "item_id": "RABBIT_GENERATOR_2",
+          "name": "Rabbit Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "RABBIT_GENERATOR_3",
+          "name": "Rabbit Minion III"
+        },
+        "4": {
+          "action_time": 24.0,
+          "item_id": "RABBIT_GENERATOR_4",
+          "name": "Rabbit Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "RABBIT_GENERATOR_5",
+          "name": "Rabbit Minion V"
+        },
+        "6": {
+          "action_time": 22.0,
+          "item_id": "RABBIT_GENERATOR_6",
+          "name": "Rabbit Minion VI"
+        },
+        "7": {
+          "action_time": 20.0,
+          "item_id": "RABBIT_GENERATOR_7",
+          "name": "Rabbit Minion VII"
+        },
+        "8": {
+          "action_time": 20.0,
+          "item_id": "RABBIT_GENERATOR_8",
+          "name": "Rabbit Minion VIII"
+        },
+        "9": {
+          "action_time": 17.0,
+          "item_id": "RABBIT_GENERATOR_9",
+          "name": "Rabbit Minion IX"
+        },
+        "10": {
+          "action_time": 17.0,
+          "item_id": "RABBIT_GENERATOR_10",
+          "name": "Rabbit Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "RABBIT_GENERATOR_11",
+          "name": "Rabbit Minion XI"
+        },
+        "12": {
+          "action_time": 10.0,
+          "item_id": "RABBIT_GENERATOR_12",
+          "name": "Rabbit Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Rabbit_Minion",
+      "tier_max": 12
+    },
+    "RED_SAND": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "RED_SAND_GENERATOR_1",
+          "name": "Red Sand Minion I"
+        },
+        "2": {
+          "action_time": 25.0,
+          "item_id": "RED_SAND_GENERATOR_2",
+          "name": "Red Sand Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "RED_SAND_GENERATOR_3",
+          "name": "Red Sand Minion III"
+        },
+        "4": {
+          "action_time": 23.0,
+          "item_id": "RED_SAND_GENERATOR_4",
+          "name": "Red Sand Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "RED_SAND_GENERATOR_5",
+          "name": "Red Sand Minion V"
+        },
+        "6": {
+          "action_time": 21.0,
+          "item_id": "RED_SAND_GENERATOR_6",
+          "name": "Red Sand Minion VI"
+        },
+        "7": {
+          "action_time": 20.0,
+          "item_id": "RED_SAND_GENERATOR_7",
+          "name": "Red Sand Minion VII"
+        },
+        "8": {
+          "action_time": 19.0,
+          "item_id": "RED_SAND_GENERATOR_8",
+          "name": "Red Sand Minion VIII"
+        },
+        "9": {
+          "action_time": 18.0,
+          "item_id": "RED_SAND_GENERATOR_9",
+          "name": "Red Sand Minion IX"
+        },
+        "10": {
+          "action_time": 16.0,
+          "item_id": "RED_SAND_GENERATOR_10",
+          "name": "Red Sand Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "RED_SAND_GENERATOR_11",
+          "name": "Red Sand Minion XI"
+        },
+        "12": {
+          "action_time": 11.0,
+          "item_id": "RED_SAND_GENERATOR_12",
+          "name": "Red Sand Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Red_Sand_Minion",
+      "tier_max": 12
+    },
+    "REDSTONE": {
+      "tiers": {
+        "1": {
+          "action_time": 29.0,
+          "item_id": "REDSTONE_GENERATOR_1",
+          "name": "Redstone Minion I"
+        },
+        "2": {
+          "action_time": 29.0,
+          "item_id": "REDSTONE_GENERATOR_2",
+          "name": "Redstone Minion II"
+        },
+        "3": {
+          "action_time": 27.0,
+          "item_id": "REDSTONE_GENERATOR_3",
+          "name": "Redstone Minion III"
+        },
+        "4": {
+          "action_time": 27.0,
+          "item_id": "REDSTONE_GENERATOR_4",
+          "name": "Redstone Minion IV"
+        },
+        "5": {
+          "action_time": 25.0,
+          "item_id": "REDSTONE_GENERATOR_5",
+          "name": "Redstone Minion V"
+        },
+        "6": {
+          "action_time": 25.0,
+          "item_id": "REDSTONE_GENERATOR_6",
+          "name": "Redstone Minion VI"
+        },
+        "7": {
+          "action_time": 23.0,
+          "item_id": "REDSTONE_GENERATOR_7",
+          "name": "Redstone Minion VII"
+        },
+        "8": {
+          "action_time": 23.0,
+          "item_id": "REDSTONE_GENERATOR_8",
+          "name": "Redstone Minion VIII"
+        },
+        "9": {
+          "action_time": 21.0,
+          "item_id": "REDSTONE_GENERATOR_9",
+          "name": "Redstone Minion IX"
+        },
+        "10": {
+          "action_time": 21.0,
+          "item_id": "REDSTONE_GENERATOR_10",
+          "name": "Redstone Minion X"
+        },
+        "11": {
+          "action_time": 18.0,
+          "item_id": "REDSTONE_GENERATOR_11",
+          "name": "Redstone Minion XI"
+        },
+        "12": {
+          "action_time": 16.0,
+          "item_id": "REDSTONE_GENERATOR_12",
+          "name": "Redstone Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Redstone_Minion",
+      "tier_max": 12
+    },
+    "REVENANT": {
+      "tiers": {
+        "1": {
+          "action_time": 29.0,
+          "item_id": "REVENANT_GENERATOR_1",
+          "name": "Revenant Minion I"
+        },
+        "2": {
+          "action_time": 29.0,
+          "item_id": "REVENANT_GENERATOR_2",
+          "name": "Revenant Minion II"
+        },
+        "3": {
+          "action_time": 26.0,
+          "item_id": "REVENANT_GENERATOR_3",
+          "name": "Revenant Minion III"
+        },
+        "4": {
+          "action_time": 26.0,
+          "item_id": "REVENANT_GENERATOR_4",
+          "name": "Revenant Minion IV"
+        },
+        "5": {
+          "action_time": 23.0,
+          "item_id": "REVENANT_GENERATOR_5",
+          "name": "Revenant Minion V"
+        },
+        "6": {
+          "action_time": 23.0,
+          "item_id": "REVENANT_GENERATOR_6",
+          "name": "Revenant Minion VI"
+        },
+        "7": {
+          "action_time": 19.0,
+          "item_id": "REVENANT_GENERATOR_7",
+          "name": "Revenant Minion VII"
+        },
+        "8": {
+          "action_time": 19.0,
+          "item_id": "REVENANT_GENERATOR_8",
+          "name": "Revenant Minion VIII"
+        },
+        "9": {
+          "action_time": 14.5,
+          "item_id": "REVENANT_GENERATOR_9",
+          "name": "Revenant Minion IX"
+        },
+        "10": {
+          "action_time": 14.5,
+          "item_id": "REVENANT_GENERATOR_10",
+          "name": "Revenant Minion X"
+        },
+        "11": {
+          "action_time": 10.0,
+          "item_id": "REVENANT_GENERATOR_11",
+          "name": "Revenant Minion XI"
+        },
+        "12": {
+          "action_time": 8.0,
+          "item_id": "REVENANT_GENERATOR_12",
+          "name": "Revenant Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Revenant_Minion",
+      "tier_max": 12
+    },
+    "SAND": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "SAND_GENERATOR_1",
+          "name": "Sand Minion I"
+        },
+        "2": {
+          "action_time": 26.0,
+          "item_id": "SAND_GENERATOR_2",
+          "name": "Sand Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "SAND_GENERATOR_3",
+          "name": "Sand Minion III"
+        },
+        "4": {
+          "action_time": 24.0,
+          "item_id": "SAND_GENERATOR_4",
+          "name": "Sand Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "SAND_GENERATOR_5",
+          "name": "Sand Minion V"
+        },
+        "6": {
+          "action_time": 22.0,
+          "item_id": "SAND_GENERATOR_6",
+          "name": "Sand Minion VI"
+        },
+        "7": {
+          "action_time": 19.0,
+          "item_id": "SAND_GENERATOR_7",
+          "name": "Sand Minion VII"
+        },
+        "8": {
+          "action_time": 19.0,
+          "item_id": "SAND_GENERATOR_8",
+          "name": "Sand Minion VIII"
+        },
+        "9": {
+          "action_time": 16.0,
+          "item_id": "SAND_GENERATOR_9",
+          "name": "Sand Minion IX"
+        },
+        "10": {
+          "action_time": 16.0,
+          "item_id": "SAND_GENERATOR_10",
+          "name": "Sand Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "SAND_GENERATOR_11",
+          "name": "Sand Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Sand_Minion",
+      "tier_max": 11
+    },
+    "SHEEP": {
+      "tiers": {
+        "1": {
+          "action_time": 24.0,
+          "item_id": "SHEEP_GENERATOR_1",
+          "name": "Sheep Minion I"
+        },
+        "2": {
+          "action_time": 24.0,
+          "item_id": "SHEEP_GENERATOR_2",
+          "name": "Sheep Minion II"
+        },
+        "3": {
+          "action_time": 22.0,
+          "item_id": "SHEEP_GENERATOR_3",
+          "name": "Sheep Minion III"
+        },
+        "4": {
+          "action_time": 22.0,
+          "item_id": "SHEEP_GENERATOR_4",
+          "name": "Sheep Minion IV"
+        },
+        "5": {
+          "action_time": 20.0,
+          "item_id": "SHEEP_GENERATOR_5",
+          "name": "Sheep Minion V"
+        },
+        "6": {
+          "action_time": 20.0,
+          "item_id": "SHEEP_GENERATOR_6",
+          "name": "Sheep Minion VI"
+        },
+        "7": {
+          "action_time": 18.0,
+          "item_id": "SHEEP_GENERATOR_7",
+          "name": "Sheep Minion VII"
+        },
+        "8": {
+          "action_time": 18.0,
+          "item_id": "SHEEP_GENERATOR_8",
+          "name": "Sheep Minion VIII"
+        },
+        "9": {
+          "action_time": 16.0,
+          "item_id": "SHEEP_GENERATOR_9",
+          "name": "Sheep Minion IX"
+        },
+        "10": {
+          "action_time": 16.0,
+          "item_id": "SHEEP_GENERATOR_10",
+          "name": "Sheep Minion X"
+        },
+        "11": {
+          "action_time": 12.0,
+          "item_id": "SHEEP_GENERATOR_11",
+          "name": "Sheep Minion XI"
+        },
+        "12": {
+          "action_time": 9.0,
+          "item_id": "SHEEP_GENERATOR_12",
+          "name": "Sheep Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Sheep_Minion",
+      "tier_max": 12
+    },
+    "SKELETON": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "SKELETON_GENERATOR_1",
+          "name": "Skeleton Minion I"
+        },
+        "2": {
+          "action_time": 26.0,
+          "item_id": "SKELETON_GENERATOR_2",
+          "name": "Skeleton Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "SKELETON_GENERATOR_3",
+          "name": "Skeleton Minion III"
+        },
+        "4": {
+          "action_time": 24.0,
+          "item_id": "SKELETON_GENERATOR_4",
+          "name": "Skeleton Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "SKELETON_GENERATOR_5",
+          "name": "Skeleton Minion V"
+        },
+        "6": {
+          "action_time": 22.0,
+          "item_id": "SKELETON_GENERATOR_6",
+          "name": "Skeleton Minion VI"
+        },
+        "7": {
+          "action_time": 20.0,
+          "item_id": "SKELETON_GENERATOR_7",
+          "name": "Skeleton Minion VII"
+        },
+        "8": {
+          "action_time": 20.0,
+          "item_id": "SKELETON_GENERATOR_8",
+          "name": "Skeleton Minion VIII"
+        },
+        "9": {
+          "action_time": 17.0,
+          "item_id": "SKELETON_GENERATOR_9",
+          "name": "Skeleton Minion IX"
+        },
+        "10": {
+          "action_time": 17.0,
+          "item_id": "SKELETON_GENERATOR_10",
+          "name": "Skeleton Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "SKELETON_GENERATOR_11",
+          "name": "Skeleton Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Skeleton_Minion",
+      "tier_max": 11
+    },
+    "SLIME": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "SLIME_GENERATOR_1",
+          "name": "Slime Minion I"
+        },
+        "2": {
+          "action_time": 26.0,
+          "item_id": "SLIME_GENERATOR_2",
+          "name": "Slime Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "SLIME_GENERATOR_3",
+          "name": "Slime Minion III"
+        },
+        "4": {
+          "action_time": 24.0,
+          "item_id": "SLIME_GENERATOR_4",
+          "name": "Slime Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "SLIME_GENERATOR_5",
+          "name": "Slime Minion V"
+        },
+        "6": {
+          "action_time": 22.0,
+          "item_id": "SLIME_GENERATOR_6",
+          "name": "Slime Minion VI"
+        },
+        "7": {
+          "action_time": 19.0,
+          "item_id": "SLIME_GENERATOR_7",
+          "name": "Slime Minion VII"
+        },
+        "8": {
+          "action_time": 19.0,
+          "item_id": "SLIME_GENERATOR_8",
+          "name": "Slime Minion VIII"
+        },
+        "9": {
+          "action_time": 16.0,
+          "item_id": "SLIME_GENERATOR_9",
+          "name": "Slime Minion IX"
+        },
+        "10": {
+          "action_time": 16.0,
+          "item_id": "SLIME_GENERATOR_10",
+          "name": "Slime Minion X"
+        },
+        "11": {
+          "action_time": 12.0,
+          "item_id": "SLIME_GENERATOR_11",
+          "name": "Slime Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Slime_Minion",
+      "tier_max": 11
+    },
+    "SNOW": {
+      "tiers": {
+        "1": {
+          "action_time": 13.0,
+          "item_id": "SNOW_GENERATOR_1",
+          "name": "Snow Minion I"
+        },
+        "2": {
+          "action_time": 13.0,
+          "item_id": "SNOW_GENERATOR_2",
+          "name": "Snow Minion II"
+        },
+        "3": {
+          "action_time": 12.0,
+          "item_id": "SNOW_GENERATOR_3",
+          "name": "Snow Minion III"
+        },
+        "4": {
+          "action_time": 12.0,
+          "item_id": "SNOW_GENERATOR_4",
+          "name": "Snow Minion IV"
+        },
+        "5": {
+          "action_time": 11.0,
+          "item_id": "SNOW_GENERATOR_5",
+          "name": "Snow Minion V"
+        },
+        "6": {
+          "action_time": 11.0,
+          "item_id": "SNOW_GENERATOR_6",
+          "name": "Snow Minion VI"
+        },
+        "7": {
+          "action_time": 9.5,
+          "item_id": "SNOW_GENERATOR_7",
+          "name": "Snow Minion VII"
+        },
+        "8": {
+          "action_time": 9.5,
+          "item_id": "SNOW_GENERATOR_8",
+          "name": "Snow Minion VIII"
+        },
+        "9": {
+          "action_time": 8.0,
+          "item_id": "SNOW_GENERATOR_9",
+          "name": "Snow Minion IX"
+        },
+        "10": {
+          "action_time": 8.0,
+          "item_id": "SNOW_GENERATOR_10",
+          "name": "Snow Minion X"
+        },
+        "11": {
+          "action_time": 6.5,
+          "item_id": "SNOW_GENERATOR_11",
+          "name": "Snow Minion XI"
+        },
+        "12": {
+          "action_time": 5.8,
+          "item_id": "SNOW_GENERATOR_12",
+          "name": "Snow Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Snow_Minion",
+      "tier_max": 12
+    },
+    "SPIDER": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "SPIDER_GENERATOR_1",
+          "name": "Spider Minion I"
+        },
+        "2": {
+          "action_time": 26.0,
+          "item_id": "SPIDER_GENERATOR_2",
+          "name": "Spider Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "SPIDER_GENERATOR_3",
+          "name": "Spider Minion III"
+        },
+        "4": {
+          "action_time": 24.0,
+          "item_id": "SPIDER_GENERATOR_4",
+          "name": "Spider Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "SPIDER_GENERATOR_5",
+          "name": "Spider Minion V"
+        },
+        "6": {
+          "action_time": 22.0,
+          "item_id": "SPIDER_GENERATOR_6",
+          "name": "Spider Minion VI"
+        },
+        "7": {
+          "action_time": 20.0,
+          "item_id": "SPIDER_GENERATOR_7",
+          "name": "Spider Minion VII"
+        },
+        "8": {
+          "action_time": 20.0,
+          "item_id": "SPIDER_GENERATOR_8",
+          "name": "Spider Minion VIII"
+        },
+        "9": {
+          "action_time": 17.0,
+          "item_id": "SPIDER_GENERATOR_9",
+          "name": "Spider Minion IX"
+        },
+        "10": {
+          "action_time": 17.0,
+          "item_id": "SPIDER_GENERATOR_10",
+          "name": "Spider Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "SPIDER_GENERATOR_11",
+          "name": "Spider Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Spider_Minion",
+      "tier_max": 11
+    },
+    "SPRUCE": {
+      "tiers": {
+        "1": {
+          "action_time": 48.0,
+          "item_id": "SPRUCE_GENERATOR_1",
+          "name": "Spruce Minion I"
+        },
+        "2": {
+          "action_time": 48.0,
+          "item_id": "SPRUCE_GENERATOR_2",
+          "name": "Spruce Minion II"
+        },
+        "3": {
+          "action_time": 45.0,
+          "item_id": "SPRUCE_GENERATOR_3",
+          "name": "Spruce Minion III"
+        },
+        "4": {
+          "action_time": 45.0,
+          "item_id": "SPRUCE_GENERATOR_4",
+          "name": "Spruce Minion IV"
+        },
+        "5": {
+          "action_time": 42.0,
+          "item_id": "SPRUCE_GENERATOR_5",
+          "name": "Spruce Minion V"
+        },
+        "6": {
+          "action_time": 42.0,
+          "item_id": "SPRUCE_GENERATOR_6",
+          "name": "Spruce Minion VI"
+        },
+        "7": {
+          "action_time": 38.0,
+          "item_id": "SPRUCE_GENERATOR_7",
+          "name": "Spruce Minion VII"
+        },
+        "8": {
+          "action_time": 38.0,
+          "item_id": "SPRUCE_GENERATOR_8",
+          "name": "Spruce Minion VIII"
+        },
+        "9": {
+          "action_time": 33.0,
+          "item_id": "SPRUCE_GENERATOR_9",
+          "name": "Spruce Minion IX"
+        },
+        "10": {
+          "action_time": 33.0,
+          "item_id": "SPRUCE_GENERATOR_10",
+          "name": "Spruce Minion X"
+        },
+        "11": {
+          "action_time": 27.0,
+          "item_id": "SPRUCE_GENERATOR_11",
+          "name": "Spruce Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Spruce_Minion",
+      "tier_max": 11
+    },
+    "SUGAR_CANE": {
+      "tiers": {
+        "1": {
+          "action_time": 22.0,
+          "item_id": "SUGAR_CANE_GENERATOR_1",
+          "name": "Sugar Cane Minion I"
+        },
+        "2": {
+          "action_time": 22.0,
+          "item_id": "SUGAR_CANE_GENERATOR_2",
+          "name": "Sugar Cane Minion II"
+        },
+        "3": {
+          "action_time": 20.0,
+          "item_id": "SUGAR_CANE_GENERATOR_3",
+          "name": "Sugar Cane Minion III"
+        },
+        "4": {
+          "action_time": 20.0,
+          "item_id": "SUGAR_CANE_GENERATOR_4",
+          "name": "Sugar Cane Minion IV"
+        },
+        "5": {
+          "action_time": 18.0,
+          "item_id": "SUGAR_CANE_GENERATOR_5",
+          "name": "Sugar Cane Minion V"
+        },
+        "6": {
+          "action_time": 18.0,
+          "item_id": "SUGAR_CANE_GENERATOR_6",
+          "name": "Sugar Cane Minion VI"
+        },
+        "7": {
+          "action_time": 16.0,
+          "item_id": "SUGAR_CANE_GENERATOR_7",
+          "name": "Sugar Cane Minion VII"
+        },
+        "8": {
+          "action_time": 16.0,
+          "item_id": "SUGAR_CANE_GENERATOR_8",
+          "name": "Sugar Cane Minion VIII"
+        },
+        "9": {
+          "action_time": 14.5,
+          "item_id": "SUGAR_CANE_GENERATOR_9",
+          "name": "Sugar Cane Minion IX"
+        },
+        "10": {
+          "action_time": 14.5,
+          "item_id": "SUGAR_CANE_GENERATOR_10",
+          "name": "Sugar Cane Minion X"
+        },
+        "11": {
+          "action_time": 12.0,
+          "item_id": "SUGAR_CANE_GENERATOR_11",
+          "name": "Sugar Cane Minion XI"
+        },
+        "12": {
+          "action_time": 9.0,
+          "item_id": "SUGAR_CANE_GENERATOR_12",
+          "name": "Sugar Cane Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Sugar_Cane_Minion",
+      "tier_max": 12
+    },
+    "TARANTULA": {
+      "tiers": {
+        "1": {
+          "action_time": 29.0,
+          "item_id": "TARANTULA_GENERATOR_1",
+          "name": "Tarantula Minion I"
+        },
+        "2": {
+          "action_time": 29.0,
+          "item_id": "TARANTULA_GENERATOR_2",
+          "name": "Tarantula Minion II"
+        },
+        "3": {
+          "action_time": 26.0,
+          "item_id": "TARANTULA_GENERATOR_3",
+          "name": "Tarantula Minion III"
+        },
+        "4": {
+          "action_time": 26.0,
+          "item_id": "TARANTULA_GENERATOR_4",
+          "name": "Tarantula Minion IV"
+        },
+        "5": {
+          "action_time": 23.0,
+          "item_id": "TARANTULA_GENERATOR_5",
+          "name": "Tarantula Minion V"
+        },
+        "6": {
+          "action_time": 23.0,
+          "item_id": "TARANTULA_GENERATOR_6",
+          "name": "Tarantula Minion VI"
+        },
+        "7": {
+          "action_time": 19.0,
+          "item_id": "TARANTULA_GENERATOR_7",
+          "name": "Tarantula Minion VII"
+        },
+        "8": {
+          "action_time": 19.0,
+          "item_id": "TARANTULA_GENERATOR_8",
+          "name": "Tarantula Minion VIII"
+        },
+        "9": {
+          "action_time": 14.5,
+          "item_id": "TARANTULA_GENERATOR_9",
+          "name": "Tarantula Minion IX"
+        },
+        "10": {
+          "action_time": 14.5,
+          "item_id": "TARANTULA_GENERATOR_10",
+          "name": "Tarantula Minion X"
+        },
+        "11": {
+          "action_time": 10.0,
+          "item_id": "TARANTULA_GENERATOR_11",
+          "name": "Tarantula Minion XI"
+        },
+        "12": {
+          "action_time": 8.0,
+          "item_id": "TARANTULA_GENERATOR_12",
+          "name": "Tarantula Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Tarantula_Minion",
+      "tier_max": 12
+    },
+    "VAMPIRE": {
+      "tiers": {
+        "1": {
+          "action_time": 190.0,
+          "item_id": "VAMPIRE_GENERATOR_1",
+          "name": "Vampire Minion I"
+        },
+        "2": {
+          "action_time": 190.0,
+          "item_id": "VAMPIRE_GENERATOR_2",
+          "name": "Vampire Minion II"
+        },
+        "3": {
+          "action_time": 175.0,
+          "item_id": "VAMPIRE_GENERATOR_3",
+          "name": "Vampire Minion III"
+        },
+        "4": {
+          "action_time": 175.0,
+          "item_id": "VAMPIRE_GENERATOR_4",
+          "name": "Vampire Minion IV"
+        },
+        "5": {
+          "action_time": 160.0,
+          "item_id": "VAMPIRE_GENERATOR_5",
+          "name": "Vampire Minion V"
+        },
+        "6": {
+          "action_time": 160.0,
+          "item_id": "VAMPIRE_GENERATOR_6",
+          "name": "Vampire Minion VI"
+        },
+        "7": {
+          "action_time": 140.0,
+          "item_id": "VAMPIRE_GENERATOR_7",
+          "name": "Vampire Minion VII"
+        },
+        "8": {
+          "action_time": 140.0,
+          "item_id": "VAMPIRE_GENERATOR_8",
+          "name": "Vampire Minion VIII"
+        },
+        "9": {
+          "action_time": 117.0,
+          "item_id": "VAMPIRE_GENERATOR_9",
+          "name": "Vampire Minion IX"
+        },
+        "10": {
+          "action_time": 117.0,
+          "item_id": "VAMPIRE_GENERATOR_10",
+          "name": "Vampire Minion X"
+        },
+        "11": {
+          "action_time": 95.0,
+          "item_id": "VAMPIRE_GENERATOR_11",
+          "name": "Vampire Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Vampire_Minion",
+      "tier_max": 11
+    },
+    "VOIDLING": {
+      "tiers": {
+        "1": {
+          "action_time": 45.0,
+          "item_id": "VOIDLING_GENERATOR_1",
+          "name": "Voidling Minion I"
+        },
+        "2": {
+          "action_time": 45.0,
+          "item_id": "VOIDLING_GENERATOR_2",
+          "name": "Voidling Minion II"
+        },
+        "3": {
+          "action_time": 42.0,
+          "item_id": "VOIDLING_GENERATOR_3",
+          "name": "Voidling Minion III"
+        },
+        "4": {
+          "action_time": 42.0,
+          "item_id": "VOIDLING_GENERATOR_4",
+          "name": "Voidling Minion IV"
+        },
+        "5": {
+          "action_time": 39.0,
+          "item_id": "VOIDLING_GENERATOR_5",
+          "name": "Voidling Minion V"
+        },
+        "6": {
+          "action_time": 39.0,
+          "item_id": "VOIDLING_GENERATOR_6",
+          "name": "Voidling Minion VI"
+        },
+        "7": {
+          "action_time": 35.0,
+          "item_id": "VOIDLING_GENERATOR_7",
+          "name": "Voidling Minion VII"
+        },
+        "8": {
+          "action_time": 35.0,
+          "item_id": "VOIDLING_GENERATOR_8",
+          "name": "Voidling Minion VIII"
+        },
+        "9": {
+          "action_time": 30.0,
+          "item_id": "VOIDLING_GENERATOR_9",
+          "name": "Voidling Minion IX"
+        },
+        "10": {
+          "action_time": 30.0,
+          "item_id": "VOIDLING_GENERATOR_10",
+          "name": "Voidling Minion X"
+        },
+        "11": {
+          "action_time": 24.0,
+          "item_id": "VOIDLING_GENERATOR_11",
+          "name": "Voidling Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Voidling_Minion",
+      "tier_max": 11
+    },
+    "WHEAT": {
+      "tiers": {
+        "1": {
+          "action_time": 15.0,
+          "item_id": "WHEAT_GENERATOR_1",
+          "name": "Wheat Minion I"
+        },
+        "2": {
+          "action_time": 15.0,
+          "item_id": "WHEAT_GENERATOR_2",
+          "name": "Wheat Minion II"
+        },
+        "3": {
+          "action_time": 13.0,
+          "item_id": "WHEAT_GENERATOR_3",
+          "name": "Wheat Minion III"
+        },
+        "4": {
+          "action_time": 13.0,
+          "item_id": "WHEAT_GENERATOR_4",
+          "name": "Wheat Minion IV"
+        },
+        "5": {
+          "action_time": 11.0,
+          "item_id": "WHEAT_GENERATOR_5",
+          "name": "Wheat Minion V"
+        },
+        "6": {
+          "action_time": 11.0,
+          "item_id": "WHEAT_GENERATOR_6",
+          "name": "Wheat Minion VI"
+        },
+        "7": {
+          "action_time": 10.0,
+          "item_id": "WHEAT_GENERATOR_7",
+          "name": "Wheat Minion VII"
+        },
+        "8": {
+          "action_time": 10.0,
+          "item_id": "WHEAT_GENERATOR_8",
+          "name": "Wheat Minion VIII"
+        },
+        "9": {
+          "action_time": 9.0,
+          "item_id": "WHEAT_GENERATOR_9",
+          "name": "Wheat Minion IX"
+        },
+        "10": {
+          "action_time": 9.0,
+          "item_id": "WHEAT_GENERATOR_10",
+          "name": "Wheat Minion X"
+        },
+        "11": {
+          "action_time": 8.0,
+          "item_id": "WHEAT_GENERATOR_11",
+          "name": "Wheat Minion XI"
+        },
+        "12": {
+          "action_time": 7.0,
+          "item_id": "WHEAT_GENERATOR_12",
+          "name": "Wheat Minion XII"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Wheat_Minion",
+      "tier_max": 12
+    },
+    "ZOMBIE": {
+      "tiers": {
+        "1": {
+          "action_time": 26.0,
+          "item_id": "ZOMBIE_GENERATOR_1",
+          "name": "Zombie Minion I"
+        },
+        "2": {
+          "action_time": 26.0,
+          "item_id": "ZOMBIE_GENERATOR_2",
+          "name": "Zombie Minion II"
+        },
+        "3": {
+          "action_time": 24.0,
+          "item_id": "ZOMBIE_GENERATOR_3",
+          "name": "Zombie Minion III"
+        },
+        "4": {
+          "action_time": 24.0,
+          "item_id": "ZOMBIE_GENERATOR_4",
+          "name": "Zombie Minion IV"
+        },
+        "5": {
+          "action_time": 22.0,
+          "item_id": "ZOMBIE_GENERATOR_5",
+          "name": "Zombie Minion V"
+        },
+        "6": {
+          "action_time": 22.0,
+          "item_id": "ZOMBIE_GENERATOR_6",
+          "name": "Zombie Minion VI"
+        },
+        "7": {
+          "action_time": 20.0,
+          "item_id": "ZOMBIE_GENERATOR_7",
+          "name": "Zombie Minion VII"
+        },
+        "8": {
+          "action_time": 20.0,
+          "item_id": "ZOMBIE_GENERATOR_8",
+          "name": "Zombie Minion VIII"
+        },
+        "9": {
+          "action_time": 17.0,
+          "item_id": "ZOMBIE_GENERATOR_9",
+          "name": "Zombie Minion IX"
+        },
+        "10": {
+          "action_time": 17.0,
+          "item_id": "ZOMBIE_GENERATOR_10",
+          "name": "Zombie Minion X"
+        },
+        "11": {
+          "action_time": 13.0,
+          "item_id": "ZOMBIE_GENERATOR_11",
+          "name": "Zombie Minion XI"
+        }
+      },
+      "wiki": "https://wiki.hypixel.net/Zombie_Minion",
+      "tier_max": 11
+    }
+  },
+  "warnings": [],
+  "errors": []
+}

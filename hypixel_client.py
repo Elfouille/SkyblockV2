@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import time
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Dict, Any, Optional, Tuple
 
 import requests
@@ -19,14 +20,29 @@ HYPIXEL_BAZAAR_URL = "https://api.hypixel.net/skyblock/bazaar"
 HYPIXEL_ITEMS_URL = "https://api.hypixel.net/resources/skyblock/items"
 HYPIXEL_PLAYER_URL = "https://api.hypixel.net/player"
 
-# v2 (IMPORTANT)
+# v2 (existing)
 HYPIXEL_V2_SKYBLOCK_PROFILES_URL = "https://api.hypixel.net/v2/skyblock/profiles"
 HYPIXEL_V2_SKYBLOCK_MUSEUM_URL = "https://api.hypixel.net/v2/skyblock/museum"
+
+# v2 (new)
+HYPIXEL_V2_COLLECTIONS_URL = "https://api.hypixel.net/v2/resources/skyblock/collections"
+HYPIXEL_V2_STATUS_URL = "https://api.hypixel.net/v2/status"
+HYPIXEL_V2_SKYBLOCK_PROFILE_URL = "https://api.hypixel.net/v2/skyblock/profile"
+HYPIXEL_V2_SKYBLOCK_GARDEN_URL = "https://api.hypixel.net/v2/skyblock/garden"
 
 # cache files
 KEY_FILE = CACHE_DIR / "hypixel_key.json"
 BAZAAR_CACHE = CACHE_DIR / "bazaar_cache.json"
 ITEMS_CACHE = CACHE_DIR / "hypixel_items_cache.json"
+
+# v2 cache files (global)
+COLLECTIONS_CACHE = CACHE_DIR / "hypixel_v2_collections_cache.json"
+
+# v2 cache dirs (per player / per profile)
+V2_STATUS_DIR = CACHE_DIR / "hypixel_v2_status"         # <uuid>.json
+V2_PROFILES_DIR = CACHE_DIR / "hypixel_v2_profiles"     # <uuid>.json
+V2_PROFILE_DIR = CACHE_DIR / "hypixel_v2_profile"       # <profile_id>.json
+V2_GARDEN_DIR = CACHE_DIR / "hypixel_v2_garden"         # <profile_id>.json
 
 
 # ------------------------------------------------------------
@@ -37,6 +53,42 @@ def load_api_key() -> str:
     if isinstance(raw, dict):
         return (raw.get("key") or "").strip()
     return ""
+
+
+def _now() -> float:
+    return time.time()
+
+
+def _safe_key(s: str) -> str:
+    return (s or "").strip()
+
+
+def _ensure_dir(p: Path) -> None:
+    p.mkdir(parents=True, exist_ok=True)
+
+
+def _safe_filename_key(s: str) -> str:
+    """
+    Transforme une clé (uuid/profile_id) en nom de fichier safe.
+    On garde [a-zA-Z0-9_-] uniquement.
+    """
+    s = (s or "").strip()
+    out = []
+    for c in s:
+        if c.isalnum() or c in ("-", "_"):
+            out.append(c)
+    return "".join(out) or "unknown"
+
+
+def _read_cache_value(path: Path) -> Optional[dict]:
+    raw = load_json(path, default={})
+    if isinstance(raw, dict) and "ts" in raw and "value" in raw:
+        return raw
+    return None
+
+
+def _write_cache_value(path: Path, ts: float, value: dict) -> None:
+    save_json(path, {"ts": ts, "value": value})
 
 
 # ------------------------------------------------------------
@@ -70,14 +122,16 @@ class HypixelClient:
         if not self.key:
             raise RuntimeError("No Hypixel API key. Put it in cache/hypixel_key.json")
 
+    def _assert_success(self, data: dict) -> dict:
+        if not isinstance(data, dict) or not data.get("success"):
+            raise RuntimeError(f"Hypixel API error: {data}")
+        return data
+
     # ---------------- Bazaar (v1) ----------------
     def fetch_bazaar(self) -> Dict[str, BazaarPrice]:
         self._require_key()
 
-        data = self._get(HYPIXEL_BAZAAR_URL, {"key": self.key})
-        if not data.get("success"):
-            raise RuntimeError(f"Hypixel API error: {data}")
-
+        data = self._assert_success(self._get(HYPIXEL_BAZAAR_URL, {"key": self.key}))
         products = data.get("products") or {}
         out: Dict[str, BazaarPrice] = {}
 
@@ -95,10 +149,7 @@ class HypixelClient:
 
     # ---------------- Items (v1) ----------------
     def fetch_items_map(self) -> Dict[str, dict]:
-        data = self._get(HYPIXEL_ITEMS_URL, {})
-        if not data.get("success"):
-            raise RuntimeError(f"Hypixel API error: {data}")
-
+        data = self._assert_success(self._get(HYPIXEL_ITEMS_URL, {}))
         items = data.get("items") or []
         mp: Dict[str, dict] = {}
         for it in items:
@@ -112,48 +163,48 @@ class HypixelClient:
     # ---------------- Player (GLOBAL v1) ----------------
     def fetch_player(self, uuid: str) -> Dict[str, Any]:
         self._require_key()
-
-        data = self._get(HYPIXEL_PLAYER_URL, {"key": self.key, "uuid": uuid})
-        if not data.get("success"):
-            raise RuntimeError(f"Hypixel API error: {data}")
-        return data
+        return self._assert_success(self._get(HYPIXEL_PLAYER_URL, {"key": self.key, "uuid": uuid}))
 
     # ---------------- SkyBlock Profiles (v2) ----------------
     def fetch_profiles(self, uuid: str) -> Dict[str, Any]:
-        """
-        GET /v2/skyblock/profiles?uuid=<uuid>
-        """
         self._require_key()
-
-        data = self._get(
-            HYPIXEL_V2_SKYBLOCK_PROFILES_URL,
-            {"key": self.key, "uuid": uuid},
+        return self._assert_success(
+            self._get(HYPIXEL_V2_SKYBLOCK_PROFILES_URL, {"key": self.key, "uuid": uuid})
         )
-        if not data.get("success"):
-            raise RuntimeError(f"Hypixel API error: {data}")
-        return data
 
     # ---------------- SkyBlock Museum (v2) ----------------
     def fetch_museum(self, profile_id: str) -> Dict[str, Any]:
-        """
-        GET /v2/skyblock/museum?profile=<profile_id>
-        """
         self._require_key()
-
-        data = self._get(
-            HYPIXEL_V2_SKYBLOCK_MUSEUM_URL,
-            {"key": self.key, "profile": profile_id},
+        return self._assert_success(
+            self._get(HYPIXEL_V2_SKYBLOCK_MUSEUM_URL, {"key": self.key, "profile": profile_id})
         )
-        if not data.get("success"):
-            raise RuntimeError(f"Hypixel API error: {data}")
-        return data
 
-    # ---------------- Cache helpers ----------------
+    # ---------------- NEW v2 endpoints ----------------
+    def fetch_collections(self) -> Dict[str, Any]:
+        self._require_key()
+        return self._assert_success(self._get(HYPIXEL_V2_COLLECTIONS_URL, {"key": self.key}))
+
+    def fetch_status(self, uuid: str) -> Dict[str, Any]:
+        self._require_key()
+        return self._assert_success(self._get(HYPIXEL_V2_STATUS_URL, {"key": self.key, "uuid": uuid}))
+
+    def fetch_skyblock_profile(self, profile_id: str) -> Dict[str, Any]:
+        self._require_key()
+        return self._assert_success(
+            self._get(HYPIXEL_V2_SKYBLOCK_PROFILE_URL, {"key": self.key, "profile": profile_id})
+        )
+
+    def fetch_garden(self, profile_id: str) -> Dict[str, Any]:
+        self._require_key()
+        return self._assert_success(
+            self._get(HYPIXEL_V2_SKYBLOCK_GARDEN_URL, {"key": self.key, "profile": profile_id})
+        )
+
+    # ------------------------------------------------------------
+    # Cache helpers (existing)
+    # ------------------------------------------------------------
     def load_bazaar_cached(self, max_age_sec: int = 60) -> Tuple[Dict[str, BazaarPrice], bool]:
-        """
-        Returns (prices, fresh_from_api)
-        """
-        now = time.time()
+        now = _now()
         cached = load_json(BAZAAR_CACHE, default={})
 
         if isinstance(cached, dict) and "ts" in cached and "prices" in cached:
@@ -169,7 +220,7 @@ class HypixelClient:
         return prices, True
 
     def load_items_cached(self, max_age_days: int = 7) -> Dict[str, dict]:
-        now = time.time()
+        now = _now()
         max_age_sec = int(max_age_days * 86400)
 
         cached = load_json(ITEMS_CACHE, default={})
@@ -184,6 +235,126 @@ class HypixelClient:
         mp = self.fetch_items_map()
         save_json(ITEMS_CACHE, {"ts": now, "items": mp})
         return mp
+
+    # ------------------------------------------------------------
+    # Cache helpers (v2)
+    # ------------------------------------------------------------
+    def load_collections_cached(self, max_age_days: int = 7) -> Dict[str, Any]:
+        now = _now()
+        max_age_sec = int(max_age_days * 86400)
+
+        cached = load_json(COLLECTIONS_CACHE, default={})
+        if isinstance(cached, dict) and "ts" in cached and "value" in cached:
+            try:
+                ts = float(cached["ts"])
+                if (now - ts) <= max_age_sec:
+                    return cached["value"]
+            except Exception:
+                pass
+
+        data = self.fetch_collections()
+        save_json(COLLECTIONS_CACHE, {"ts": now, "value": data})
+        return data
+
+    def load_status_cached(self, uuid: str, max_age_sec: int = 20) -> Dict[str, Any]:
+        """
+        Cache par joueur => cache/hypixel_v2_status/<uuid>.json
+        """
+        uuid = _safe_key(uuid)
+        if not uuid:
+            raise ValueError("uuid is empty")
+
+        now = _now()
+        _ensure_dir(V2_STATUS_DIR)
+        f = V2_STATUS_DIR / f"{_safe_filename_key(uuid)}.json"
+
+        cached = _read_cache_value(f)
+        if cached:
+            try:
+                ts = float(cached["ts"])
+                if (now - ts) <= max_age_sec and isinstance(cached["value"], dict):
+                    return cached["value"]
+            except Exception:
+                pass
+
+        value = self.fetch_status(uuid)
+        _write_cache_value(f, now, value)
+        return value
+
+    def load_profiles_cached(self, uuid: str, max_age_sec: int = 120) -> Dict[str, Any]:
+        """
+        Cache par joueur => cache/hypixel_v2_profiles/<uuid>.json
+        """
+        uuid = _safe_key(uuid)
+        if not uuid:
+            raise ValueError("uuid is empty")
+
+        now = _now()
+        _ensure_dir(V2_PROFILES_DIR)
+        f = V2_PROFILES_DIR / f"{_safe_filename_key(uuid)}.json"
+
+        cached = _read_cache_value(f)
+        if cached:
+            try:
+                ts = float(cached["ts"])
+                if (now - ts) <= max_age_sec and isinstance(cached["value"], dict):
+                    return cached["value"]
+            except Exception:
+                pass
+
+        value = self.fetch_profiles(uuid)
+        _write_cache_value(f, now, value)
+        return value
+
+    def load_skyblock_profile_cached(self, profile_id: str, max_age_sec: int = 120) -> Dict[str, Any]:
+        """
+        Cache par profil => cache/hypixel_v2_profile/<profile_id>.json
+        """
+        profile_id = _safe_key(profile_id)
+        if not profile_id:
+            raise ValueError("profile_id is empty")
+
+        now = _now()
+        _ensure_dir(V2_PROFILE_DIR)
+        f = V2_PROFILE_DIR / f"{_safe_filename_key(profile_id)}.json"
+
+        cached = _read_cache_value(f)
+        if cached:
+            try:
+                ts = float(cached["ts"])
+                if (now - ts) <= max_age_sec and isinstance(cached["value"], dict):
+                    return cached["value"]
+            except Exception:
+                pass
+
+        value = self.fetch_skyblock_profile(profile_id)
+        _write_cache_value(f, now, value)
+        return value
+
+    def load_garden_cached(self, profile_id: str, max_age_sec: int = 120) -> Dict[str, Any]:
+        """
+        Cache par profil => cache/hypixel_v2_garden/<profile_id>.json
+        """
+        profile_id = _safe_key(profile_id)
+        if not profile_id:
+            raise ValueError("profile_id is empty")
+
+        now = _now()
+        _ensure_dir(V2_GARDEN_DIR)
+        f = V2_GARDEN_DIR / f"{_safe_filename_key(profile_id)}.json"
+
+        cached = _read_cache_value(f)
+        if cached:
+            try:
+                ts = float(cached["ts"])
+                if (now - ts) <= max_age_sec and isinstance(cached["value"], dict):
+                    return cached["value"]
+            except Exception:
+                pass
+
+        value = self.fetch_garden(profile_id)
+        _write_cache_value(f, now, value)
+        return value
 
 
 # ------------------------------------------------------------
