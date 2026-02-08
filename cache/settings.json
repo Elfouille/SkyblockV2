@@ -1,0 +1,12 @@
+{
+  "api_key": "b80a1244-a7f9-4ecc-bdda-5d174c158b16",
+  "bazaar_cache_seconds": 30,
+  "items_cache_days": 1,
+  "enable_icons": true,
+  "allow_icon_downloads": false,
+  "auto_refresh_items": true,
+  "auto_refresh_crafts": true,
+  "auto_refresh_museum": false,
+  "museum_refresh_seconds": 120,
+  "museum_cache_ttl_seconds": 60
+}

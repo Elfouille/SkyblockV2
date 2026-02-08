@@ -22,14 +22,15 @@ class _Signals(QObject):
 
 
 class _FetchBazaarTask(QRunnable):
-    def __init__(self, client: HypixelClient):
+    def __init__(self, client: HypixelClient, max_age_sec: int):
         super().__init__()
         self.client = client
+        self.max_age_sec = max_age_sec
         self.signals = _Signals()
 
     def run(self) -> None:
         try:
-            prices, fresh = self.client.load_bazaar_cached(max_age_sec=60)
+            prices, fresh = self.client.load_bazaar_cached(max_age_sec=self.max_age_sec)
             self.signals.done.emit(prices, fresh, "")
         except Exception as e:
             self.signals.done.emit({}, False, str(e))
@@ -60,7 +61,7 @@ class CraftsTab(QWidget):
         self.main = main
         self.pool = QThreadPool.globalInstance()
 
-        self.client = HypixelClient()
+        self.client = HypixelClient(self.main.settings.api_key)
         self.prices: Dict[str, BazaarPrice] = {}
         self.items_map: Dict[str, dict] = self._load_items_map()
 
@@ -120,7 +121,8 @@ class CraftsTab(QWidget):
 
     def _load_items_map(self) -> Dict[str, dict]:
         try:
-            return self.client.load_items_cached()
+            max_age_days = int(getattr(self.main.settings, "items_cache_days", 7))
+            return self.client.load_items_cached(max_age_days=max_age_days)
         except Exception:
             return {}
 
@@ -148,7 +150,8 @@ class CraftsTab(QWidget):
 
     def refresh_prices(self) -> None:
         self.lbl_status.setText("Fetching…")
-        task = _FetchBazaarTask(self.client)
+        max_age = int(getattr(self.main.settings, "bazaar_cache_seconds", 60))
+        task = _FetchBazaarTask(self.client, max_age)
         task.signals.done.connect(self._on_prices)
         self.pool.start(task)
 
@@ -203,7 +206,12 @@ class CraftsTab(QWidget):
                 label = f"{name} ({out})" if name != out else out
                 out_item = QTreeWidgetItem([label, "", "", "", ""])
                 out_item.setForeground(0, self._tier_color(tier))
-                icon_res = get_icon_path(out, enable_icons=True, allow_download=False)
+                settings = self.main.settings
+                icon_res = get_icon_path(
+                    out,
+                    enable_icons=bool(settings.enable_icons),
+                    allow_download=bool(settings.allow_icon_downloads),
+                )
                 if icon_res.path is not None:
                     out_item.setIcon(0, QIcon(str(icon_res.path)))
                 cat_item.addChild(out_item)
@@ -276,4 +284,9 @@ class CraftsTab(QWidget):
         self.store.clear()
         self.store.save()
         self.lbl_status.setText("All recipes cleared.")
+        self.rebuild_tree()
+
+    def apply_settings(self, settings) -> None:
+        self.client.key = settings.api_key
+        self.items_map = self._load_items_map()
         self.rebuild_tree()

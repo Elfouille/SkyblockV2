@@ -1,0 +1,4047 @@
+{
+  "ACACIA": {
+    "tiers": {
+      "3": {
+        "item_id": "ACACIA_GENERATOR_3",
+        "name": "Acacia Minion III",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "ACACIA_GENERATOR_5",
+        "name": "Acacia Minion V",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "ACACIA_GENERATOR_9",
+        "name": "Acacia Minion IX",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "ACACIA_GENERATOR_6",
+        "name": "Acacia Minion VI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "ACACIA_GENERATOR_7",
+        "name": "Acacia Minion VII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "ACACIA_GENERATOR_10",
+        "name": "Acacia Minion X",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "ACACIA_GENERATOR_4",
+        "name": "Acacia Minion IV",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "ACACIA_GENERATOR_8",
+        "name": "Acacia Minion VIII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "ACACIA_GENERATOR_1",
+        "name": "Acacia Minion I",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "ACACIA_GENERATOR_11",
+        "name": "Acacia Minion XI",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "ACACIA_GENERATOR_2",
+        "name": "Acacia Minion II",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "BIRCH": {
+    "tiers": {
+      "3": {
+        "item_id": "BIRCH_GENERATOR_3",
+        "name": "Birch Minion III",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "BIRCH_GENERATOR_11",
+        "name": "Birch Minion XI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "BIRCH_GENERATOR_7",
+        "name": "Birch Minion VII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "BIRCH_GENERATOR_10",
+        "name": "Birch Minion X",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "BIRCH_GENERATOR_8",
+        "name": "Birch Minion VIII",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "BIRCH_GENERATOR_9",
+        "name": "Birch Minion IX",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "BIRCH_GENERATOR_2",
+        "name": "Birch Minion II",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "BIRCH_GENERATOR_1",
+        "name": "Birch Minion I",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "BIRCH_GENERATOR_5",
+        "name": "Birch Minion V",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "BIRCH_GENERATOR_4",
+        "name": "Birch Minion IV",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "BIRCH_GENERATOR_6",
+        "name": "Birch Minion VI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "BLAZE": {
+    "tiers": {
+      "9": {
+        "item_id": "BLAZE_GENERATOR_9",
+        "name": "Blaze Minion IX",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "BLAZE_GENERATOR_8",
+        "name": "Blaze Minion VIII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "BLAZE_GENERATOR_5",
+        "name": "Blaze Minion V",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "BLAZE_GENERATOR_12",
+        "name": "Blaze Minion XII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "BLAZE_GENERATOR_10",
+        "name": "Blaze Minion X",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "BLAZE_GENERATOR_3",
+        "name": "Blaze Minion III",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "BLAZE_GENERATOR_6",
+        "name": "Blaze Minion VI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "BLAZE_GENERATOR_7",
+        "name": "Blaze Minion VII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "BLAZE_GENERATOR_4",
+        "name": "Blaze Minion IV",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "BLAZE_GENERATOR_1",
+        "name": "Blaze Minion I",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "BLAZE_GENERATOR_2",
+        "name": "Blaze Minion II",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "BLAZE_GENERATOR_11",
+        "name": "Blaze Minion XI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "CACTUS": {
+    "tiers": {
+      "4": {
+        "item_id": "CACTUS_GENERATOR_4",
+        "name": "Cactus Minion IV",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "CACTUS_GENERATOR_10",
+        "name": "Cactus Minion X",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "CACTUS_GENERATOR_12",
+        "name": "Cactus Minion XII",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "CACTUS_GENERATOR_8",
+        "name": "Cactus Minion VIII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "CACTUS_GENERATOR_5",
+        "name": "Cactus Minion V",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "CACTUS_GENERATOR_2",
+        "name": "Cactus Minion II",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "CACTUS_GENERATOR_6",
+        "name": "Cactus Minion VI",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "CACTUS_GENERATOR_1",
+        "name": "Cactus Minion I",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "CACTUS_GENERATOR_7",
+        "name": "Cactus Minion VII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "CACTUS_GENERATOR_11",
+        "name": "Cactus Minion XI",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "CACTUS_GENERATOR_3",
+        "name": "Cactus Minion III",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "CACTUS_GENERATOR_9",
+        "name": "Cactus Minion IX",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "CARROT": {
+    "tiers": {
+      "3": {
+        "item_id": "CARROT_GENERATOR_3",
+        "name": "Carrot Minion III",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "CARROT_GENERATOR_9",
+        "name": "Carrot Minion IX",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "CARROT_GENERATOR_4",
+        "name": "Carrot Minion IV",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "CARROT_GENERATOR_8",
+        "name": "Carrot Minion VIII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "CARROT_GENERATOR_5",
+        "name": "Carrot Minion V",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "CARROT_GENERATOR_11",
+        "name": "Carrot Minion XI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "CARROT_GENERATOR_10",
+        "name": "Carrot Minion X",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "CARROT_GENERATOR_7",
+        "name": "Carrot Minion VII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "CARROT_GENERATOR_1",
+        "name": "Carrot Minion I",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "CARROT_GENERATOR_6",
+        "name": "Carrot Minion VI",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "CARROT_GENERATOR_2",
+        "name": "Carrot Minion II",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "CARROT_GENERATOR_12",
+        "name": "Carrot Minion XII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "CAVESPIDER": {
+    "tiers": {
+      "1": {
+        "item_id": "CAVESPIDER_GENERATOR_1",
+        "name": "Cave Spider Minion I",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "CAVESPIDER_GENERATOR_5",
+        "name": "Cave Spider Minion V",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "CAVESPIDER_GENERATOR_9",
+        "name": "Cave Spider Minion IX",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "CAVESPIDER_GENERATOR_6",
+        "name": "Cave Spider Minion VI",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "CAVESPIDER_GENERATOR_3",
+        "name": "Cave Spider Minion III",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "CAVESPIDER_GENERATOR_7",
+        "name": "Cave Spider Minion VII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "CAVESPIDER_GENERATOR_2",
+        "name": "Cave Spider Minion II",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "CAVESPIDER_GENERATOR_10",
+        "name": "Cave Spider Minion X",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "CAVESPIDER_GENERATOR_4",
+        "name": "Cave Spider Minion IV",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "CAVESPIDER_GENERATOR_11",
+        "name": "Cave Spider Minion XI",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "CAVESPIDER_GENERATOR_8",
+        "name": "Cave Spider Minion VIII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "CHICKEN": {
+    "tiers": {
+      "7": {
+        "item_id": "CHICKEN_GENERATOR_7",
+        "name": "Chicken Minion VII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "CHICKEN_GENERATOR_11",
+        "name": "Chicken Minion XI",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "CHICKEN_GENERATOR_9",
+        "name": "Chicken Minion IX",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "CHICKEN_GENERATOR_8",
+        "name": "Chicken Minion VIII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "CHICKEN_GENERATOR_4",
+        "name": "Chicken Minion IV",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "CHICKEN_GENERATOR_1",
+        "name": "Chicken Minion I",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "CHICKEN_GENERATOR_10",
+        "name": "Chicken Minion X",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "CHICKEN_GENERATOR_5",
+        "name": "Chicken Minion V",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "CHICKEN_GENERATOR_6",
+        "name": "Chicken Minion VI",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "CHICKEN_GENERATOR_3",
+        "name": "Chicken Minion III",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "CHICKEN_GENERATOR_12",
+        "name": "Chicken Minion XII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "CHICKEN_GENERATOR_2",
+        "name": "Chicken Minion II",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "CLAY": {
+    "tiers": {
+      "12": {
+        "item_id": "CLAY_GENERATOR_12",
+        "name": "Clay Minion XII",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "CLAY_GENERATOR_8",
+        "name": "Clay Minion VIII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "CLAY_GENERATOR_4",
+        "name": "Clay Minion IV",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "CLAY_GENERATOR_7",
+        "name": "Clay Minion VII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "CLAY_GENERATOR_1",
+        "name": "Clay Minion I",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "CLAY_GENERATOR_11",
+        "name": "Clay Minion XI",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "CLAY_GENERATOR_2",
+        "name": "Clay Minion II",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "CLAY_GENERATOR_9",
+        "name": "Clay Minion IX",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "CLAY_GENERATOR_5",
+        "name": "Clay Minion V",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "CLAY_GENERATOR_6",
+        "name": "Clay Minion VI",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "CLAY_GENERATOR_3",
+        "name": "Clay Minion III",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "CLAY_GENERATOR_10",
+        "name": "Clay Minion X",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "COAL": {
+    "tiers": {
+      "12": {
+        "item_id": "COAL_GENERATOR_12",
+        "name": "Coal Minion XII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "COAL_GENERATOR_1",
+        "name": "Coal Minion I",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "COAL_GENERATOR_11",
+        "name": "Coal Minion XI",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "COAL_GENERATOR_5",
+        "name": "Coal Minion V",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "COAL_GENERATOR_3",
+        "name": "Coal Minion III",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "COAL_GENERATOR_6",
+        "name": "Coal Minion VI",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "COAL_GENERATOR_9",
+        "name": "Coal Minion IX",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "COAL_GENERATOR_2",
+        "name": "Coal Minion II",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "COAL_GENERATOR_7",
+        "name": "Coal Minion VII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "COAL_GENERATOR_10",
+        "name": "Coal Minion X",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "COAL_GENERATOR_4",
+        "name": "Coal Minion IV",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "COAL_GENERATOR_8",
+        "name": "Coal Minion VIII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "COBBLESTONE": {
+    "tiers": {
+      "5": {
+        "item_id": "COBBLESTONE_GENERATOR_5",
+        "name": "Cobblestone Minion V",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "COBBLESTONE_GENERATOR_9",
+        "name": "Cobblestone Minion IX",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "COBBLESTONE_GENERATOR_4",
+        "name": "Cobblestone Minion IV",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "COBBLESTONE_GENERATOR_2",
+        "name": "Cobblestone Minion II",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "COBBLESTONE_GENERATOR_1",
+        "name": "Cobblestone Minion I",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "COBBLESTONE_GENERATOR_6",
+        "name": "Cobblestone Minion VI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "COBBLESTONE_GENERATOR_10",
+        "name": "Cobblestone Minion X",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "COBBLESTONE_GENERATOR_8",
+        "name": "Cobblestone Minion VIII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "COBBLESTONE_GENERATOR_3",
+        "name": "Cobblestone Minion III",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "COBBLESTONE_GENERATOR_7",
+        "name": "Cobblestone Minion VII",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "COBBLESTONE_GENERATOR_12",
+        "name": "Cobblestone Minion XII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "COBBLESTONE_GENERATOR_11",
+        "name": "Cobblestone Minion XI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "COCOA": {
+    "tiers": {
+      "12": {
+        "item_id": "COCOA_GENERATOR_12",
+        "name": "Cocoa Beans Minion XII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "COCOA_GENERATOR_3",
+        "name": "Cocoa Beans Minion III",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "COCOA_GENERATOR_2",
+        "name": "Cocoa Beans Minion II",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "COCOA_GENERATOR_5",
+        "name": "Cocoa Beans Minion V",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "COCOA_GENERATOR_7",
+        "name": "Cocoa Beans Minion VII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "COCOA_GENERATOR_6",
+        "name": "Cocoa Beans Minion VI",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "COCOA_GENERATOR_4",
+        "name": "Cocoa Beans Minion IV",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "COCOA_GENERATOR_11",
+        "name": "Cocoa Beans Minion XI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "COCOA_GENERATOR_10",
+        "name": "Cocoa Beans Minion X",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "COCOA_GENERATOR_1",
+        "name": "Cocoa Beans Minion I",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "COCOA_GENERATOR_8",
+        "name": "Cocoa Beans Minion VIII",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "COCOA_GENERATOR_9",
+        "name": "Cocoa Beans Minion IX",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "COW": {
+    "tiers": {
+      "5": {
+        "item_id": "COW_GENERATOR_5",
+        "name": "Cow Minion V",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "COW_GENERATOR_3",
+        "name": "Cow Minion III",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "COW_GENERATOR_11",
+        "name": "Cow Minion XI",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "COW_GENERATOR_12",
+        "name": "Cow Minion XII",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "COW_GENERATOR_8",
+        "name": "Cow Minion VIII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "COW_GENERATOR_10",
+        "name": "Cow Minion X",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "COW_GENERATOR_7",
+        "name": "Cow Minion VII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "COW_GENERATOR_1",
+        "name": "Cow Minion I",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "COW_GENERATOR_4",
+        "name": "Cow Minion IV",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "COW_GENERATOR_6",
+        "name": "Cow Minion VI",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "COW_GENERATOR_9",
+        "name": "Cow Minion IX",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "COW_GENERATOR_2",
+        "name": "Cow Minion II",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "CREEPER": {
+    "tiers": {
+      "10": {
+        "item_id": "CREEPER_GENERATOR_10",
+        "name": "Creeper Minion X",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "CREEPER_GENERATOR_7",
+        "name": "Creeper Minion VII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "CREEPER_GENERATOR_1",
+        "name": "Creeper Minion I",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "CREEPER_GENERATOR_2",
+        "name": "Creeper Minion II",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "CREEPER_GENERATOR_6",
+        "name": "Creeper Minion VI",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "CREEPER_GENERATOR_8",
+        "name": "Creeper Minion VIII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "CREEPER_GENERATOR_3",
+        "name": "Creeper Minion III",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "CREEPER_GENERATOR_5",
+        "name": "Creeper Minion V",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "CREEPER_GENERATOR_4",
+        "name": "Creeper Minion IV",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "CREEPER_GENERATOR_9",
+        "name": "Creeper Minion IX",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "CREEPER_GENERATOR_11",
+        "name": "Creeper Minion XI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "DARK_OAK": {
+    "tiers": {
+      "11": {
+        "item_id": "DARK_OAK_GENERATOR_11",
+        "name": "Dark Oak Minion XI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "DARK_OAK_GENERATOR_10",
+        "name": "Dark Oak Minion X",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "DARK_OAK_GENERATOR_4",
+        "name": "Dark Oak Minion IV",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "DARK_OAK_GENERATOR_8",
+        "name": "Dark Oak Minion VIII",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "DARK_OAK_GENERATOR_9",
+        "name": "Dark Oak Minion IX",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "DARK_OAK_GENERATOR_7",
+        "name": "Dark Oak Minion VII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "DARK_OAK_GENERATOR_2",
+        "name": "Dark Oak Minion II",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "DARK_OAK_GENERATOR_1",
+        "name": "Dark Oak Minion I",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "DARK_OAK_GENERATOR_3",
+        "name": "Dark Oak Minion III",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "DARK_OAK_GENERATOR_5",
+        "name": "Dark Oak Minion V",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "DARK_OAK_GENERATOR_6",
+        "name": "Dark Oak Minion VI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "DIAMOND": {
+    "tiers": {
+      "4": {
+        "item_id": "DIAMOND_GENERATOR_4",
+        "name": "Diamond Minion IV",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "DIAMOND_GENERATOR_12",
+        "name": "Diamond Minion XII",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "DIAMOND_GENERATOR_9",
+        "name": "Diamond Minion IX",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "DIAMOND_GENERATOR_7",
+        "name": "Diamond Minion VII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "DIAMOND_GENERATOR_10",
+        "name": "Diamond Minion X",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "DIAMOND_GENERATOR_1",
+        "name": "Diamond Minion I",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "DIAMOND_GENERATOR_11",
+        "name": "Diamond Minion XI",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "DIAMOND_GENERATOR_8",
+        "name": "Diamond Minion VIII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "DIAMOND_GENERATOR_5",
+        "name": "Diamond Minion V",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "DIAMOND_GENERATOR_2",
+        "name": "Diamond Minion II",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "DIAMOND_GENERATOR_3",
+        "name": "Diamond Minion III",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "DIAMOND_GENERATOR_6",
+        "name": "Diamond Minion VI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "EMERALD": {
+    "tiers": {
+      "8": {
+        "item_id": "EMERALD_GENERATOR_8",
+        "name": "Emerald Minion VIII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "EMERALD_GENERATOR_2",
+        "name": "Emerald Minion II",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "EMERALD_GENERATOR_5",
+        "name": "Emerald Minion V",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "EMERALD_GENERATOR_4",
+        "name": "Emerald Minion IV",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "EMERALD_GENERATOR_10",
+        "name": "Emerald Minion X",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "EMERALD_GENERATOR_6",
+        "name": "Emerald Minion VI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "EMERALD_GENERATOR_7",
+        "name": "Emerald Minion VII",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "EMERALD_GENERATOR_12",
+        "name": "Emerald Minion XII",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "EMERALD_GENERATOR_9",
+        "name": "Emerald Minion IX",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "EMERALD_GENERATOR_11",
+        "name": "Emerald Minion XI",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "EMERALD_GENERATOR_3",
+        "name": "Emerald Minion III",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "EMERALD_GENERATOR_1",
+        "name": "Emerald Minion I",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "ENDERMAN": {
+    "tiers": {
+      "9": {
+        "item_id": "ENDERMAN_GENERATOR_9",
+        "name": "Enderman Minion IX",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "ENDERMAN_GENERATOR_5",
+        "name": "Enderman Minion V",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "ENDERMAN_GENERATOR_3",
+        "name": "Enderman Minion III",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "ENDERMAN_GENERATOR_6",
+        "name": "Enderman Minion VI",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "ENDERMAN_GENERATOR_1",
+        "name": "Enderman Minion I",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "ENDERMAN_GENERATOR_10",
+        "name": "Enderman Minion X",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "ENDERMAN_GENERATOR_8",
+        "name": "Enderman Minion VIII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "ENDERMAN_GENERATOR_4",
+        "name": "Enderman Minion IV",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "ENDERMAN_GENERATOR_2",
+        "name": "Enderman Minion II",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "ENDERMAN_GENERATOR_11",
+        "name": "Enderman Minion XI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "ENDERMAN_GENERATOR_7",
+        "name": "Enderman Minion VII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "ENDER_STONE": {
+    "tiers": {
+      "8": {
+        "item_id": "ENDER_STONE_GENERATOR_8",
+        "name": "End Stone Minion VIII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "ENDER_STONE_GENERATOR_3",
+        "name": "End Stone Minion III",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "ENDER_STONE_GENERATOR_11",
+        "name": "End Stone Minion XI",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "ENDER_STONE_GENERATOR_5",
+        "name": "End Stone Minion V",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "ENDER_STONE_GENERATOR_7",
+        "name": "End Stone Minion VII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "ENDER_STONE_GENERATOR_2",
+        "name": "End Stone Minion II",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "ENDER_STONE_GENERATOR_6",
+        "name": "End Stone Minion VI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "ENDER_STONE_GENERATOR_10",
+        "name": "End Stone Minion X",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "ENDER_STONE_GENERATOR_4",
+        "name": "End Stone Minion IV",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "ENDER_STONE_GENERATOR_1",
+        "name": "End Stone Minion I",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "ENDER_STONE_GENERATOR_9",
+        "name": "End Stone Minion IX",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "FISHING": {
+    "tiers": {
+      "12": {
+        "item_id": "FISHING_GENERATOR_12",
+        "name": "Fishing Minion XII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "FISHING_GENERATOR_3",
+        "name": "Fishing Minion III",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "FISHING_GENERATOR_9",
+        "name": "Fishing Minion IX",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "FISHING_GENERATOR_5",
+        "name": "Fishing Minion V",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "FISHING_GENERATOR_8",
+        "name": "Fishing Minion VIII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "FISHING_GENERATOR_11",
+        "name": "Fishing Minion XI",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "FISHING_GENERATOR_2",
+        "name": "Fishing Minion II",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "FISHING_GENERATOR_6",
+        "name": "Fishing Minion VI",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "FISHING_GENERATOR_1",
+        "name": "Fishing Minion I",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "FISHING_GENERATOR_10",
+        "name": "Fishing Minion X",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "FISHING_GENERATOR_4",
+        "name": "Fishing Minion IV",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "FISHING_GENERATOR_7",
+        "name": "Fishing Minion VII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "FLOWER": {
+    "tiers": {
+      "4": {
+        "item_id": "FLOWER_GENERATOR_4",
+        "name": "Flower Minion IV",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "FLOWER_GENERATOR_10",
+        "name": "Flower Minion X",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "FLOWER_GENERATOR_5",
+        "name": "Flower Minion V",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "FLOWER_GENERATOR_7",
+        "name": "Flower Minion VII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "FLOWER_GENERATOR_2",
+        "name": "Flower Minion II",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "FLOWER_GENERATOR_8",
+        "name": "Flower Minion VIII",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "FLOWER_GENERATOR_12",
+        "name": "Flower Minion XII",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "FLOWER_GENERATOR_9",
+        "name": "Flower Minion IX",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "FLOWER_GENERATOR_11",
+        "name": "Flower Minion XI",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "FLOWER_GENERATOR_3",
+        "name": "Flower Minion III",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "FLOWER_GENERATOR_1",
+        "name": "Flower Minion I",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "FLOWER_GENERATOR_6",
+        "name": "Flower Minion VI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "GHAST": {
+    "tiers": {
+      "11": {
+        "item_id": "GHAST_GENERATOR_11",
+        "name": "Ghast Minion XI",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "GHAST_GENERATOR_2",
+        "name": "Ghast Minion II",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "GHAST_GENERATOR_6",
+        "name": "Ghast Minion VI",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "GHAST_GENERATOR_12",
+        "name": "Ghast Minion XII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "GHAST_GENERATOR_4",
+        "name": "Ghast Minion IV",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "GHAST_GENERATOR_5",
+        "name": "Ghast Minion V",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "GHAST_GENERATOR_7",
+        "name": "Ghast Minion VII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "GHAST_GENERATOR_10",
+        "name": "Ghast Minion X",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "GHAST_GENERATOR_9",
+        "name": "Ghast Minion IX",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "GHAST_GENERATOR_1",
+        "name": "Ghast Minion I",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "GHAST_GENERATOR_8",
+        "name": "Ghast Minion VIII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "GHAST_GENERATOR_3",
+        "name": "Ghast Minion III",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "GLOWSTONE": {
+    "tiers": {
+      "2": {
+        "item_id": "GLOWSTONE_GENERATOR_2",
+        "name": "Glowstone Minion II",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "GLOWSTONE_GENERATOR_8",
+        "name": "Glowstone Minion VIII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "GLOWSTONE_GENERATOR_3",
+        "name": "Glowstone Minion III",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "GLOWSTONE_GENERATOR_12",
+        "name": "Glowstone Minion XII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "GLOWSTONE_GENERATOR_6",
+        "name": "Glowstone Minion VI",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "GLOWSTONE_GENERATOR_11",
+        "name": "Glowstone Minion XI",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "GLOWSTONE_GENERATOR_4",
+        "name": "Glowstone Minion IV",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "GLOWSTONE_GENERATOR_9",
+        "name": "Glowstone Minion IX",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "GLOWSTONE_GENERATOR_5",
+        "name": "Glowstone Minion V",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "GLOWSTONE_GENERATOR_10",
+        "name": "Glowstone Minion X",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "GLOWSTONE_GENERATOR_7",
+        "name": "Glowstone Minion VII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "GLOWSTONE_GENERATOR_1",
+        "name": "Glowstone Minion I",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "GOLD": {
+    "tiers": {
+      "2": {
+        "item_id": "GOLD_GENERATOR_2",
+        "name": "Gold Minion II",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "GOLD_GENERATOR_4",
+        "name": "Gold Minion IV",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "GOLD_GENERATOR_12",
+        "name": "Gold Minion XII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "GOLD_GENERATOR_3",
+        "name": "Gold Minion III",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "GOLD_GENERATOR_5",
+        "name": "Gold Minion V",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "GOLD_GENERATOR_6",
+        "name": "Gold Minion VI",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "GOLD_GENERATOR_8",
+        "name": "Gold Minion VIII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "GOLD_GENERATOR_11",
+        "name": "Gold Minion XI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "GOLD_GENERATOR_7",
+        "name": "Gold Minion VII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "GOLD_GENERATOR_1",
+        "name": "Gold Minion I",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "GOLD_GENERATOR_9",
+        "name": "Gold Minion IX",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "GOLD_GENERATOR_10",
+        "name": "Gold Minion X",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "GRAVEL": {
+    "tiers": {
+      "9": {
+        "item_id": "GRAVEL_GENERATOR_9",
+        "name": "Gravel Minion IX",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "GRAVEL_GENERATOR_4",
+        "name": "Gravel Minion IV",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "GRAVEL_GENERATOR_2",
+        "name": "Gravel Minion II",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "GRAVEL_GENERATOR_1",
+        "name": "Gravel Minion I",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "GRAVEL_GENERATOR_5",
+        "name": "Gravel Minion V",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "GRAVEL_GENERATOR_3",
+        "name": "Gravel Minion III",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "GRAVEL_GENERATOR_11",
+        "name": "Gravel Minion XI",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "GRAVEL_GENERATOR_6",
+        "name": "Gravel Minion VI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "GRAVEL_GENERATOR_7",
+        "name": "Gravel Minion VII",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "GRAVEL_GENERATOR_8",
+        "name": "Gravel Minion VIII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "GRAVEL_GENERATOR_10",
+        "name": "Gravel Minion X",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "HARD_STONE": {
+    "tiers": {
+      "10": {
+        "item_id": "HARD_STONE_GENERATOR_10",
+        "name": "Hard Stone Minion X",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "HARD_STONE_GENERATOR_11",
+        "name": "Hard Stone Minion XI",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "HARD_STONE_GENERATOR_12",
+        "name": "Hard Stone Minion XII",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "HARD_STONE_GENERATOR_8",
+        "name": "Hard Stone Minion VIII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "HARD_STONE_GENERATOR_2",
+        "name": "Hard Stone Minion II",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "HARD_STONE_GENERATOR_4",
+        "name": "Hard Stone Minion IV",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "HARD_STONE_GENERATOR_6",
+        "name": "Hard Stone Minion VI",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "HARD_STONE_GENERATOR_9",
+        "name": "Hard Stone Minion IX",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "HARD_STONE_GENERATOR_1",
+        "name": "Hard Stone Minion I",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "HARD_STONE_GENERATOR_5",
+        "name": "Hard Stone Minion V",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "HARD_STONE_GENERATOR_3",
+        "name": "Hard Stone Minion III",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "HARD_STONE_GENERATOR_7",
+        "name": "Hard Stone Minion VII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "ICE": {
+    "tiers": {
+      "10": {
+        "item_id": "ICE_GENERATOR_10",
+        "name": "Ice Minion X",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "ICE_GENERATOR_8",
+        "name": "Ice Minion VIII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "ICE_GENERATOR_2",
+        "name": "Ice Minion II",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "ICE_GENERATOR_11",
+        "name": "Ice Minion XI",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "ICE_GENERATOR_6",
+        "name": "Ice Minion VI",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "ICE_GENERATOR_9",
+        "name": "Ice Minion IX",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "ICE_GENERATOR_3",
+        "name": "Ice Minion III",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "ICE_GENERATOR_12",
+        "name": "Ice Minion XII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "ICE_GENERATOR_5",
+        "name": "Ice Minion V",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "ICE_GENERATOR_7",
+        "name": "Ice Minion VII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "ICE_GENERATOR_1",
+        "name": "Ice Minion I",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "ICE_GENERATOR_4",
+        "name": "Ice Minion IV",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "INFERNO": {
+    "tiers": {
+      "3": {
+        "item_id": "INFERNO_GENERATOR_3",
+        "name": "Inferno Minion III",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "INFERNO_GENERATOR_7",
+        "name": "Inferno Minion VII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "INFERNO_GENERATOR_4",
+        "name": "Inferno Minion IV",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "INFERNO_GENERATOR_8",
+        "name": "Inferno Minion VIII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "INFERNO_GENERATOR_5",
+        "name": "Inferno Minion V",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "INFERNO_GENERATOR_6",
+        "name": "Inferno Minion VI",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "INFERNO_GENERATOR_11",
+        "name": "Inferno Minion XI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "INFERNO_GENERATOR_10",
+        "name": "Inferno Minion X",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "INFERNO_GENERATOR_9",
+        "name": "Inferno Minion IX",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "INFERNO_GENERATOR_2",
+        "name": "Inferno Minion II",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "INFERNO_GENERATOR_1",
+        "name": "Inferno Minion I",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "IRON": {
+    "tiers": {
+      "1": {
+        "item_id": "IRON_GENERATOR_1",
+        "name": "Iron Minion I",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "IRON_GENERATOR_8",
+        "name": "Iron Minion VIII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "IRON_GENERATOR_6",
+        "name": "Iron Minion VI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "IRON_GENERATOR_7",
+        "name": "Iron Minion VII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "IRON_GENERATOR_2",
+        "name": "Iron Minion II",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "IRON_GENERATOR_11",
+        "name": "Iron Minion XI",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "IRON_GENERATOR_12",
+        "name": "Iron Minion XII",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "IRON_GENERATOR_9",
+        "name": "Iron Minion IX",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "IRON_GENERATOR_3",
+        "name": "Iron Minion III",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "IRON_GENERATOR_5",
+        "name": "Iron Minion V",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "IRON_GENERATOR_10",
+        "name": "Iron Minion X",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "IRON_GENERATOR_4",
+        "name": "Iron Minion IV",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "JUNGLE": {
+    "tiers": {
+      "9": {
+        "item_id": "JUNGLE_GENERATOR_9",
+        "name": "Jungle Minion IX",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "JUNGLE_GENERATOR_4",
+        "name": "Jungle Minion IV",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "JUNGLE_GENERATOR_7",
+        "name": "Jungle Minion VII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "JUNGLE_GENERATOR_6",
+        "name": "Jungle Minion VI",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "JUNGLE_GENERATOR_11",
+        "name": "Jungle Minion XI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "JUNGLE_GENERATOR_10",
+        "name": "Jungle Minion X",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "JUNGLE_GENERATOR_1",
+        "name": "Jungle Minion I",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "JUNGLE_GENERATOR_3",
+        "name": "Jungle Minion III",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "JUNGLE_GENERATOR_5",
+        "name": "Jungle Minion V",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "JUNGLE_GENERATOR_8",
+        "name": "Jungle Minion VIII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "JUNGLE_GENERATOR_2",
+        "name": "Jungle Minion II",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "LAPIS": {
+    "tiers": {
+      "9": {
+        "item_id": "LAPIS_GENERATOR_9",
+        "name": "Lapis Minion IX",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "LAPIS_GENERATOR_2",
+        "name": "Lapis Minion II",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "LAPIS_GENERATOR_1",
+        "name": "Lapis Minion I",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "LAPIS_GENERATOR_10",
+        "name": "Lapis Minion X",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "LAPIS_GENERATOR_11",
+        "name": "Lapis Minion XI",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "LAPIS_GENERATOR_3",
+        "name": "Lapis Minion III",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "LAPIS_GENERATOR_8",
+        "name": "Lapis Minion VIII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "LAPIS_GENERATOR_4",
+        "name": "Lapis Minion IV",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "LAPIS_GENERATOR_6",
+        "name": "Lapis Minion VI",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "LAPIS_GENERATOR_12",
+        "name": "Lapis Minion XII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "LAPIS_GENERATOR_5",
+        "name": "Lapis Minion V",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "LAPIS_GENERATOR_7",
+        "name": "Lapis Minion VII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "MAGMA_CUBE": {
+    "tiers": {
+      "9": {
+        "item_id": "MAGMA_CUBE_GENERATOR_9",
+        "name": "Magma Cube Minion IX",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "MAGMA_CUBE_GENERATOR_6",
+        "name": "Magma Cube Minion VI",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "MAGMA_CUBE_GENERATOR_2",
+        "name": "Magma Cube Minion II",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "MAGMA_CUBE_GENERATOR_5",
+        "name": "Magma Cube Minion V",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "MAGMA_CUBE_GENERATOR_8",
+        "name": "Magma Cube Minion VIII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "MAGMA_CUBE_GENERATOR_1",
+        "name": "Magma Cube Minion I",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "MAGMA_CUBE_GENERATOR_12",
+        "name": "Magma Cube Minion XII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "MAGMA_CUBE_GENERATOR_4",
+        "name": "Magma Cube Minion IV",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "MAGMA_CUBE_GENERATOR_11",
+        "name": "Magma Cube Minion XI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "MAGMA_CUBE_GENERATOR_10",
+        "name": "Magma Cube Minion X",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "MAGMA_CUBE_GENERATOR_7",
+        "name": "Magma Cube Minion VII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "MAGMA_CUBE_GENERATOR_3",
+        "name": "Magma Cube Minion III",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "MELON": {
+    "tiers": {
+      "5": {
+        "item_id": "MELON_GENERATOR_5",
+        "name": "Melon Minion V",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "MELON_GENERATOR_9",
+        "name": "Melon Minion IX",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "MELON_GENERATOR_6",
+        "name": "Melon Minion VI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "MELON_GENERATOR_7",
+        "name": "Melon Minion VII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "MELON_GENERATOR_2",
+        "name": "Melon Minion II",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "MELON_GENERATOR_1",
+        "name": "Melon Minion I",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "MELON_GENERATOR_4",
+        "name": "Melon Minion IV",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "MELON_GENERATOR_10",
+        "name": "Melon Minion X",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "MELON_GENERATOR_12",
+        "name": "Melon Minion XII",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "MELON_GENERATOR_8",
+        "name": "Melon Minion VIII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "MELON_GENERATOR_3",
+        "name": "Melon Minion III",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "MELON_GENERATOR_11",
+        "name": "Melon Minion XI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "MITHRIL": {
+    "tiers": {
+      "8": {
+        "item_id": "MITHRIL_GENERATOR_8",
+        "name": "Mithril Minion VIII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "MITHRIL_GENERATOR_5",
+        "name": "Mithril Minion V",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "MITHRIL_GENERATOR_11",
+        "name": "Mithril Minion XI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "MITHRIL_GENERATOR_10",
+        "name": "Mithril Minion X",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "MITHRIL_GENERATOR_1",
+        "name": "Mithril Minion I",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "MITHRIL_GENERATOR_12",
+        "name": "Mithril Minion XII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "MITHRIL_GENERATOR_3",
+        "name": "Mithril Minion III",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "MITHRIL_GENERATOR_2",
+        "name": "Mithril Minion II",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "MITHRIL_GENERATOR_6",
+        "name": "Mithril Minion VI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "MITHRIL_GENERATOR_7",
+        "name": "Mithril Minion VII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "MITHRIL_GENERATOR_4",
+        "name": "Mithril Minion IV",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "MITHRIL_GENERATOR_9",
+        "name": "Mithril Minion IX",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "MUSHROOM": {
+    "tiers": {
+      "9": {
+        "item_id": "MUSHROOM_GENERATOR_9",
+        "name": "Mushroom Minion IX",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "MUSHROOM_GENERATOR_12",
+        "name": "Mushroom Minion XII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "MUSHROOM_GENERATOR_1",
+        "name": "Mushroom Minion I",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "MUSHROOM_GENERATOR_11",
+        "name": "Mushroom Minion XI",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "MUSHROOM_GENERATOR_3",
+        "name": "Mushroom Minion III",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "MUSHROOM_GENERATOR_7",
+        "name": "Mushroom Minion VII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "MUSHROOM_GENERATOR_6",
+        "name": "Mushroom Minion VI",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "MUSHROOM_GENERATOR_4",
+        "name": "Mushroom Minion IV",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "MUSHROOM_GENERATOR_2",
+        "name": "Mushroom Minion II",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "MUSHROOM_GENERATOR_5",
+        "name": "Mushroom Minion V",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "MUSHROOM_GENERATOR_8",
+        "name": "Mushroom Minion VIII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "MUSHROOM_GENERATOR_10",
+        "name": "Mushroom Minion X",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "MYCELIUM": {
+    "tiers": {
+      "12": {
+        "item_id": "MYCELIUM_GENERATOR_12",
+        "name": "Mycelium Minion XII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "MYCELIUM_GENERATOR_3",
+        "name": "Mycelium Minion III",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "MYCELIUM_GENERATOR_1",
+        "name": "Mycelium Minion I",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "MYCELIUM_GENERATOR_6",
+        "name": "Mycelium Minion VI",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "MYCELIUM_GENERATOR_4",
+        "name": "Mycelium Minion IV",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "MYCELIUM_GENERATOR_10",
+        "name": "Mycelium Minion X",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "MYCELIUM_GENERATOR_7",
+        "name": "Mycelium Minion VII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "MYCELIUM_GENERATOR_11",
+        "name": "Mycelium Minion XI",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "MYCELIUM_GENERATOR_9",
+        "name": "Mycelium Minion IX",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "MYCELIUM_GENERATOR_8",
+        "name": "Mycelium Minion VIII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "MYCELIUM_GENERATOR_2",
+        "name": "Mycelium Minion II",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "MYCELIUM_GENERATOR_5",
+        "name": "Mycelium Minion V",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "NETHER_WARTS": {
+    "tiers": {
+      "10": {
+        "item_id": "NETHER_WARTS_GENERATOR_10",
+        "name": "Nether Wart Minion X",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "NETHER_WARTS_GENERATOR_7",
+        "name": "Nether Wart Minion VII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "NETHER_WARTS_GENERATOR_4",
+        "name": "Nether Wart Minion IV",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "NETHER_WARTS_GENERATOR_2",
+        "name": "Nether Wart Minion II",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "NETHER_WARTS_GENERATOR_3",
+        "name": "Nether Wart Minion III",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "NETHER_WARTS_GENERATOR_9",
+        "name": "Nether Wart Minion IX",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "NETHER_WARTS_GENERATOR_1",
+        "name": "Nether Wart Minion I",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "NETHER_WARTS_GENERATOR_5",
+        "name": "Nether Wart Minion V",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "NETHER_WARTS_GENERATOR_11",
+        "name": "Nether Wart Minion XI",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "NETHER_WARTS_GENERATOR_8",
+        "name": "Nether Wart Minion VIII",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "NETHER_WARTS_GENERATOR_12",
+        "name": "Nether Wart Minion XII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "NETHER_WARTS_GENERATOR_6",
+        "name": "Nether Wart Minion VI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "OAK": {
+    "tiers": {
+      "11": {
+        "item_id": "OAK_GENERATOR_11",
+        "name": "Oak Minion XI",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "OAK_GENERATOR_8",
+        "name": "Oak Minion VIII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "OAK_GENERATOR_5",
+        "name": "Oak Minion V",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "OAK_GENERATOR_4",
+        "name": "Oak Minion IV",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "OAK_GENERATOR_10",
+        "name": "Oak Minion X",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "OAK_GENERATOR_7",
+        "name": "Oak Minion VII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "OAK_GENERATOR_3",
+        "name": "Oak Minion III",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "OAK_GENERATOR_9",
+        "name": "Oak Minion IX",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "OAK_GENERATOR_2",
+        "name": "Oak Minion II",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "OAK_GENERATOR_6",
+        "name": "Oak Minion VI",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "OAK_GENERATOR_1",
+        "name": "Oak Minion I",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "OBSIDIAN": {
+    "tiers": {
+      "2": {
+        "item_id": "OBSIDIAN_GENERATOR_2",
+        "name": "Obsidian Minion II",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "OBSIDIAN_GENERATOR_5",
+        "name": "Obsidian Minion V",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "OBSIDIAN_GENERATOR_3",
+        "name": "Obsidian Minion III",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "OBSIDIAN_GENERATOR_1",
+        "name": "Obsidian Minion I",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "OBSIDIAN_GENERATOR_6",
+        "name": "Obsidian Minion VI",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "OBSIDIAN_GENERATOR_4",
+        "name": "Obsidian Minion IV",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "OBSIDIAN_GENERATOR_11",
+        "name": "Obsidian Minion XI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "OBSIDIAN_GENERATOR_7",
+        "name": "Obsidian Minion VII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "OBSIDIAN_GENERATOR_10",
+        "name": "Obsidian Minion X",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "OBSIDIAN_GENERATOR_8",
+        "name": "Obsidian Minion VIII",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "OBSIDIAN_GENERATOR_9",
+        "name": "Obsidian Minion IX",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "OBSIDIAN_GENERATOR_12",
+        "name": "Obsidian Minion XII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "PIG": {
+    "tiers": {
+      "10": {
+        "item_id": "PIG_GENERATOR_10",
+        "name": "Pig Minion X",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "PIG_GENERATOR_1",
+        "name": "Pig Minion I",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "PIG_GENERATOR_9",
+        "name": "Pig Minion IX",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "PIG_GENERATOR_3",
+        "name": "Pig Minion III",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "PIG_GENERATOR_8",
+        "name": "Pig Minion VIII",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "PIG_GENERATOR_12",
+        "name": "Pig Minion XII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "PIG_GENERATOR_11",
+        "name": "Pig Minion XI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "PIG_GENERATOR_7",
+        "name": "Pig Minion VII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "PIG_GENERATOR_6",
+        "name": "Pig Minion VI",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "PIG_GENERATOR_2",
+        "name": "Pig Minion II",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "PIG_GENERATOR_4",
+        "name": "Pig Minion IV",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "PIG_GENERATOR_5",
+        "name": "Pig Minion V",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "POTATO": {
+    "tiers": {
+      "3": {
+        "item_id": "POTATO_GENERATOR_3",
+        "name": "Potato Minion III",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "POTATO_GENERATOR_9",
+        "name": "Potato Minion IX",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "POTATO_GENERATOR_8",
+        "name": "Potato Minion VIII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "POTATO_GENERATOR_10",
+        "name": "Potato Minion X",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "POTATO_GENERATOR_12",
+        "name": "Potato Minion XII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "POTATO_GENERATOR_2",
+        "name": "Potato Minion II",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "POTATO_GENERATOR_6",
+        "name": "Potato Minion VI",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "POTATO_GENERATOR_1",
+        "name": "Potato Minion I",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "POTATO_GENERATOR_4",
+        "name": "Potato Minion IV",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "POTATO_GENERATOR_11",
+        "name": "Potato Minion XI",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "POTATO_GENERATOR_5",
+        "name": "Potato Minion V",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "POTATO_GENERATOR_7",
+        "name": "Potato Minion VII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "PUMPKIN": {
+    "tiers": {
+      "11": {
+        "item_id": "PUMPKIN_GENERATOR_11",
+        "name": "Pumpkin Minion XI",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "PUMPKIN_GENERATOR_9",
+        "name": "Pumpkin Minion IX",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "PUMPKIN_GENERATOR_3",
+        "name": "Pumpkin Minion III",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "PUMPKIN_GENERATOR_6",
+        "name": "Pumpkin Minion VI",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "PUMPKIN_GENERATOR_7",
+        "name": "Pumpkin Minion VII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "PUMPKIN_GENERATOR_2",
+        "name": "Pumpkin Minion II",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "PUMPKIN_GENERATOR_1",
+        "name": "Pumpkin Minion I",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "PUMPKIN_GENERATOR_4",
+        "name": "Pumpkin Minion IV",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "PUMPKIN_GENERATOR_5",
+        "name": "Pumpkin Minion V",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "PUMPKIN_GENERATOR_8",
+        "name": "Pumpkin Minion VIII",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "PUMPKIN_GENERATOR_12",
+        "name": "Pumpkin Minion XII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "PUMPKIN_GENERATOR_10",
+        "name": "Pumpkin Minion X",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "QUARTZ": {
+    "tiers": {
+      "1": {
+        "item_id": "QUARTZ_GENERATOR_1",
+        "name": "Quartz Minion I",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "QUARTZ_GENERATOR_11",
+        "name": "Quartz Minion XI",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "QUARTZ_GENERATOR_2",
+        "name": "Quartz Minion II",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "QUARTZ_GENERATOR_12",
+        "name": "Quartz Minion XII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "QUARTZ_GENERATOR_3",
+        "name": "Quartz Minion III",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "QUARTZ_GENERATOR_5",
+        "name": "Quartz Minion V",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "QUARTZ_GENERATOR_9",
+        "name": "Quartz Minion IX",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "QUARTZ_GENERATOR_10",
+        "name": "Quartz Minion X",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "QUARTZ_GENERATOR_8",
+        "name": "Quartz Minion VIII",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "QUARTZ_GENERATOR_7",
+        "name": "Quartz Minion VII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "QUARTZ_GENERATOR_6",
+        "name": "Quartz Minion VI",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "QUARTZ_GENERATOR_4",
+        "name": "Quartz Minion IV",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "RABBIT": {
+    "tiers": {
+      "2": {
+        "item_id": "RABBIT_GENERATOR_2",
+        "name": "Rabbit Minion II",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "RABBIT_GENERATOR_11",
+        "name": "Rabbit Minion XI",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "RABBIT_GENERATOR_5",
+        "name": "Rabbit Minion V",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "RABBIT_GENERATOR_1",
+        "name": "Rabbit Minion I",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "RABBIT_GENERATOR_6",
+        "name": "Rabbit Minion VI",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "RABBIT_GENERATOR_4",
+        "name": "Rabbit Minion IV",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "RABBIT_GENERATOR_8",
+        "name": "Rabbit Minion VIII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "RABBIT_GENERATOR_10",
+        "name": "Rabbit Minion X",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "RABBIT_GENERATOR_3",
+        "name": "Rabbit Minion III",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "RABBIT_GENERATOR_7",
+        "name": "Rabbit Minion VII",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "RABBIT_GENERATOR_12",
+        "name": "Rabbit Minion XII",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "RABBIT_GENERATOR_9",
+        "name": "Rabbit Minion IX",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "REDSTONE": {
+    "tiers": {
+      "8": {
+        "item_id": "REDSTONE_GENERATOR_8",
+        "name": "Redstone Minion VIII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "REDSTONE_GENERATOR_11",
+        "name": "Redstone Minion XI",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "REDSTONE_GENERATOR_3",
+        "name": "Redstone Minion III",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "REDSTONE_GENERATOR_7",
+        "name": "Redstone Minion VII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "REDSTONE_GENERATOR_1",
+        "name": "Redstone Minion I",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "REDSTONE_GENERATOR_5",
+        "name": "Redstone Minion V",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "REDSTONE_GENERATOR_6",
+        "name": "Redstone Minion VI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "REDSTONE_GENERATOR_10",
+        "name": "Redstone Minion X",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "REDSTONE_GENERATOR_9",
+        "name": "Redstone Minion IX",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "REDSTONE_GENERATOR_4",
+        "name": "Redstone Minion IV",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "REDSTONE_GENERATOR_12",
+        "name": "Redstone Minion XII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "REDSTONE_GENERATOR_2",
+        "name": "Redstone Minion II",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "RED_SAND": {
+    "tiers": {
+      "12": {
+        "item_id": "RED_SAND_GENERATOR_12",
+        "name": "Red Sand Minion XII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "RED_SAND_GENERATOR_3",
+        "name": "Red Sand Minion III",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "RED_SAND_GENERATOR_2",
+        "name": "Red Sand Minion II",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "RED_SAND_GENERATOR_11",
+        "name": "Red Sand Minion XI",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "RED_SAND_GENERATOR_9",
+        "name": "Red Sand Minion IX",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "RED_SAND_GENERATOR_5",
+        "name": "Red Sand Minion V",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "RED_SAND_GENERATOR_4",
+        "name": "Red Sand Minion IV",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "RED_SAND_GENERATOR_8",
+        "name": "Red Sand Minion VIII",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "RED_SAND_GENERATOR_7",
+        "name": "Red Sand Minion VII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "RED_SAND_GENERATOR_1",
+        "name": "Red Sand Minion I",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "RED_SAND_GENERATOR_10",
+        "name": "Red Sand Minion X",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "RED_SAND_GENERATOR_6",
+        "name": "Red Sand Minion VI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "REVENANT": {
+    "tiers": {
+      "7": {
+        "item_id": "REVENANT_GENERATOR_7",
+        "name": "Revenant Minion VII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "REVENANT_GENERATOR_2",
+        "name": "Revenant Minion II",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "REVENANT_GENERATOR_12",
+        "name": "Revenant Minion XII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "REVENANT_GENERATOR_1",
+        "name": "Revenant Minion I",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "REVENANT_GENERATOR_11",
+        "name": "Revenant Minion XI",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "REVENANT_GENERATOR_4",
+        "name": "Revenant Minion IV",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "REVENANT_GENERATOR_9",
+        "name": "Revenant Minion IX",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "REVENANT_GENERATOR_8",
+        "name": "Revenant Minion VIII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "REVENANT_GENERATOR_5",
+        "name": "Revenant Minion V",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "REVENANT_GENERATOR_3",
+        "name": "Revenant Minion III",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "REVENANT_GENERATOR_6",
+        "name": "Revenant Minion VI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "REVENANT_GENERATOR_10",
+        "name": "Revenant Minion X",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "SAND": {
+    "tiers": {
+      "3": {
+        "item_id": "SAND_GENERATOR_3",
+        "name": "Sand Minion III",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "SAND_GENERATOR_9",
+        "name": "Sand Minion IX",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "SAND_GENERATOR_10",
+        "name": "Sand Minion X",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "SAND_GENERATOR_2",
+        "name": "Sand Minion II",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "SAND_GENERATOR_1",
+        "name": "Sand Minion I",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "SAND_GENERATOR_7",
+        "name": "Sand Minion VII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "SAND_GENERATOR_6",
+        "name": "Sand Minion VI",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "SAND_GENERATOR_4",
+        "name": "Sand Minion IV",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "SAND_GENERATOR_8",
+        "name": "Sand Minion VIII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "SAND_GENERATOR_5",
+        "name": "Sand Minion V",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "SAND_GENERATOR_11",
+        "name": "Sand Minion XI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "SHEEP": {
+    "tiers": {
+      "1": {
+        "item_id": "SHEEP_GENERATOR_1",
+        "name": "Sheep Minion I",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "SHEEP_GENERATOR_3",
+        "name": "Sheep Minion III",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "SHEEP_GENERATOR_5",
+        "name": "Sheep Minion V",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "SHEEP_GENERATOR_10",
+        "name": "Sheep Minion X",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "SHEEP_GENERATOR_7",
+        "name": "Sheep Minion VII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "SHEEP_GENERATOR_4",
+        "name": "Sheep Minion IV",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "SHEEP_GENERATOR_2",
+        "name": "Sheep Minion II",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "SHEEP_GENERATOR_9",
+        "name": "Sheep Minion IX",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "SHEEP_GENERATOR_6",
+        "name": "Sheep Minion VI",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "SHEEP_GENERATOR_11",
+        "name": "Sheep Minion XI",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "SHEEP_GENERATOR_8",
+        "name": "Sheep Minion VIII",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "SHEEP_GENERATOR_12",
+        "name": "Sheep Minion XII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "SKELETON": {
+    "tiers": {
+      "3": {
+        "item_id": "SKELETON_GENERATOR_3",
+        "name": "Skeleton Minion III",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "SKELETON_GENERATOR_2",
+        "name": "Skeleton Minion II",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "SKELETON_GENERATOR_4",
+        "name": "Skeleton Minion IV",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "SKELETON_GENERATOR_6",
+        "name": "Skeleton Minion VI",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "SKELETON_GENERATOR_5",
+        "name": "Skeleton Minion V",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "SKELETON_GENERATOR_1",
+        "name": "Skeleton Minion I",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "SKELETON_GENERATOR_10",
+        "name": "Skeleton Minion X",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "SKELETON_GENERATOR_8",
+        "name": "Skeleton Minion VIII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "SKELETON_GENERATOR_11",
+        "name": "Skeleton Minion XI",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "SKELETON_GENERATOR_9",
+        "name": "Skeleton Minion IX",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "SKELETON_GENERATOR_7",
+        "name": "Skeleton Minion VII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "SLIME": {
+    "tiers": {
+      "6": {
+        "item_id": "SLIME_GENERATOR_6",
+        "name": "Slime Minion VI",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "SLIME_GENERATOR_2",
+        "name": "Slime Minion II",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "SLIME_GENERATOR_1",
+        "name": "Slime Minion I",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "SLIME_GENERATOR_10",
+        "name": "Slime Minion X",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "SLIME_GENERATOR_8",
+        "name": "Slime Minion VIII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "SLIME_GENERATOR_11",
+        "name": "Slime Minion XI",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "SLIME_GENERATOR_5",
+        "name": "Slime Minion V",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "SLIME_GENERATOR_9",
+        "name": "Slime Minion IX",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "SLIME_GENERATOR_7",
+        "name": "Slime Minion VII",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "SLIME_GENERATOR_4",
+        "name": "Slime Minion IV",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "SLIME_GENERATOR_3",
+        "name": "Slime Minion III",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "SNOW": {
+    "tiers": {
+      "9": {
+        "item_id": "SNOW_GENERATOR_9",
+        "name": "Snow Minion IX",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "SNOW_GENERATOR_12",
+        "name": "Snow Minion XII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "SNOW_GENERATOR_6",
+        "name": "Snow Minion VI",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "SNOW_GENERATOR_5",
+        "name": "Snow Minion V",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "SNOW_GENERATOR_3",
+        "name": "Snow Minion III",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "SNOW_GENERATOR_8",
+        "name": "Snow Minion VIII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "SNOW_GENERATOR_2",
+        "name": "Snow Minion II",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "SNOW_GENERATOR_7",
+        "name": "Snow Minion VII",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "SNOW_GENERATOR_10",
+        "name": "Snow Minion X",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "SNOW_GENERATOR_11",
+        "name": "Snow Minion XI",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "SNOW_GENERATOR_1",
+        "name": "Snow Minion I",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "SNOW_GENERATOR_4",
+        "name": "Snow Minion IV",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "SPIDER": {
+    "tiers": {
+      "7": {
+        "item_id": "SPIDER_GENERATOR_7",
+        "name": "Spider Minion VII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "SPIDER_GENERATOR_6",
+        "name": "Spider Minion VI",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "SPIDER_GENERATOR_1",
+        "name": "Spider Minion I",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "SPIDER_GENERATOR_2",
+        "name": "Spider Minion II",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "SPIDER_GENERATOR_8",
+        "name": "Spider Minion VIII",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "SPIDER_GENERATOR_3",
+        "name": "Spider Minion III",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "SPIDER_GENERATOR_5",
+        "name": "Spider Minion V",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "SPIDER_GENERATOR_10",
+        "name": "Spider Minion X",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "SPIDER_GENERATOR_9",
+        "name": "Spider Minion IX",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "SPIDER_GENERATOR_11",
+        "name": "Spider Minion XI",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "SPIDER_GENERATOR_4",
+        "name": "Spider Minion IV",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "SPRUCE": {
+    "tiers": {
+      "8": {
+        "item_id": "SPRUCE_GENERATOR_8",
+        "name": "Spruce Minion VIII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "SPRUCE_GENERATOR_6",
+        "name": "Spruce Minion VI",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "SPRUCE_GENERATOR_3",
+        "name": "Spruce Minion III",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "SPRUCE_GENERATOR_2",
+        "name": "Spruce Minion II",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "SPRUCE_GENERATOR_7",
+        "name": "Spruce Minion VII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "SPRUCE_GENERATOR_1",
+        "name": "Spruce Minion I",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "SPRUCE_GENERATOR_11",
+        "name": "Spruce Minion XI",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "SPRUCE_GENERATOR_4",
+        "name": "Spruce Minion IV",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "SPRUCE_GENERATOR_5",
+        "name": "Spruce Minion V",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "SPRUCE_GENERATOR_10",
+        "name": "Spruce Minion X",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "SPRUCE_GENERATOR_9",
+        "name": "Spruce Minion IX",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "SUGAR_CANE": {
+    "tiers": {
+      "9": {
+        "item_id": "SUGAR_CANE_GENERATOR_9",
+        "name": "Sugar Cane Minion IX",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "SUGAR_CANE_GENERATOR_5",
+        "name": "Sugar Cane Minion V",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "SUGAR_CANE_GENERATOR_1",
+        "name": "Sugar Cane Minion I",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "SUGAR_CANE_GENERATOR_12",
+        "name": "Sugar Cane Minion XII",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "SUGAR_CANE_GENERATOR_6",
+        "name": "Sugar Cane Minion VI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "SUGAR_CANE_GENERATOR_10",
+        "name": "Sugar Cane Minion X",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "SUGAR_CANE_GENERATOR_4",
+        "name": "Sugar Cane Minion IV",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "SUGAR_CANE_GENERATOR_7",
+        "name": "Sugar Cane Minion VII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "SUGAR_CANE_GENERATOR_11",
+        "name": "Sugar Cane Minion XI",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "SUGAR_CANE_GENERATOR_3",
+        "name": "Sugar Cane Minion III",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "SUGAR_CANE_GENERATOR_2",
+        "name": "Sugar Cane Minion II",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "SUGAR_CANE_GENERATOR_8",
+        "name": "Sugar Cane Minion VIII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "SUNFLOWER": {
+    "tiers": {
+      "4": {
+        "item_id": "SUNFLOWER_GENERATOR_4",
+        "name": "Sunflower Minion IV",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "SUNFLOWER_GENERATOR_5",
+        "name": "Sunflower Minion V",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "SUNFLOWER_GENERATOR_3",
+        "name": "Sunflower Minion III",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "SUNFLOWER_GENERATOR_2",
+        "name": "Sunflower Minion II",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "SUNFLOWER_GENERATOR_10",
+        "name": "Sunflower Minion X",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "SUNFLOWER_GENERATOR_6",
+        "name": "Sunflower Minion VI",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "SUNFLOWER_GENERATOR_11",
+        "name": "Sunflower Minion XI",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "SUNFLOWER_GENERATOR_1",
+        "name": "Sunflower Minion I",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "SUNFLOWER_GENERATOR_9",
+        "name": "Sunflower Minion IX",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "SUNFLOWER_GENERATOR_7",
+        "name": "Sunflower Minion VII",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "SUNFLOWER_GENERATOR_12",
+        "name": "Sunflower Minion XII",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "SUNFLOWER_GENERATOR_8",
+        "name": "Sunflower Minion VIII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "TARANTULA": {
+    "tiers": {
+      "3": {
+        "item_id": "TARANTULA_GENERATOR_3",
+        "name": "Tarantula Minion III",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "TARANTULA_GENERATOR_9",
+        "name": "Tarantula Minion IX",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "TARANTULA_GENERATOR_8",
+        "name": "Tarantula Minion VIII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "TARANTULA_GENERATOR_2",
+        "name": "Tarantula Minion II",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "TARANTULA_GENERATOR_11",
+        "name": "Tarantula Minion XI",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "TARANTULA_GENERATOR_12",
+        "name": "Tarantula Minion XII",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "TARANTULA_GENERATOR_1",
+        "name": "Tarantula Minion I",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "TARANTULA_GENERATOR_6",
+        "name": "Tarantula Minion VI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "TARANTULA_GENERATOR_10",
+        "name": "Tarantula Minion X",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "TARANTULA_GENERATOR_7",
+        "name": "Tarantula Minion VII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "TARANTULA_GENERATOR_5",
+        "name": "Tarantula Minion V",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "TARANTULA_GENERATOR_4",
+        "name": "Tarantula Minion IV",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "VAMPIRE": {
+    "tiers": {
+      "2": {
+        "item_id": "VAMPIRE_GENERATOR_2",
+        "name": "Vampire Minion II",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "VAMPIRE_GENERATOR_3",
+        "name": "Vampire Minion III",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "VAMPIRE_GENERATOR_5",
+        "name": "Vampire Minion V",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "VAMPIRE_GENERATOR_11",
+        "name": "Vampire Minion XI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "VAMPIRE_GENERATOR_10",
+        "name": "Vampire Minion X",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "VAMPIRE_GENERATOR_4",
+        "name": "Vampire Minion IV",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "VAMPIRE_GENERATOR_6",
+        "name": "Vampire Minion VI",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "VAMPIRE_GENERATOR_9",
+        "name": "Vampire Minion IX",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "VAMPIRE_GENERATOR_1",
+        "name": "Vampire Minion I",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "VAMPIRE_GENERATOR_8",
+        "name": "Vampire Minion VIII",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "VAMPIRE_GENERATOR_7",
+        "name": "Vampire Minion VII",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "VOIDLING": {
+    "tiers": {
+      "8": {
+        "item_id": "VOIDLING_GENERATOR_8",
+        "name": "Voidling Minion VIII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "VOIDLING_GENERATOR_5",
+        "name": "Voidling Minion V",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "VOIDLING_GENERATOR_4",
+        "name": "Voidling Minion IV",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "VOIDLING_GENERATOR_7",
+        "name": "Voidling Minion VII",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "VOIDLING_GENERATOR_9",
+        "name": "Voidling Minion IX",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "VOIDLING_GENERATOR_6",
+        "name": "Voidling Minion VI",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "VOIDLING_GENERATOR_10",
+        "name": "Voidling Minion X",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "VOIDLING_GENERATOR_11",
+        "name": "Voidling Minion XI",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "VOIDLING_GENERATOR_1",
+        "name": "Voidling Minion I",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "VOIDLING_GENERATOR_2",
+        "name": "Voidling Minion II",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "VOIDLING_GENERATOR_3",
+        "name": "Voidling Minion III",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "WHEAT": {
+    "tiers": {
+      "3": {
+        "item_id": "WHEAT_GENERATOR_3",
+        "name": "Wheat Minion III",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "WHEAT_GENERATOR_10",
+        "name": "Wheat Minion X",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "WHEAT_GENERATOR_4",
+        "name": "Wheat Minion IV",
+        "rarity": "RARE"
+      },
+      "12": {
+        "item_id": "WHEAT_GENERATOR_12",
+        "name": "Wheat Minion XII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "WHEAT_GENERATOR_2",
+        "name": "Wheat Minion II",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "WHEAT_GENERATOR_1",
+        "name": "Wheat Minion I",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "WHEAT_GENERATOR_8",
+        "name": "Wheat Minion VIII",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "WHEAT_GENERATOR_5",
+        "name": "Wheat Minion V",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "WHEAT_GENERATOR_9",
+        "name": "Wheat Minion IX",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "WHEAT_GENERATOR_7",
+        "name": "Wheat Minion VII",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "WHEAT_GENERATOR_11",
+        "name": "Wheat Minion XI",
+        "rarity": "RARE"
+      },
+      "6": {
+        "item_id": "WHEAT_GENERATOR_6",
+        "name": "Wheat Minion VI",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  },
+  "ZOMBIE": {
+    "tiers": {
+      "6": {
+        "item_id": "ZOMBIE_GENERATOR_6",
+        "name": "Zombie Minion VI",
+        "rarity": "RARE"
+      },
+      "8": {
+        "item_id": "ZOMBIE_GENERATOR_8",
+        "name": "Zombie Minion VIII",
+        "rarity": "RARE"
+      },
+      "7": {
+        "item_id": "ZOMBIE_GENERATOR_7",
+        "name": "Zombie Minion VII",
+        "rarity": "RARE"
+      },
+      "2": {
+        "item_id": "ZOMBIE_GENERATOR_2",
+        "name": "Zombie Minion II",
+        "rarity": "RARE"
+      },
+      "3": {
+        "item_id": "ZOMBIE_GENERATOR_3",
+        "name": "Zombie Minion III",
+        "rarity": "RARE"
+      },
+      "9": {
+        "item_id": "ZOMBIE_GENERATOR_9",
+        "name": "Zombie Minion IX",
+        "rarity": "RARE"
+      },
+      "5": {
+        "item_id": "ZOMBIE_GENERATOR_5",
+        "name": "Zombie Minion V",
+        "rarity": "RARE"
+      },
+      "10": {
+        "item_id": "ZOMBIE_GENERATOR_10",
+        "name": "Zombie Minion X",
+        "rarity": "RARE"
+      },
+      "4": {
+        "item_id": "ZOMBIE_GENERATOR_4",
+        "name": "Zombie Minion IV",
+        "rarity": "RARE"
+      },
+      "11": {
+        "item_id": "ZOMBIE_GENERATOR_11",
+        "name": "Zombie Minion XI",
+        "rarity": "RARE"
+      },
+      "1": {
+        "item_id": "ZOMBIE_GENERATOR_1",
+        "name": "Zombie Minion I",
+        "rarity": "RARE"
+      }
+    },
+    "tier11": {
+      "seconds_per_action": 0,
+      "drops": [],
+      "notes": "AUTO from hypixel_items_cache.json: fill drops + seconds manually or via external dataset"
+    }
+  }
+}
