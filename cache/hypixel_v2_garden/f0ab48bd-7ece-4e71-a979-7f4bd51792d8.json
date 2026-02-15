@@ -1,5 +1,5 @@
 {
-  "ts": 1770567789.730863,
+  "ts": 1770634340.2801185,
   "value": {
     "success": true,
     "garden": {
@@ -143,19 +143,19 @@
         "advanced_6"
       ],
       "resources_collected": {
-        "WHEAT": 2229989,
-        "SUGAR_CANE": 489841,
-        "PUMPKIN": 1705176,
-        "MELON": 10206771,
+        "WHEAT": 2231269,
+        "SUGAR_CANE": 496081,
+        "PUMPKIN": 1784216,
+        "MELON": 10224531,
         "POTATO_ITEM": 2523636,
         "CARROT_ITEM": 3019596,
-        "CACTUS": 949481,
-        "INK_SACK:3": 1494962,
-        "MUSHROOM_COLLECTION": 1869264,
+        "CACTUS": 953961,
+        "INK_SACK:3": 1498482,
+        "MUSHROOM_COLLECTION": 1870780,
         "NETHER_STALK": 2746713,
-        "DOUBLE_PLANT": 544238,
-        "MOONFLOWER": 340840,
-        "WILD_ROSE": 891246
+        "DOUBLE_PLANT": 548718,
+        "MOONFLOWER": 345480,
+        "WILD_ROSE": 893166
       },
       "garden_experience": 54094.0,
       "composter_data": {
@@ -164,7 +164,7 @@
         "compost_units": 0,
         "compost_items": 38,
         "conversion_ticks": 250,
-        "last_save": 1770547524481,
+        "last_save": 1770626645027,
         "upgrades": {
           "speed": 1,
           "multi_drop": 1,

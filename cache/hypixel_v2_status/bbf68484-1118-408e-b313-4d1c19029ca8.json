@@ -1,12 +1,12 @@
 {
-  "ts": 1770567790.9275076,
+  "ts": 1770634390.385473,
   "value": {
     "success": true,
     "uuid": "bbf684841118408eb3134d1c19029ca8",
     "session": {
       "online": true,
-      "gameType": "PROTOTYPE",
-      "mode": "LOBBY"
+      "gameType": "SKYBLOCK",
+      "mode": "dynamic"
     }
   }
 }
